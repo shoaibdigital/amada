@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>News & Events</title>
+    <meta name="description" content="description goes here">
+    <link rel="canonical" href="url goes here" />
+
+    <meta property="og:url" content="url goes here" />
+    <meta property="og:title" content="title goes here" />
+    <meta property="og:description" content="description goes here" />
+    <meta property="og:image" content="img url goes here" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@PayUmoney" />
+    <meta name="twitter:title" content="title goes here" />
+    <meta name="twitter:description" content="description goes here" />
+    <meta name="twitter:url" content="url goes here" />
+    <meta name="twitter:image" content="img url goes here" />
+
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+
+</head>
+
+<body>
+    <header>
+        <!-- header start -->
+        <!--#include virtual="view/header.html" -->
+        <!-- header end -->
+    </header>
+
+    <main>
+        <div class="main lyt-content js-bg">
+            <!-- banner start -->
+            <!--#include virtual="view/newsevents-imtex2012-banner.html" -->
+            <!-- banner end -->
+            <div class="bs-breadcrum">
+                <div class="container">
+                    <ul class="list">
+                        <li class="item"><a href="#" class="link">amada</a></li>
+                        <li class="item"><a href="#" class="link">News & Events</a></li>
+                        <li class="item">IMTEX 2012</li>
+                    </ul>
+                </div>
+            </div>
+            <section>
+                <div class="bs-section">
+                    <div class="container">
+                        <div class="bs-blog-detail">
+                            <div class="sec-cont">
+                                <ul class="bs-chain-info">
+                                    <li class="item">
+                                        <div class="bs-img-desc">
+                                            <div class="left-side">
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/news/imtex2012/gallery1.jpg"></div>
+                                                <div class="sec-desc">
+                                                    <p>Dear Customers,</p>
+                                                    <p>Once again, we at Amada are overwhelmed by your response at IMTEX 2012. Thank you for making our participation so special. We sincerely thank all of our visitors for making IMTEX2012 a successful event.
+                                                    </p>
+                                                    <p>We will continue to showcase our latest technology at such premier trade shows. We are in process of building permanent Technical center in Bangalore which will be ready by year 2014.</p>
+                                                    <p>Thank you for choosing Amada products.</p>
+                                                    <p>For your big success</p>
+                                                    <p><strong>Team Amada</strong></p>
+                                                </div>
+                                            </div>
+                                            <div class="right-side">
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/news/imtex2012/gallery1.jpg"></div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="sec-head">
+                                <h2 class="sec-title">Events Details</h2>
+                            </div>
+
+                            <div class="bs-swiper">
+                                <div class="swiper-gallery">
+                                    <div class="swiper-container">
+                                        <div class="swiper-wrapper">
+                                            <div class="swiper-slide">
+                                                <div class="swiper-dual">
+                                                    <div class="swiper-container ">
+                                                        <div class="swiper-wrapper">
+                                                            <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2012/gallery2.jpg">
+                                                                <div class="banner-info mod-count-text">
+                                                                    <div class="text">A warm welcome being given to Mr. Takagi by Amada India staff.
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2012/gallery3.jpg">
+                                                                <div class="banner-info mod-count-text">
+                                                                    <div class="text">Candle lighting by Mr. Takagi – Senior M.D. – Amada Group with Mr. Niraj Seth – V.P. – Amada (India) Pvt. Ltd.
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2012/gallery4.jpg">
+                                                                <div class="banner-info mod-count-text">
+                                                                    <div class="text">Mr. Kuniya Matsumoto – President & CEO – Amada (India) Pvt. Ltd.</div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2012/gallery5.jpg">
+                                                                <div class="banner-info mod-count-text">
+                                                                    <div class="text">Mr. Atsushi Yamaguchi – Executive G.M. - Amada Group</div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="swiper-pagination"></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="swiper-slide">
+                                                <div class="swiper-dual">
+                                                    <div class="swiper-container ">
+                                                        <div class="swiper-wrapper">
+                                                            <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2012/gallery6.jpg">
+                                                                <div class="banner-info mod-count-text">
+                                                                    <div class="text">Introduction about Amada Group & Products exhibited at IMTEX
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2012/gallery7.jpg">
+                                                                <div class="banner-info mod-count-text">
+                                                                    <div class="text">Press Brake demonstration in progress
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2012/gallery8.jpg">
+
+                                                            </div>
+                                                            <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2012/gallery9.jpg">
+
+                                                            </div>
+                                                        </div>
+                                                        <div class="swiper-pagination"></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="swiper-slide">
+                                                <div class="swiper-dual">
+                                                    <div class="swiper-container ">
+                                                        <div class="swiper-wrapper">
+                                                            <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2012/gallery10.jpg">
+                                                                <div class="banner-info mod-count-text">
+                                                                    <div class="text">Explanation of Laser Cutting Machine by Amada Engineers
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2012/gallery11.jpg">
+                                                                <div class="banner-info mod-count-text">
+                                                                    <div class="text">Explanation of Rotary Index Device by Amada Engineers
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2012/gallery12.jpg">
+                                                                <div class="text">Square Tube processing in progress
+                                                                </div>
+                                                            </div>
+                                                            <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2012/gallery13.jpg">
+                                                                <div class="text">Display of Laser Samples
+                                                                </div>
+                                                            </div>
+                                                            <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2012/gallery14.jpg">
+                                                                <div class="text">Display of Laser Samples
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="swiper-pagination"></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="swiper-slide">
+                                                <div class="swiper-dual">
+                                                    <div class="swiper-container ">
+                                                        <div class="swiper-wrapper">
+                                                            <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2012/gallery15.jpg">
+                                                                <div class="banner-info mod-count-text">
+                                                                    <div class="text">Ease of operation - ES3613 demo by an Amada Lady Engineer
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2012/gallery16.jpg">
+                                                                <div class="banner-info mod-count-text">
+                                                                    <div class="text">High accuracy Radius Bending
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2012/gallery17.jpg">
+                                                                <div class="banner-info mod-count-text">
+                                                                    <div class="text">Samples</div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="swiper-pagination"></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="swiper-slide">
+                                                <div class="swiper-dual">
+                                                    <div class="swiper-container ">
+                                                        <div class="swiper-wrapper">
+                                                            <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2012/gallery18.jpg">
+                                                                <div class="banner-info mod-count-text">
+                                                                    <div class="text">Launch of New Punching Machine Automation – AE2510NT + MP2512C1
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2012/gallery19.jpg">
+                                                                <div class="banner-info mod-count-text">
+                                                                    <div class="text">Launch of New Punching Machine Automation – AE2510NT + MP2512C1
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2012/gallery20.jpg">
+                                                                <div class="banner-info mod-count-text">
+                                                                    <div class="text">Launch of New Punching Machine Automation – AE2510NT + MP2512C1</div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2012/gallery21.jpg">
+                                                                <div class="banner-info mod-count-text">
+                                                                    <div class="text">Launch of New Punching Machine Automation – AE2510NT + MP2512C1</div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="swiper-pagination"></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="swiper-slide">
+                                                <div class="swiper-dual">
+                                                    <div class="swiper-container ">
+                                                        <div class="swiper-wrapper">
+                                                            <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2012/gallery22.jpg">
+                                                                <div class="banner-info mod-count-text">
+                                                                    <div class="text">Bending Solution from Amada : RGM2 3512 & HD1703LNT
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2012/gallery23.jpg">
+                                                                <div class="banner-info mod-count-text">
+                                                                    <div class="text">Bending Solution from Amada : RGM2 3512 & HD1703LNT
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2012/gallery24.jpg">
+                                                                <div class="banner-info mod-count-text">
+                                                                    <div class="text">Bending Solution from Amada : RGM2 3512 & HD1703LNT</div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="swiper-pagination"></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+
+                                <div class="swiper-thumbs">
+                                    <div class="swiper-container">
+                                        <div class="swiper-wrapper">
+                                            <div class="swiper-slide">
+                                                <div class="mod-card">
+                                                    <p class="title">Inauguration by Mr. Takagi – M.D. Amada Group</p>
+                                                </div>
+                                            </div>
+                                            <div class="swiper-slide">
+                                                <div class="mod-card">
+                                                    <p class="title">Amada Booth Layout</p>
+                                                </div>
+                                            </div>
+                                            <div class="swiper-slide">
+                                                <div class="mod-card">
+                                                    <p class="title">Launch of New Multipurpose Laser Cutting Machine - FOM II RI 3015</p>
+                                                </div>
+                                            </div>
+                                            <div class="swiper-slide">
+                                                <div class="mod-card">
+                                                    <p class="title">Launch of New AC Servo CNC Press Brake- ES3613</p>
+                                                </div>
+                                            </div>
+                                            <div class="swiper-slide">
+                                                <div class="mod-card">
+                                                    <p class="title">Launch of New Punching Machine Automation – AE2510NT + MP2512C1</p>
+                                                </div>
+                                            </div>
+                                            <div class="swiper-slide">
+                                                <div class="mod-card">
+                                                    <p class="title">Bending Solution from Amada : RGM2 3512 & HD1703LNT</p>
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                        </div>
+
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <!-- footer start -->
+        <!--#include virtual="view/footer.html" -->
+        <!-- footer end -->
+    </footer>
+
+    <!-- popup start -->
+    <!--#include virtual="view/popup.html" -->
+    <!-- popup end -->
+
+    <!-- js group start -->
+
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+
+</body>
+
+</html>

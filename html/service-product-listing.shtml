@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Service Product Listing</title>
+    <meta name="description" content="description goes here">
+    <link rel="canonical" href="url goes here" />
+
+    <meta property="og:url" content="url goes here" />
+    <meta property="og:title" content="title goes here" />
+    <meta property="og:description" content="description goes here" />
+    <meta property="og:image" content="img url goes here" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@PayUmoney" />
+    <meta name="twitter:title" content="title goes here" />
+    <meta name="twitter:description" content="description goes here" />
+    <meta name="twitter:url" content="url goes here" />
+    <meta name="twitter:image" content="img url goes here" />
+
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+
+</head>
+
+<body>
+    <header>
+        <!-- header start -->
+        <!--#include virtual="view/header.html" -->
+        <!-- header end -->
+    </header>
+
+    <main>
+        <div class="main lyt-content js-bg">
+            <!-- banner start -->
+            <!--#include virtual="view/service-product-listing-banner.html" -->
+            <!-- banner end -->
+            <div class="bs-breadcrum">
+                <div class="container">
+                    <ul class="list">
+                        <li class="item"><a href="#" class="link">amada</a></li>
+                        <li class="item">Service Product Listing</li>
+                    </ul>
+                </div>
+            </div>
+            <section>
+                <div class="bs-section">
+                    <div class="container">
+                        <div class="sec-cont">
+                            <div class="bs-event-card">
+                                <ul class="list">
+                                    <li class="item">
+                                        <div class="bs-prod-card">
+                                            <a href="imtex2020detail.shtml" class="prod-link"></a>
+                                            <div class="img-wrap lozad-background" data-background-image="assets/images/pro1.jpg"></div>
+                                            <div class="info-wrap">
+                                                <h3 class="title">IMTEX <span class="cm-line-break">Forming 2020</span></h3>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="item">
+                                        <div class="bs-prod-card">
+                                            <a href="imtexformingevent2018.shtml" class="prod-link"></a>
+                                            <div class="img-wrap lozad-background" data-background-image="assets/images/pro1.jpg"></div>
+                                            <div class="info-wrap">
+                                                <h3 class="title">IMTEX <span class="cm-line-break">Forming 2018</span></h3>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="item">
+                                        <div class="bs-prod-card">
+                                            <a href="imtexformingevent2016.shtml" class="prod-link"></a>
+                                            <div class="img-wrap lozad-background" data-background-image="assets/images/pro1.jpg"></div>
+                                            <div class="info-wrap">
+                                                <h3 class="title">IMTEX <span class="cm-line-break">Forming 2016</span></h3>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="item">
+                                        <div class="bs-prod-card">
+                                            <a href="events-amada-innovation.shtml" class="prod-link"></a>
+                                            <div class="img-wrap lozad-background" data-background-image="assets/images/pro1.jpg"></div>
+                                            <div class="info-wrap">
+                                                <h3 class="title">AMADA Manufacturing <span class="cm-line-break">Innovation Center</span> <span class="cm-line-break">@ PDPM IIITDM-Jabalpur </span></h3>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="item">
+                                        <div class="bs-prod-card">
+                                            <a href="newsevents-imtex2012.shtml" class="prod-link"></a>
+                                            <div class="img-wrap lozad-background" data-background-image="assets/images/pro1.jpg"></div>
+                                            <div class="info-wrap">
+                                                <h3 class="title">Amada at <span class="cm-line-break">Imtex 2012</span></h3>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="item">
+                                        <div class="bs-prod-card">
+                                            <a href="newsevents-openingtrainingcentre.shtml" class="prod-link"></a>
+                                            <div class="img-wrap lozad-background" data-background-image="assets/images/pro1.jpg"></div>
+                                            <div class="info-wrap">
+                                                <h3 class="title">Opening of <span class="cm-line-break">new Training </span><span class="cm-line-break">Center</span></h3>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="item">
+                                        <div class="bs-prod-card">
+                                            <a href="newsevents-imtex2010.shtml" class="prod-link"></a>
+                                            <div class="img-wrap lozad-background" data-background-image="assets/images/pro1.jpg"></div>
+                                            <div class="info-wrap">
+                                                <h3 class="title">Amada at <span class="cm-line-break">Imtex 2010</span></h3>
+                                            </div>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <!-- footer start -->
+        <!--#include virtual="view/footer.html" -->
+        <!-- footer end -->
+    </footer>
+
+    <!-- popup start -->
+    <!--#include virtual="view/popup.html" -->
+    <!-- popup end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+
+</body>
+
+</html>

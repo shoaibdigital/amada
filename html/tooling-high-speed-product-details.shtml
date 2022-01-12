@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Product</title>
+    <meta name="description" content="description goes here">
+    <link rel="canonical" href="url goes here" />
+
+    <meta property="og:url" content="url goes here" />
+    <meta property="og:title" content="title goes here" />
+    <meta property="og:description" content="description goes here" />
+    <meta property="og:image" content="img url goes here" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@PayUmoney" />
+    <meta name="twitter:title" content="title goes here" />
+    <meta name="twitter:description" content="description goes here" />
+    <meta name="twitter:url" content="url goes here" />
+    <meta name="twitter:image" content="img url goes here" />
+
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+
+</head>
+
+<body>
+    <header>
+        <!-- header start -->
+        <!--#include virtual="view/header.html" -->
+        <!-- header end -->
+    </header>
+
+    <main>
+        <div class="main lyt-content js-bg">
+            <div class="bs-breadcrum">
+                <div class="container">
+                    <ul class="list">
+                        <li class="item"><a href="#" class="link">amada</a></li>
+                        <li class="item"><a href="#" class="link">products</a></li>
+                        <li class="item"><a href="#" class="link">Tooling</a></li>
+                        <li class="item">High Speed Marking Tools</li>
+                    </ul>
+                </div>
+            </div>
+            <section>
+                <div class="bs-section">
+                    <div class="container">
+                        <div class="bs-product-detail">
+                            <div class="pd-head">
+                                <ul class="bs-chain-info">
+                                    <li class="item">
+                                        <div class="bs-img-desc">
+                                            <div class="left-side">
+                                                <h2 class="title">High Speed Marking Tools</h2>
+                                                <p class="sub-title">Features & Specification</p>
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/products/tool/tool5.jpg"></div>
+                                                <div class="sec-desc">
+                                                    <ul class="mod-list-circle">
+                                                        <li>Dot marking can be performed on EM/AE by utilizing high speed capacity.</li>
+                                                        <li>AP100 availability enables flexible marking including drawing and letters.</li>
+                                                        <li>Air-blow type enables intensive hit counts.</li>
+                                                    </ul>
+                                                </div>
+                                                <div class="bs-table">
+                                                    <div class="table-wrap">
+                                                        <table class="table" cellpadding="0" cellspacing="0">
+                                                            <tbody>
+                                                                <tr>
+                                                                    <th class="t-title">Tool Type</th>
+                                                                    <td class="t-desc">NCT Long Ast 1/2” Air-blow</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <th class="t-title">Material Thickness</th>
+                                                                    <td class="t-desc">Nonadjustable Type Max. thickness ： 6.0mm</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <th class="t-title">Material</th>
+                                                                    <td class="t-desc">Mild Steel ・ Stainless ・ Aluminum</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <th class="t-title">Form Direction</th>
+                                                                    <td class="t-desc">Downward （Mark on punch side）</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <th class="t-title">Punch Tip</th>
+                                                                    <td class="t-desc">Angle ： 90° / Depth is adjustable.</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <th class="t-title">Auto Program</th>
+                                                                    <td class="t-desc">Applicable to AP100</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td class="t-desc" colspan="2">Reference Hit rate (Stroke=1.4mm Pitch=0.5mm)</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <th class="t-title">EM2510NT</th>
+                                                                    <td class="t-desc">1800 min-1 { hpm }</td>
+                                                                </tr>
+                                                            </tbody>
+                                                        </table>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="right-side">
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/products/tool/tool5.jpg"></div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section>
+                <div class="bs-button">
+                    <div class="container">
+                        <div class="action-wrap">
+                            <a href="#" target="_blank" class="bs-btn btn-icon-link download-btn"><span class="icon icon-download"></span> download brochure</a>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <!-- footer start -->
+        <!--#include virtual="view/footer.html" -->
+        <!-- footer end -->
+    </footer>
+
+    <!-- popup start -->
+    <!--#include virtual="view/popup.html" -->
+    <!-- popup end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+
+</body>
+
+</html>

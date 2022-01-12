@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Product</title>
+    <meta name="description" content="description goes here">
+    <link rel="canonical" href="url goes here" />
+
+    <meta property="og:url" content="url goes here" />
+    <meta property="og:title" content="title goes here" />
+    <meta property="og:description" content="description goes here" />
+    <meta property="og:image" content="img url goes here" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@PayUmoney" />
+    <meta name="twitter:title" content="title goes here" />
+    <meta name="twitter:description" content="description goes here" />
+    <meta name="twitter:url" content="url goes here" />
+    <meta name="twitter:image" content="img url goes here" />
+
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+
+</head>
+
+<body>
+    <header>
+        <!-- header start -->
+        <!--#include virtual="view/header.html" -->
+        <!-- header end -->
+    </header>
+
+    <main>
+        <div class="main lyt-content js-bg">
+            <div class="bs-breadcrum">
+                <div class="container">
+                    <ul class="list">
+                        <li class="item"><a href="#" class="link">amada</a></li>
+                        <li class="item"><a href="#" class="link">products</a></li>
+                        <li class="item"><a href="#" class="link">Punching Machines</a></li>
+                        <li class="item">EM-ZR series</li>
+                    </ul>
+                </div>
+            </div>
+            <section>
+                <div class="bs-section">
+                    <div class="container">
+                        <div class="bs-product-detail">
+                            <div class="pd-head">
+                                <ul class="bs-chain-info">
+                                    <li class="item">
+                                        <div class="bs-img-desc">
+                                            <div class="left-side">
+                                                <h2 class="title">EM-ZR series</h2>
+                                                <p class="sub-title">Fully automatic punching solution machine</p>
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/products/punch/punch1.jpg"></div>
+                                                <div class="sec-desc">
+                                                    <p>Fusion of original technologies to achieve processing with high speed, productivity & grade</p>
+                                                    <p>EM-ZR series comes with the world’s unparalleled drive system, or AC servo direct twin drive and ZR turret, a major innovation since the development of Amada’s first numerically controlled turret punch
+                                                        press. Parts can be produced not only with high speed and productivity but also with less scratches. Further with ID tools and elimination of processing limits, the EM-ZR series can perform high-mix
+                                                        low-volume production continuously over 72 hours.</p>
+                                                </div>
+                                            </div>
+                                            <div class="right-side">
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/products/punch/punch1.jpg"></div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    </li>
+                                </ul>
+                                <div class="bs-features">
+                                    <div class="lyt-features">
+                                        <div class="">
+                                            <h2 class="title">FEATURES</h2>
+                                            <div class="sec-desc">
+                                                <h3 class="sub-title">High Quality & High Speed Processing</h3>
+                                                <ul class="mod-list-circle">
+                                                    <li>High Speed Processing with scratch free bottom surface ZR turret and completely flat table.</li>
+                                                    <li>Easy Programming – No track dead zones, free tool location</li>
+                                                </ul>
+                                                <h3 class="sub-title">Stable High Quality Processing [Digital Quality management with ID tools]</h3>
+                                                <ul class="mod-list-circle">
+                                                    <li>Prevention of tool setup mistakes – ID tools</li>
+                                                    <li>Stabilization of high quality processing – Tool condition management</li>
+                                                    <li>Elimination of shimming time – Automatic die height adjustment</li>
+                                                </ul>
+                                                <h3 class="sub-title">Automation of Tool Setup [Reduction of programming time & machine downtime]</h3>
+                                                <ul class="mod-list-circle">
+                                                    <li>Easy creation of nesting data – High tool storage capacity</li>
+                                                    <li>Reduction of machine downtime – Automatic tool changing system</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="pd-body">
+                                <div class="bs-table">
+                                    <h3 class="title">Specifications</h3>
+                                    <div class="table-wrap">
+                                        <table class="table" cellpadding="0" cellspacing="0">
+                                            <thead>
+                                                <tr>
+                                                    <th class="t-title">Model</th>
+                                                    <th class="t-title">EM-3510ZR T</th>
+                                                    <th class="t-title">EM-3612ZR T</th>
+                                                    <th class="t-title">EM-3510ZR B</th>
+                                                    <th class="t-title">EM-3612ZR B</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td class="t-desc">Press Capacity <span class="cm-bold">kN</span></td>
+                                                    <td class="t-desc" colspan="4">300</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Drive System</td>
+                                                    <td class="t-desc" colspan="4">AC servo direct twin drive</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Turret specifications</td>
+                                                    <td class="t-desc" colspan="4">ZR Turret</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">No. of stations (TSU)</td>
+                                                    <td class="t-desc" colspan="2">179 0r 300 Stations</td>
+                                                    <td class="t-desc" colspan="2">-</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">No. of stations (Buffer)</td>
+                                                    <td class="t-desc">-</td>
+                                                    <td class="t-desc">69 0r 65 0r 75 stations</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Processing Range <span class="cm-bold">mm</span></td>
+                                                    <td class="t-desc">2500 x 1275</td>
+                                                    <td class="t-desc">3050 x 1522</td>
+                                                    <td class="t-desc">2500 x 1275</td>
+                                                    <td class="t-desc">3050 x 1525</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Max. Workpiece thickness <span class="cm-bold">mm</span></td>
+                                                    <td class="t-desc" colspan="4">3.2</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Max. Workpiece mass <span class="cm-bold">kg</span></td>
+                                                    <td class="t-desc"></td>
+                                                    <td class="t-desc"></td>
+                                                    <td class="t-desc"></td>
+                                                    <td class="t-desc"></td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Table feed rate <span class="cm-bold">m/min</span></td>
+                                                    <td class="t-desc"></td>
+                                                    <td class="t-desc"></td>
+                                                    <td class="t-desc"></td>
+                                                    <td class="t-desc"></td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Hit Rate <span class="cm-bold">min-1</span></td>
+                                                    <td class="t-desc" colspan="4">500 (stroke =5mm pitch=25.4mm)
+                                                        <sapn class="cm-line-break">745(stroke=5mm pitch=2.0mm)</sapn>
+                                                        <sapn class="cm-line-break">1850(stroke=1.4mm pitch=0.5mm)</sapn>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Mass of machine <span class="kg">kg</span></td>
+                                                    <td class="t-desc">23500</td>
+                                                    <td class="t-desc">25000</td>
+                                                    <td class="t-desc">20000</td>
+                                                    <td class="t-desc">21500</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+
+                                <div class="bs-table">
+                                    <h3 class="title">Turret Layout</h3>
+                                    <div class="table-wrap">
+                                        <table class="table" cellpadding="0" cellspacing="0">
+                                            <thead>
+                                                <tr>
+                                                    <th class="t-title" colspan="2">Tool Size</th>
+                                                    <th class="t-title">36ST-2AI</th>
+                                                    <th class="t-title">32ST-4AI *w E Range</th>
+                                                    <th class="t-title">32ST-4AJ *w/o E Range</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td class="t-desc">A</td>
+                                                    <td class="t-desc">½ ̎ </td>
+                                                    <td class="t-desc">16(16)</td>
+                                                    <td class="t-desc">14(14)</td>
+                                                    <td class="t-desc">14(14)</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">B</td>
+                                                    <td class="t-desc">1 ¼ ̎</td>
+                                                    <td class="t-desc">10(10)</td>
+                                                    <td class="t-desc">8(8)</td>
+                                                    <td class="t-desc">8(8)</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">C</td>
+                                                    <td class="t-desc">2 ̎</td>
+                                                    <td class="t-desc">2(2)</td>
+                                                    <td class="t-desc">-</td>
+                                                    <td class="t-desc">-</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">D</td>
+                                                    <td class="t-desc">3 ½ ̎ </td>
+                                                    <td class="t-desc">1(1)</td>
+                                                    <td class="t-desc">1(1)</td>
+                                                    <td class="t-desc">2(2)</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">E</td>
+                                                    <td class="t-desc">4 ½ ̎</td>
+                                                    <td class="t-desc">1(1)</td>
+                                                    <td class="t-desc">1(1)</td>
+                                                    <td class="t-desc">-</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">B(TAP)</td>
+                                                    <td class="t-desc">1 ¼ ̎</td>
+                                                    <td class="t-desc">4(4)</td>
+                                                    <td class="t-desc">4(4)</td>
+                                                    <td class="t-desc">4(4)</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">G</td>
+                                                    <td class="t-desc">AI (1 ¼ ̎)</td>
+                                                    <td class="t-desc">2(2)</td>
+                                                    <td class="t-desc">2(2)</td>
+                                                    <td class="t-desc">2(2)</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">H</td>
+                                                    <td class="t-desc">AI (2 ̎)</td>
+                                                    <td class="t-desc">-</td>
+                                                    <td class="t-desc">2(2)</td>
+                                                    <td class="t-desc">2(2)</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc" colspan="2">TOTAL</td>
+                                                    <td class="t-desc">36</td>
+                                                    <td class="t-desc">32</td>
+                                                    <td class="t-desc">32</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section>
+                <div class="bs-button">
+                    <div class="container">
+                        <div class="action-wrap">
+                            <button class="bs-btn btn-icon-link download-btn"><span class="icon icon-download"></span>
+                                    <a href="assets/doc/EM-ZR-Series.pdf" target="_blank">download brochure</a></button>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <!-- footer start -->
+        <!--#include virtual="view/footer.html" -->
+        <!-- footer end -->
+    </footer>
+
+    <!-- popup start -->
+    <!--#include virtual="view/popup.html" -->
+    <!-- popup end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+
+</body>
+
+</html>

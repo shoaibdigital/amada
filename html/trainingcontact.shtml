@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Training Contact</title>
+    <meta name="description" content="description goes here">
+    <link rel="canonical" href="url goes here" />
+
+    <meta property="og:url" content="url goes here" />
+    <meta property="og:title" content="title goes here" />
+    <meta property="og:description" content="description goes here" />
+    <meta property="og:image" content="img url goes here" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@PayUmoney" />
+    <meta name="twitter:title" content="title goes here" />
+    <meta name="twitter:description" content="description goes here" />
+    <meta name="twitter:url" content="url goes here" />
+    <meta name="twitter:image" content="img url goes here" />
+
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+
+</head>
+
+<body>
+    <header>
+        <!-- header start -->
+        <!--#include virtual="view/header.html" -->
+        <!-- header end -->
+    </header>
+
+    <main>
+        <div class="main lyt-content js-bg">
+            <!-- banner start -->
+            <!--#include virtual="view/taining-contact-banner.html" -->
+            <!-- banner end -->
+            <div class="bs-breadcrum">
+                <div class="container">
+                    <ul class="list">
+                        <li class="item"><a href="#" class="link">amada</a></li>
+                        <li class="item"><a href="#" class="link">vocational centre</a></li>
+                        <li class="item">Contact</li>
+                    </ul>
+                </div>
+            </div>
+            <section>
+                <div class="bs-section">
+                    <div class="container">
+                        <div class="sec-cont">
+                            <ul class="bs-chain-info typ-img-lg typ-address">
+                                <li class="item">
+                                    <div class="bs-img-desc">
+                                        <div class="left-side">
+                                            <h2 class="title">Amada (India) Pvt. Ltd.</h2>
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/amada-india-m.jpg">
+                                            </div>
+                                            <div class="sec-desc">
+                                                <p>No.60, KIADB Bengaluru Aerospace Park,
+                                                    <span class="cm-line-break">Singahalli Village, Budigere Post, Bangalore,</span>
+                                                    <span class="cm-line-break">North Taluk – 562 129, India.</span>
+                                                    <span class="cm-line-break">Telephone: <a href="tel:918071100286">+91-80-71100286</a></span>
+                                                    <span class="cm-line-break">Web: <a href="www.amadaindia.co.in">www.amadaindia.co.in</a></span>
+                                                    <span class="cm-line-break">Email: <a href="mailto:vcgroup@amadaindia.co.in">vcgroup@amadaindia.co.in</a></span>
+                                                </p>
+                                            </div>
+                                        </div>
+                                        <div class="right-side">
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/amada-india-m.jpg">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section>
+                <div class="bs-section">
+                    <div class="container">
+                        <div class="sec-head">
+                            <h2 class="sec-title">For booking
+                                <span class="cm-line-break">Training Course</span></h2>
+                        </div>
+                        <div class="sec-cont">
+                            <form class="lyt-form">
+                                <div class="bs-form">
+                                    <div class="form-wrap">
+                                        <ul class="row">
+                                            <li class="col-md-12 col-xs-12">
+                                                <div class="form-group">
+                                                    <div class="radio-wrap">
+                                                        <div class="bs-radio">
+                                                            <input type="radio" name="maritalStatus" id="customer" />
+                                                            <label for="customer"><span class="icon icon-radio-uncheck"></span>Customer</label>
+                                                        </div>
+                                                        <div class="bs-radio">
+                                                            <input type="radio" name="maritalStatus" id="individual" />
+                                                            <label for="individual"><span class="icon icon-radio-uncheck"></span>Individual</label>
+                                                        </div>
+                                                        <div class="bs-radio">
+                                                            <input type="radio" name="maritalStatus" id="student" />
+                                                            <label for="student"><span class="icon icon-radio-uncheck"></span>Student</label>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </li>
+                                            <li class="col-md-6 col-xs-12">
+                                                <div class="form-group">
+                                                    <label class="field-label typ-req">Customer Name</label>
+                                                    <input type="text" class="form-control" placeholder="Enter Customer Name" />
+                                                </div>
+                                            </li>
+                                            <li class="col-md-6 col-xs-12">
+                                                <div class="form-group">
+                                                    <label class="field-label typ-req">Email</label>
+                                                    <input type="text" class="form-control" placeholder="Enter Email" />
+                                                </div>
+                                            </li>
+                                            <li class="col-md-6 col-xs-12">
+                                                <div class="form-group">
+                                                    <label class="field-label typ-req">Contact Number</label>
+                                                    <input type="text" class="form-control" placeholder="Enter Contact Number" />
+                                                </div>
+                                            </li>
+                                            <li class="col-md-6 col-xs-12">
+                                                <div class="form-group">
+                                                    <label class="field-label typ-req">Company Name</label>
+                                                    <input type="text" class="form-control" placeholder="Enter Company Name" />
+                                                </div>
+                                            </li>
+                                            <li class="col-md-6 col-xs-12">
+                                                <div class="form-group">
+                                                    <label class="field-label typ-req">City</label>
+                                                    <input type="text" class="form-control" placeholder="Enter City Name" />
+                                                </div>
+                                            </li>
+                                            <li class="col-md-6 col-xs-12">
+                                                <div class="form-group">
+                                                    <label class="field-label typ-req">Training Course Code</label>
+                                                    <!-- <input type="text" class="form-control" placeholder="Enter Training Course Code" /> -->
+                                                    <div class="bs-select">
+                                                        <select id="selectField" class="form-control" placeholder="Enter Training Course Code">
+                                                            <option></option>
+                                                            <option>1</option>
+                                                            <option>2</option>
+                                                            <option>3</option>
+                                                        </select>
+                                                    </div>
+                                                </div>
+                                            </li>
+                                            <li class="col-md-6 col-xs-12">
+                                                <div class="form-group">
+                                                    <label class="field-label">Preferred Date</label>
+                                                    <input type="text" class="form-control" placeholder="DD/MM/YYYY" />
+                                                </div>
+                                            </li>
+                                            <li class="col-md-6 col-xs-12">
+                                                <div class="form-group">
+                                                    <label class="field-label typ-req">Number of Participants</label>
+                                                    <input type="text" class="form-control" placeholder="Enter Number of Participants" />
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                    <div class="form-action">
+                                        <button class="bs-btn btn-default">submit</button>
+                                        <button class="bs-btn btn-icon-link">reset</button>
+                                    </div>
+                                </div>
+                            </form>
+
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <!-- footer start -->
+        <!--#include virtual="view/footer.html" -->
+        <!-- footer end -->
+    </footer>
+
+    <!-- popup start -->
+    <!--#include virtual="view/popup.html" -->
+    <!-- popup end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+
+</body>
+
+</html>

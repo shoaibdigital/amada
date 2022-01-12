@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Product</title>
+    <meta name="description" content="description goes here">
+    <link rel="canonical" href="url goes here" />
+
+    <meta property="og:url" content="url goes here" />
+    <meta property="og:title" content="title goes here" />
+    <meta property="og:description" content="description goes here" />
+    <meta property="og:image" content="img url goes here" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@PayUmoney" />
+    <meta name="twitter:title" content="title goes here" />
+    <meta name="twitter:description" content="description goes here" />
+    <meta name="twitter:url" content="url goes here" />
+    <meta name="twitter:image" content="img url goes here" />
+
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+
+</head>
+
+<body>
+    <header>
+        <!-- header start -->
+        <!--#include virtual="view/header.html" -->
+        <!-- header end -->
+    </header>
+
+    <main>
+        <div class="main lyt-content js-bg">
+            <div class="bs-breadcrum">
+                <div class="container">
+                    <ul class="list">
+                        <li class="item"><a href="#" class="link">amada</a></li>
+                        <li class="item"><a href="#" class="link">products</a></li>
+                        <li class="item"><a href="#" class="link">Press Brake Machines</a></li>
+                        <li class="item">HRB Series</li>
+                    </ul>
+                </div>
+            </div>
+            <section>
+                <div class="bs-section">
+                    <div class="container">
+                        <div class="bs-product-detail">
+                            <div class="pd-head">
+                                <ul class="bs-chain-info">
+                                    <li class="item">
+                                        <div class="bs-img-desc">
+                                            <div class="left-side">
+                                                <h2 class="title">HRB series</h2>
+                                                <p class="sub-title">Retrofittable press brake equipped with hybrid drive system</p>
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/products/press/press4.jpg"></div>
+                                                <div class="sec-desc">
+                                                    <p>Easy to operate
+                                                        <span class="cm-line-break">Next-generation press brake</span>
+                                                    </p>
+                                                    <p>The Next Global Standard Bending Machine HRB Press Brake Series leverages industry-leading bending technology and a variety of production-enhancing features that can be customized to resolve your specific
+                                                        challenges. In addition to providing precise bending results, the new HRB Series is engineered to ensure the utmost in versatility and ease-of- use.</p>
+                                                    <ul class="mod-list">
+                                                        <li class="item">Natural Crowning</li>
+                                                        <li class="item">Higher Longitudinal accuracy by centre bend</li>
+                                                        <li class="item">User-friendly AMNC 3i</li>
+                                                        <li class="item">Easy operation by LITE mode</li>
+                                                        <li class="item">Retrofittable options</li>
+                                                        <li class="item">New AFH tooling-ATC</li>
+                                                        <li class="item">Offline setup for program creation by VPSS3i Bend</li>
+
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                            <div class="right-side">
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/products/press/press4.jpg"></div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="pd-body">
+                                <div class="bs-table">
+                                    <h3 class="title">Specifications</h3>
+                                    <div class="table-wrap">
+                                        <table class="table" cellpadding="0" cellspacing="0">
+                                            <thead>
+                                                <tr>
+                                                    <th class="t-title">Model</th>
+                                                    <th class="t-title">5020</th>
+                                                    <th class="t-title">8025</th>
+                                                    <th class="t-title">1003</th>
+                                                    <th class="t-title">1303</th>
+                                                    <th class="t-title">2204</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td class="t-desc">Press Capacity <span class="cm-bold">kN {ton}</span></td>
+                                                    <td class="t-desc">500 {50}</td>
+                                                    <td class="t-desc">800 {80}</td>
+                                                    <td class="t-desc">1000 {100}</td>
+                                                    <td class="t-desc">1300 {130}</td>
+                                                    <td class="t-desc">2200 {220}</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Table Length <span class="cm-bold">mm</span></td>
+                                                    <td class="t-desc">2150</td>
+                                                    <td class="t-desc">2600</td>
+                                                    <td class="t-desc">3110</td>
+                                                    <td class="t-desc">3110</td>
+                                                    <td class="t-desc">4300</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Frame Gap <span class="cm-bold">mm</span></td>
+                                                    <td class="t-desc" colspan="5">450</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Open Height <span class="cm-bold">mm</span></td>
+                                                    <td class="t-desc" colspan="5">520</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Stroke Length <span>mm</span></td>
+                                                    <td class="t-desc" colspan="5">250</td>
+                                                </tr>
+                                                <tr>
+                                                    <th class="t-title text-center" colspan="6">MAX Speed</th>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Approach Speed <span class="cm-bold">mm/sec</span></td>
+                                                    <td class="t-desc" colspan="4">150</td>
+                                                    <td class="t-desc">120</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Bend Speed <span class="cm-bold">mm/sec</span></td>
+                                                    <td class="t-desc" colspan="4">15</td>
+                                                    <td class="t-desc">12</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Return Speed <span class="cm-bold">mm/sec</span></td>
+                                                    <td class="t-desc" colspan="4">150</td>
+                                                    <td class="t-desc">120</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section>
+                <div class="bs-button">
+                    <div class="container">
+                        <div class="action-wrap">
+                            <button class="bs-btn btn-icon-link download-btn"><span class="icon icon-download"></span>
+                                    <a href="assets/doc/HRB-SERIES.pdf" target="_blank">download brochure</a></button>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <!-- footer start -->
+        <!--#include virtual="view/footer.html" -->
+        <!-- footer end -->
+    </footer>
+
+    <!-- popup start -->
+    <!--#include virtual="view/popup.html" -->
+    <!-- popup end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+
+</body>
+
+</html>

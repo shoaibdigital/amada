@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Product</title>
+    <meta name="description" content="description goes here">
+    <link rel="canonical" href="url goes here" />
+
+    <meta property="og:url" content="url goes here" />
+    <meta property="og:title" content="title goes here" />
+    <meta property="og:description" content="description goes here" />
+    <meta property="og:image" content="img url goes here" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@PayUmoney" />
+    <meta name="twitter:title" content="title goes here" />
+    <meta name="twitter:description" content="description goes here" />
+    <meta name="twitter:url" content="url goes here" />
+    <meta name="twitter:image" content="img url goes here" />
+
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+
+</head>
+
+<body>
+    <header>
+        <!-- header start -->
+        <!--#include virtual="view/header.html" -->
+        <!-- header end -->
+    </header>
+
+    <main>
+        <div class="main lyt-content js-bg">
+            <div class="bs-breadcrum">
+                <div class="container">
+                    <ul class="list">
+                        <li class="item"><a href="#" class="link">amada</a></li>
+                        <li class="item"><a href="#" class="link">products</a></li>
+                        <li class="item"><a href="#" class="link">Punching Machines</a></li>
+                        <li class="item">EM-MII series</li>
+                    </ul>
+                </div>
+            </div>
+            <section>
+                <div class="bs-section">
+                    <div class="container">
+                        <div class="bs-product-detail">
+                            <div class="pd-head">
+                                <ul class="bs-chain-info">
+                                    <li class="item">
+                                        <div class="bs-img-desc">
+                                            <div class="left-side">
+                                                <h2 class="title">EM-MII series</h2>
+                                                <p class="sub-title">New AC servo direct twin drive NCT</p>
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/products/punch/punch2.jpg"></div>
+                                                <div class="sec-desc">
+                                                    <p>Further evolution of best seller machine. Setup time reduction and process integration.</p>
+                                                    <p>New technologies are added to the EM-NT series with the world's unparalleled AC servo direct twin drive system. The result is faster, more productive, and higher-grade sheet metal fabrication.</p>
+                                                    <p>An ID tool system and an MPT tapping unit are installed to drastically reduce the setup time and achieve blanking process integration.</p>
+                                                </div>
+                                            </div>
+                                            <div class="right-side">
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/products/punch/punch2.jpg"></div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    </li>
+                                </ul>
+                                <div class="bs-features">
+                                    <div class="lyt-features">
+                                        <div class="">
+                                            <h2 class="title">FEATURES</h2>
+                                            <div class="sec-desc">
+                                                <h3 class="sub-title">Achievement of stable high speed processing</h3>
+                                                <ul class="mod-list-circle">
+                                                    <li>Process Range Expansion – Punching of 5’ by 10’ sheets without repositioning.</li>
+                                                    <li>Simple & effective mechanism AC servo direct twin drive NCT</li>
+                                                    <li>Tough and stiff frame structure – Highly rigid bridge frame</li>
+                                                </ul>
+                                                <h3 class="sub-title">Achievement of high quality processing constantly</h3>
+                                                <p>[ID tool for Digital Management in Quality]</p>
+                                                <ul class="mod-list-circle">
+                                                    <li>Prevention of tool installation errors – ID Monitor</li>
+                                                    <li>Tool by digital managements – ID Tools</li>
+                                                </ul>
+                                                <h3 class="sub-title">Achievement of process integration</h3>
+                                                <p>[Labour and time consuming deburring is automated and speeded up]</p>
+                                                <ul class="mod-list-circle">
+                                                    <li>High Speed and High Productivity – Tapping</li>
+                                                    <li>Secondary operations are remarkably being efficient – High Speed Marking</li>
+                                                    <li>Deburring work can be done automatically at high speed – High Speed Deburring.</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="pd-body">
+                                <div class="bs-table">
+                                    <h3 class="title">Specifications</h3>
+                                    <div class="table-wrap">
+                                        <table class="table" cellpadding="0" cellspacing="0">
+                                            <thead>
+                                                <tr>
+                                                    <th class="t-title">Model</th>
+                                                    <th class="t-title">EM-2510M II</th>
+                                                    <th class="t-title">EM-2612M II</th>
+                                                    <th class="t-title">EMZ-3510M II</th>
+                                                    <th class="t-title">EMZ-3612M II</th>
+                                                    <th class="t-title">EMK-3510M II</th>
+                                                    <th class="t-title">EMK-3612M II</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td class="t-desc">Press Capacity <span class="cm-bold">kN {ton}</span></td>
+                                                    <td class="t-desc" colspan="2">200 {20}</td>
+                                                    <td class="t-desc" colspan="4">300 {30}</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Drive Method</td>
+                                                    <td class="t-desc" colspan="4">AC Servo direct twin drive</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Processing Range <span class="cm-bold">mm</span></td>
+                                                    <td class="t-desc">2500x1270</td>
+                                                    <td class="t-desc">3050x1525</td>
+                                                    <td class="t-desc">2500x1270</td>
+                                                    <td class="t-desc">3050x1525</td>
+                                                    <td class="t-desc">2500x1270</td>
+                                                    <td class="t-desc">3050x1525</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Max. material thickness <span class="cm-bold">mm</span></td>
+                                                    <td class="t-desc" colspan="6">3.2(mild steel)</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc t-highlight">Hit Rate <span>min-1</span></td>
+                                                    <td class="t-desc t-highlight" colspan="3">515 (stroke=5mm , pitch=25.4mm)</td>
+                                                    <td class="t-desc t-highlight" colspan="3">530 (stroke=5mm , pitch=25.4mm)</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Processing Accuracy <span class="cm-bold">mm</span></td>
+                                                    <td class="t-desc" colspan="6">± 0.1 (Manufacturer's standard tolerance)</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Mass of Machine <span class="cm-bold">kg</span></td>
+                                                    <td class="t-desc">17000</td>
+                                                    <td class="t-desc">19000</td>
+                                                    <td class="t-desc">18500</td>
+                                                    <td class="t-desc">20500</td>
+                                                    <td class="t-desc">19000</td>
+                                                    <td class="t-desc">21000</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+
+                                <div class="bs-table">
+                                    <h3 class="title">Turret Layout</h3>
+                                    <div class="table-wrap">
+                                        <table class="table" cellpadding="0" cellspacing="0">
+                                            <thead>
+                                                <tr>
+                                                    <th class="t-title" colspan="2" rowspan="3">Tooling Size</th>
+                                                    <th class="t-title" colspan="4">Same diameter turret</th>
+                                                    <th class="t-title" colspan="4">Z turret</th>
+                                                </tr>
+                                                <tr>
+                                                    <th class="t-title" colspan="2">2 Auto index</th>
+                                                    <th class="t-title" colspan="2">4 Auto index</th>
+                                                    <th class="t-title" colspan="2">2 Auto index</th>
+                                                    <th class="t-title" colspan="2">4 Auto index</th>
+                                                </tr>
+                                                <tr>
+                                                    <th class="t-title">With tapping</th>
+                                                    <th class="t-title">Without tapping</th>
+                                                    <th class="t-title">With tapping</th>
+                                                    <th class="t-title">Without tapping</th>
+                                                    <th class="t-title">With tapping</th>
+                                                    <th class="t-title">Without tapping</th>
+                                                    <th class="t-title">With tapping</th>
+                                                    <th class="t-title">Without tapping</th>
+
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td class="t-desc">A</td>
+                                                    <td class="t-desc">½ ̎ </td>
+                                                    <td class="t-desc">24</td>
+                                                    <td class="t-desc">36</td>
+                                                    <td class="t-desc">24</td>
+                                                    <td class="t-desc">24</td>
+                                                    <td class="t-desc">30</td>
+                                                    <td class="t-desc">36</td>
+                                                    <td class="t-desc">24</td>
+                                                    <td class="t-desc">24</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">B</td>
+                                                    <td class="t-desc">1 ¼ ̎</td>
+                                                    <td class="t-desc">16(4MPT)</td>
+                                                    <td class="t-desc">12</td>
+                                                    <td class="t-desc">12(4MPT)</td>
+                                                    <td class="t-desc">12</td>
+                                                    <td class="t-desc">14(4MPT)</td>
+                                                    <td class="t-desc">12</td>
+                                                    <td class="t-desc">12(4MPT)</td>
+                                                    <td class="t-desc">12</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">C</td>
+                                                    <td class="t-desc">2 ̎</td>
+                                                    <td class="t-desc">3</td>
+                                                    <td class="t-desc">4</td>
+                                                    <td class="t-desc">1</td>
+                                                    <td class="t-desc">2</td>
+                                                    <td class="t-desc">3</td>
+                                                    <td class="t-desc">4</td>
+                                                    <td class="t-desc">1</td>
+                                                    <td class="t-desc">2</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">D</td>
+                                                    <td class="t-desc">3 ½ ̎ </td>
+                                                    <td class="t-desc">2</td>
+                                                    <td class="t-desc">2</td>
+                                                    <td class="t-desc">1</td>
+                                                    <td class="t-desc">1</td>
+                                                    <td class="t-desc">2</td>
+                                                    <td class="t-desc">2</td>
+                                                    <td class="t-desc">1</td>
+                                                    <td class="t-desc">1</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">E</td>
+                                                    <td class="t-desc">4 ½ ̎</td>
+                                                    <td class="t-desc">2</td>
+                                                    <td class="t-desc">2</td>
+                                                    <td class="t-desc">2</td>
+                                                    <td class="t-desc">2</td>
+                                                    <td class="t-desc">2</td>
+                                                    <td class="t-desc">2</td>
+                                                    <td class="t-desc">2</td>
+                                                    <td class="t-desc">2</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">G</td>
+                                                    <td class="t-desc">1 ¼ ̎(AI)</td>
+                                                    <td class="t-desc">2</td>
+                                                    <td class="t-desc">2</td>
+                                                    <td class="t-desc">2</td>
+                                                    <td class="t-desc">2</td>
+                                                    <td class="t-desc">2</td>
+                                                    <td class="t-desc">2</td>
+                                                    <td class="t-desc">2</td>
+                                                    <td class="t-desc">2</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">H</td>
+                                                    <td class="t-desc">2 ̎(AI)</td>
+                                                    <td class="t-desc">-</td>
+                                                    <td class="t-desc">-</td>
+                                                    <td class="t-desc">2</td>
+                                                    <td class="t-desc">2</td>
+                                                    <td class="t-desc">-</td>
+                                                    <td class="t-desc">-</td>
+                                                    <td class="t-desc">2</td>
+                                                    <td class="t-desc">2</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">J</td>
+                                                    <td class="t-desc">4 ½ ̎ (AI)</td>
+                                                    <td class="t-desc">-</td>
+                                                    <td class="t-desc">-</td>
+                                                    <td class="t-desc">-</td>
+                                                    <td class="t-desc">-</td>
+                                                    <td class="t-desc">-</td>
+                                                    <td class="t-desc">-</td>
+                                                    <td class="t-desc">-</td>
+                                                    <td class="t-desc">-</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc" colspan="2">TOTAL</td>
+                                                    <td class="t-desc">49</td>
+                                                    <td class="t-desc">58</td>
+                                                    <td class="t-desc">44</td>
+                                                    <td class="t-desc">45</td>
+                                                    <td class="t-desc">53</td>
+                                                    <td class="t-desc">58</td>
+                                                    <td class="t-desc">44</td>
+                                                    <td class="t-desc">45</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section>
+                <div class="bs-button">
+                    <div class="container">
+                        <div class="action-wrap">
+                            <button class="bs-btn btn-icon-link download-btn"><span class="icon icon-download"></span>
+                                    <a href="assets/doc/EM-MII-Series.pdf" target="_blank">download brochure</a></button>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <!-- footer start -->
+        <!--#include virtual="view/footer.html" -->
+        <!-- footer end -->
+    </footer>
+
+    <!-- popup start -->
+    <!--#include virtual="view/popup.html" -->
+    <!-- popup end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+
+</body>
+
+</html>

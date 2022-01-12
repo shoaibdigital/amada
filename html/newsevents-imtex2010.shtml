@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>News & Events</title>
+    <meta name="description" content="description goes here">
+    <link rel="canonical" href="url goes here" />
+
+    <meta property="og:url" content="url goes here" />
+    <meta property="og:title" content="title goes here" />
+    <meta property="og:description" content="description goes here" />
+    <meta property="og:image" content="img url goes here" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@PayUmoney" />
+    <meta name="twitter:title" content="title goes here" />
+    <meta name="twitter:description" content="description goes here" />
+    <meta name="twitter:url" content="url goes here" />
+    <meta name="twitter:image" content="img url goes here" />
+
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+
+</head>
+
+<body>
+    <header>
+        <!-- header start -->
+        <!--#include virtual="view/header.html" -->
+        <!-- header end -->
+    </header>
+
+    <main>
+        <div class="main lyt-content js-bg">
+            <!-- banner start -->
+            <!--#include virtual="view/newsevents-imtex2010-banner.html" -->
+            <!-- banner end -->
+            <div class="bs-breadcrum">
+                <div class="container">
+                    <ul class="list">
+                        <li class="item"><a href="#" class="link">amada</a></li>
+                        <li class="item"><a href="#" class="link">News & Events</a></li>
+                        <li class="item">IMTEX 2010</li>
+                    </ul>
+                </div>
+            </div>
+            <section>
+                <div class="bs-section">
+                    <div class="container">
+                        <div class="bs-blog-detail">
+                            <div class="sec-cont">
+                                <ul class="bs-chain-info">
+                                    <li class="item">
+                                        <div class="bs-img-desc">
+                                            <div class="left-side">
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/news/imtex2010/gallery0.jpg"></div>
+                                                <div class="sec-desc">
+                                                    <p><a href="#IM01">Amada Group thanks all customers for an overwhelming response at IMTEX2010</a></p>
+                                                    <p><a href="#IM02">IMTEX Inauguration by Amada Group CEO Mr. Okamoto</a></p>
+                                                    <p><a href="#IM03">Amada Booth inauguration</a></p>
+                                                    <p><a href="#IM04">LC3015F1 Unveiling ceremony</a></p>
+                                                    <p><a href="#IM05">Launch of RGM2 series bending machine</a></p>
+                                                    <p><a href="#IM06">Amada booth pictures</a></p>
+                                                </div>
+                                            </div>
+                                            <div class="right-side">
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/news/imtex2010/gallery0.jpg"></div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="item" id="IM01">
+                                        <div class="bs-img-desc">
+                                            <div class="left-side">
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/news/imtex2010/gallery1.jpg"></div>
+                                                <div class="sec-desc">
+                                                    <p>Amada Group thanks all customers for an overwhelming response at IMTEX2010</p>
+                                                    <p>Dear Customers,</p>
+                                                    <p>We are very thankful to all our guests for your overwhelming response and support at IMTEX2010 and for selecting our products.</p>
+                                                    <p>Thank you once again,</p>
+                                                </div>
+                                            </div>
+                                            <div class="right-side">
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/news/imtex2010/gallery1.jpg"></div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="item" id="IM02">
+                                        <div class="bs-img-desc">
+                                            <div class="left-side">
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/news/imtex2010/gallery2.jpg"></div>
+                                                <div class="sec-desc">
+                                                    <p>IMTEX Inauguration by Amada Group CEO Mr. Okamoto</p>
+                                                    <p>Mr. Mitsuo Okamoto – President & CEO, Amada Group giving his inaugural speech at IMTEX Forming 2010 opening ceremony.</p>
+
+                                                </div>
+                                            </div>
+                                            <div class="right-side">
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/news/imtex2010/gallery2.jpg"></div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="item" id="IM03">
+                                        <div class="bs-img-desc">
+                                            <div class="left-side">
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/news/imtex2010/gallery3.jpg"></div>
+                                                <div class="sec-desc">
+                                                    <p>Amada Booth inauguration</p>
+                                                    <p>The Amada booth at IMTEX Forming 2010 was officially opened by Mr. Mitsuo Okamoto and Amada customers.</p>
+                                                </div>
+                                            </div>
+                                            <div class="right-side">
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/news/imtex2010/gallery3.jpg"></div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="item" id="IM04">
+                                        <div class="bs-img-desc">
+                                            <div class="left-side">
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/news/imtex2010/gallery4.jpg"></div>
+                                                <div class="sec-desc">
+                                                    <p>LC3015F1 Unveiling ceremony</p>
+                                                    <p>The LC3015 F1 NT with ASF3015, India’s first fully unmanned Laser cell was officially launched. The LC3015 F1 NT is a high speed, high accuracy Linear Laser, one of the worlds’ fastest. It features a
+                                                        new Amada tuned oscillator and a new cutting head to dramatically improve cut quality, stability with the highest processing speeds.</p>
+                                                    <p>The ASF3015 unmanned cell enables factories to achieve high mix, high volume, “lights out production”.</p>
+                                                </div>
+                                            </div>
+                                            <div class="right-side">
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/news/imtex2010/gallery4.jpg"></div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="item" id="IM05">
+                                        <div class="bs-img-desc">
+                                            <div class="left-side">
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/news/imtex2010/gallery5.jpg"></div>
+                                                <div class="sec-desc">
+                                                    <p>Launch of RGM2 series bending machine</p>
+                                                    <p>Building further on the already established reliability and accuracy of the RG series, Amada launched the RGM2 series Press Brakes. Apart from higher bending speeds, the RGM2 has Amada’s new CNC Control
+                                                        and One Touch Tool change system to reduce set up and change-over times, increasing flexibility and repeatability without depending on operator skill.</p>
+                                                </div>
+                                            </div>
+                                            <div class="right-side">
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/news/imtex2010/gallery5.jpg"></div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+
+                            <div class="sec-head">
+                                <h2 class="sec-title">Amada booth <span class="cm-line-break">pictures</span></h2>
+                            </div>
+                            <div class="bs-swiper-detail">
+                                <div class="swiper-container" id="IM06">
+                                    <div class="swiper-wrapper">
+                                        <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2010/gallery6.jpg">
+
+                                        </div>
+                                        <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2010/gallery7.jpg">
+
+                                        </div>
+                                        <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2010/gallery8.jpg">
+
+                                        </div>
+                                        <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2010/gallery9.jpg">
+
+                                        </div>
+                                        <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2010/gallery10.jpg">
+
+                                        </div>
+                                        <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2010/gallery11.jpg">
+                                        </div>
+                                        <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2010/gallery12.jpg">
+                                        </div>
+                                    </div>
+                                    <div class="swiper-pagination"></div>
+                                </div>
+                            </div>
+
+                        </div>
+
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <!-- footer start -->
+        <!--#include virtual="view/footer.html" -->
+        <!-- footer end -->
+    </footer>
+
+    <!-- popup start -->
+    <!--#include virtual="view/popup.html" -->
+    <!-- popup end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+
+</body>
+
+</html>

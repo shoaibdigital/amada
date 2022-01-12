@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>News & Events</title>
+    <meta name="description" content="description goes here">
+    <link rel="canonical" href="url goes here" />
+
+    <meta property="og:url" content="url goes here" />
+    <meta property="og:title" content="title goes here" />
+    <meta property="og:description" content="description goes here" />
+    <meta property="og:image" content="img url goes here" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@PayUmoney" />
+    <meta name="twitter:title" content="title goes here" />
+    <meta name="twitter:description" content="description goes here" />
+    <meta name="twitter:url" content="url goes here" />
+    <meta name="twitter:image" content="img url goes here" />
+
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+
+</head>
+
+<body>
+    <header>
+        <!-- header start -->
+        <!--#include virtual="view/header.html" -->
+        <!-- header end -->
+    </header>
+
+    <main>
+        <div class="main lyt-content js-bg">
+            <!-- banner start -->
+            <!--#include virtual="view/imtexforming2020-banner.html" -->
+            <!-- banner end -->
+            <div class="bs-breadcrum">
+                <div class="container">
+                    <ul class="list">
+                        <li class="item"><a href="#" class="link">amada</a></li>
+                        <li class="item"><a href="#" class="link">News & Events</a></li>
+                        <li class="item">IMTEX Forming 2020</li>
+                    </ul>
+                </div>
+            </div>
+            <section>
+                <div class="bs-section">
+                    <div class="container">
+                        <div class="sec-cont">
+                            <ul class="bs-chain-info">
+                                <li class="item">
+                                    <div class="bs-img-desc">
+                                        <div class="left-side">
+                                            <h2 class="title">Key Highlights</h2>
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/news/imtex2020/gallery1.jpg">
+                                            </div>
+                                            <div class="sec-desc">
+                                                <ul class="mod-list">
+                                                    <li class="item">Launch of Amada’s flagship Fiber Laser machine ENSIS3015AJ – 9kW.</li>
+                                                    <li class="item">Launch of new Fiber Laser machine LCG3015AJII – 3kW</li>
+                                                    <li class="item">Live demo of LCC1AJ (Fiber Laser Combination machine) from Bangalore TC.</li>
+                                                    <li class="item">Live demo of HG-Rm Bending Automation from Bangalore TC.</li>
+                                                    <li class="item">Launch of vLot Manager – Factory process control software.</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="right-side">
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/news/imtex2020/gallery1.jpg">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section>
+                <div class="bs-section">
+                    <div class="container">
+                        <div class="bs-blog-detail">
+                            <div class="bd-head">
+                                <h2 class="bd-title">Gallery</h2>
+                            </div>
+                            <div class="bd-body">
+                                <div class="bs-gallery">
+                                    <div class="gallery-head">
+                                        <div class="swiper-container mySwiper2Gallery">
+                                            <div class="swiper-wrapper">
+                                                <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2020/1.jpg">
+                                                    <div class="gallery-slide-info">
+                                                        <p class="text"></p>
+                                                    </div>
+                                                </div>
+                                                <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2020/2.jpg">
+                                                    <div class="gallery-slide-info">
+                                                        <p class="text"></p>
+                                                    </div>
+                                                </div>
+                                                <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2020/3.jpg">
+                                                    <div class="gallery-slide-info">
+                                                        <p class="text"></p>
+                                                    </div>
+                                                </div>
+                                                <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2020/6.jpg">
+                                                    <div class="gallery-slide-info">
+                                                        <p class="text"></p>
+                                                    </div>
+                                                </div>
+                                                <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2020/7.jpg">
+                                                    <div class="gallery-slide-info">
+                                                        <p class="text"></p>
+                                                    </div>
+                                                </div>
+                                                <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2020/8.jpg">
+                                                    <div class="gallery-slide-info">
+                                                        <p class="text"></p>
+                                                    </div>
+                                                </div>
+                                                <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2020/9.jpg">
+                                                    <div class="gallery-slide-info">
+                                                        <p class="text"></p>
+                                                    </div>
+                                                </div>
+                                                <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2020/10.jpg">
+                                                    <div class="gallery-slide-info">
+                                                        <p class="text"></p>
+                                                    </div>
+                                                </div>
+                                                <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2020/11.jpg">
+                                                    <div class="gallery-slide-info">
+                                                        <p class="text"></p>
+                                                    </div>
+                                                </div>
+                                                <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2020/12.jpg">
+                                                    <div class="gallery-slide-info">
+                                                        <p class="text"></p>
+                                                    </div>
+                                                </div>
+                                                <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2020/13.jpg">
+                                                    <div class="gallery-slide-info">
+                                                        <p class="text">Live Demo session</p>
+                                                    </div>
+                                                </div>
+                                                <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2020/14.jpg">
+                                                    <div class="gallery-slide-info">
+                                                        <p class="text"></p>
+                                                    </div>
+                                                </div>
+                                                <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2020/15.jpg">
+                                                    <div class="gallery-slide-info">
+                                                        <p class="text"></p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="swiper-button-next"></div>
+                                            <div class="swiper-button-prev"></div>
+                                            <div class="swiper-pagination"></div>
+                                        </div>
+                                    </div>
+                                    <div class="gallery-footer">
+                                        <div thumbsSlider="" class="swiper-container mySwiperGallery">
+                                            <div class="swiper-wrapper">
+                                                <div class="swiper-slide  lozad-background" data-background-image="assets/images/news/imtex2020/1.jpg">
+                                                </div>
+                                                <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2020/2.jpg">
+                                                </div>
+                                                <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2020/3.jpg">
+                                                </div>
+                                                <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2020/6.jpg">
+                                                </div>
+                                                <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2020/7.jpg">
+                                                </div>
+                                                <div class="swiper-slide  lozad-background" data-background-image="assets/images/news/imtex2020/8.jpg">
+                                                </div>
+                                                <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2020/9.jpg">
+                                                </div>
+                                                <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2020/10.jpg">
+                                                </div>
+                                                <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2020/11.jpg">
+                                                </div>
+                                                <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2020/12.jpg">
+                                                </div>
+                                                <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2020/13.jpg">
+                                                </div>
+                                                <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2020/14.jpg">
+                                                </div>
+                                                <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2020/15.jpg">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <!-- footer start -->
+        <!--#include virtual="view/footer.html" -->
+        <!-- footer end -->
+    </footer>
+
+    <!-- popup start -->
+    <!--#include virtual="view/popup.html" -->
+    <!-- popup end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+
+</body>
+
+</html>

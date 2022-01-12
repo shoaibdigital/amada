@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Home</title>
+    <meta name="description" content="description goes here">
+    <link rel="canonical" href="url goes here" />
+
+    <meta property="og:url" content="url goes here" />
+    <meta property="og:title" content="title goes here" />
+    <meta property="og:description" content="description goes here" />
+    <meta property="og:image" content="img url goes here" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@PayUmoney" />
+    <meta name="twitter:title" content="title goes here" />
+    <meta name="twitter:description" content="description goes here" />
+    <meta name="twitter:url" content="url goes here" />
+    <meta name="twitter:image" content="img url goes here" />
+
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+
+</head>
+
+<body>
+    <header>
+        <!-- header start -->
+        <!--#include virtual="view/header.html" -->
+        <!-- header end -->
+    </header>
+
+    <main>
+        <div class="main lyt-content js-bg">
+            <div class="bs-breadcrum">
+                <div class="container">
+                    <ul class="list">
+                        <li class="item"><a href="#" class="link">amada</a></li>
+                        <li class="item"><a href="#" class="link">products</a></li>
+                        <li class="item"><a href="#" class="link">punching machines</a></li>
+                        <li class="item">em mii series</li>
+                    </ul>
+                </div>
+            </div>
+            <section>
+                <div class="bs-section">
+                    <div class="container">
+                        <div class="bs-product-detail">
+                            <div class="pd-head">
+                                <ul class="bs-chain-info">
+                                    <li class="item">
+                                        <div class="bs-img-desc">
+                                            <div class="left-side">
+                                                <h2 class="title">VENTIS-AJ Series</h2>
+                                                <p class="sub-title">World’s First Fiber Laser with LBC Technology</p>
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/products/laser/laser1.jpg"></div>
+                                                <div class="sec-desc">
+                                                    <p>VENTIS AJ is a new laser system equipped with LBC Technology which allows to modulate the beam and control the movement of the laser beam, ensuring maximum efficiency based on the type of material and
+                                                        thickness to be processed.</p>
+                                                </div>
+                                            </div>
+                                            <div class="right-side">
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/products/laser/laser1.jpg"></div>
+                                                <div class="bs-awards">
+                                                    <div class="first-award">
+                                                        <div class="img-wrap">
+                                                            <img src="assets/images/products/laser/laser5.jpg" />
+                                                        </div>
+                                                        <div class="info-wrap">
+                                                            <h3 class="awards-title">The perfect Beam Mode for Each Application</h3>
+                                                        </div>
+                                                    </div>
+                                                    <div class="second-award">
+                                                        <div class="img-wrap">
+                                                            <img src="assets/images/products/laser/laser6.jpg" />
+                                                        </div>
+                                                        <div class="info-wrap">
+                                                            <h3 class="awards-title">The perfect Beam Mode for Each Application</h3>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                </ul>
+                                <div class="lyt-awards typ-col-3">
+                                    <div class="sec-head">
+                                        <h2 class="sec-title">Bend Plus Features</h2>
+                                    </div>
+                                    <ul class="awards-list">
+                                        <li class="awards-item">
+                                            <div class="bs-award-tile typ-xl">
+                                                <div class="body">
+                                                    <div class="img-wrap lozad-background" data-background-image="assets/images/products/software/bend1.jpg"></div>
+                                                </div>
+                                                <div class="footer">
+                                                    <h3 class="award-title">High precision bending simulation</h3>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li class="awards-item">
+                                            <div class="bs-award-tile typ-xl">
+                                                <div class="body">
+                                                    <div class="img-wrap lozad-background" data-background-image="assets/images/products/software/bend2.jpg"></div>
+                                                </div>
+                                                <div class="footer">
+                                                    <h3 class="award-title">Common Layout Generation</h3>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li class="awards-item">
+                                            <div class="bs-award-tile typ-xl">
+                                                <div class="body">
+                                                    <div class="img-wrap lozad-background" data-background-image="assets/images/products/software/bend3.jpg"></div>
+                                                </div>
+                                                <div class="footer">
+                                                    <h3 class="award-title">Switch between design and bending environment for checking feasibility</h3>
+                                                </div>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+
+                            </div>
+                            <div class="pd-body">
+                                <div class="bs-table">
+                                    <h3 class="title">Specifications</h3>
+                                    <div class="table-wrap">
+                                        <table class="table" cellpadding="0" cellspacing="0">
+                                            <thead>
+                                                <tr>
+                                                    <th class="t-title">MODEL</th>
+                                                    <th class="t-title">EM-2510M II</th>
+                                                    <th class="t-title">EM-2612M II</th>
+                                                    <th class="t-title">EMZ-3510M II</th>
+                                                    <th class="t-title">EMK-3510M II</th>
+                                                    <th class="t-title">EMK-3510M II</th>
+                                                    <th class="t-title">EMK-3612M II</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td class="t-desc">Press Capacity <span class="cm-bold">KN{tonf}</span></td>
+                                                    <td class="t-desc">200</td>
+                                                    <td class="t-desc">200</td>
+                                                    <td class="t-desc">300</td>
+                                                    <td class="t-desc">300</td>
+                                                    <td class="t-desc">300</td>
+                                                    <td class="t-desc">300</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Drive Method</td>
+                                                    <td class="t-desc" colspan="6">AC Servo direct twin drive</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Processing Range <span class="cm-bold">mm</span></td>
+                                                    <td class="t-desc">2500 x 1270</td>
+                                                    <td class="t-desc">3050 x 1525</td>
+                                                    <td class="t-desc">2500 x 1270</td>
+                                                    <td class="t-desc">3050 x 1525</td>
+                                                    <td class="t-desc">2500 x 1270</td>
+                                                    <td class="t-desc">3050 x 1525</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Max. Material Thickness <span class="cm-bold">mm</span></td>
+                                                    <td class="t-desc" colspan="6">3.2(mild steel)</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Hit Rate <span class="cm-bold">min-1</span></td>
+                                                    <td class="t-desc" colspan="2">515 (stroke=5mm , pitch=25.4mm)</td>
+                                                    <td class="t-desc" colspan="4">530 (stroke=5mm , pitch=25.4mm)</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Processing Accuracy <span class="cm-bold">mm</span></td>
+                                                    <td class="t-desc" colspan="6">± 0.1 (Manufacturer's standard tolerance)</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Mass of Machine <span class="cm-bold">kg</span></td>
+                                                    <td class="t-desc">17000</td>
+                                                    <td class="t-desc">19000</td>
+                                                    <td class="t-desc">18500</td>
+                                                    <td class="t-desc">20500</td>
+                                                    <td class="t-desc">19000</td>
+                                                    <td class="t-desc">21000</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section>
+                <div class="bs-button">
+                    <div class="container">
+                        <div class="action-wrap">
+                            <button class="bs-btn btn-icon-link download-btn"><span class="icon icon-download"></span>
+                                    <a href="assets/doc/VENTIS_catalog.pdf" target="_blank">download brochure</a></button>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <!-- footer start -->
+        <!--#include virtual="view/footer.html" -->
+        <!-- footer end -->
+    </footer>
+
+    <!-- popup start -->
+    <!--#include virtual="view/popup.html" -->
+    <!-- popup end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+
+</body>
+
+</html>

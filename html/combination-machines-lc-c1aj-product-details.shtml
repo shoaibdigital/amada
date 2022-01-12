@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Product</title>
+    <meta name="description" content="description goes here">
+    <link rel="canonical" href="url goes here" />
+
+    <meta property="og:url" content="url goes here" />
+    <meta property="og:title" content="title goes here" />
+    <meta property="og:description" content="description goes here" />
+    <meta property="og:image" content="img url goes here" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@PayUmoney" />
+    <meta name="twitter:title" content="title goes here" />
+    <meta name="twitter:description" content="description goes here" />
+    <meta name="twitter:url" content="url goes here" />
+    <meta name="twitter:image" content="img url goes here" />
+
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+
+</head>
+
+<body>
+    <header>
+        <!-- header start -->
+        <!--#include virtual="view/header.html" -->
+        <!-- header end -->
+    </header>
+
+    <main>
+        <div class="main lyt-content js-bg">
+            <div class="bs-breadcrum">
+                <div class="container">
+                    <ul class="list">
+                        <li class="item"><a href="#" class="link">amada</a></li>
+                        <li class="item"><a href="#" class="link">products</a></li>
+                        <li class="item"><a href="#" class="link">Combination Machines</a></li>
+                        <li class="item">LC C1 AJ series</li>
+                    </ul>
+                </div>
+            </div>
+            <section>
+                <div class="bs-section">
+                    <div class="container">
+                        <div class="bs-product-detail">
+                            <div class="pd-head">
+                                <ul class="bs-chain-info">
+                                    <li class="item">
+                                        <div class="bs-img-desc">
+                                            <div class="left-side">
+                                                <h2 class="title">LC C1 AJ series</h2>
+                                                <p class="sub-title">Process integrated, technology built-in, compact fiber punch/laser combination machine</p>
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/products/comb/comb1.jpg"></div>
+                                                <div class="sec-desc">
+                                                    <p>Highly efficient process integration achieved with less energy consumption and cost!</p>
+                                                    <p>The laser cutting area is enclosed by a table cabin and a shutter to provide laser light shielding. The machine can be easily combined with peripheral units and automated to achieve a shorter total lead
+                                                        time.
+                                                    </p>
+                                                    <p>The combined LC-2515C1AJ combines the high performance of AMADA electric punching with the low energy consumption of the AMADA fiber laser. The turret with 45 stations + 4 threading stations offers exceptional
+                                                        versatility of use and set-up errors are completely eliminated thanks to the "ID-tool" system that allows you to monitor the exact position of the punch and any need of sharpening of the same in
+                                                        a totally automatic way.</p>
+                                                </div>
+                                            </div>
+                                            <div class="right-side">
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/products/comb/comb1.jpg"></div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    </li>
+                                </ul>
+                                <div class="bs-features">
+                                    <div class="lyt-features">
+                                        <div class="">
+                                            <h2 class="title">FEATURES</h2>
+                                            <div class="sec-desc">
+                                                <h3 class="sub-title">Highly productive & energy-saving processing</h3>
+                                                <ul class="mod-list-circle">
+                                                    <li>Energy saving by no laser gas in need
+                                                        <ul class="inside-list">
+                                                            <li>Reduction of programming time.</li>
+                                                            <li>Reduction of tooling cost.</li>
+                                                            <li>Reduction of tooling setup time.</li>
+                                                            <li>LC-C1 AJ series requires about 67% less power than a 4kW CO2 punch/laser combination machine and about 46% less power than a 2kW CO2 punch/laser combination machine.</li>
+                                                        </ul>
+                                                    </li>
+                                                </ul>
+                                                <h3 class="sub-title">Compatibility of safety and operability</h3>
+                                                <ul class="mod-list-circle">
+                                                    <li>Table cabin
+                                                        <ul class="inside-list">
+                                                            <li>The processing area is fully enclosed with a table cabin and shutter to shield the laser beam completely. (this solution saves space and ensure the safety of the operator</li>
+                                                        </ul>
+                                                    </li>
+                                                    <li>The second origin setting.</li>
+                                                </ul>
+                                                <h3 class="sub-title">Process integration and stable processing</h3>
+                                                <ul class="mod-list-circle">
+                                                    <li>Stable processing by tool setup.
+                                                        <ul class="inside-list">
+                                                            <li>Tapping station</li>
+                                                            <li>Die Lift-up station</li>
+                                                            <li>Floating brush table</li>
+                                                            <li>ID tool system</li>
+                                                        </ul>
+                                                    </li>
+                                                </ul>
+                                                <h3 class="sub-title">Other functions for stable processing (option)</h3>
+                                                <ul class="mod-list-circle">
+                                                    <li>Work chute</li>
+                                                    <li>Slug suction unit</li>
+                                                    <li>PSA (nitrogen generator)</li>
+                                                </ul>
+                                                <h3 class="sub-title">Easy Operation – AMNC 3i</h3>
+                                                <ul class="mod-list-circle">
+                                                    <li>The AMNC 3i has a large screen with good visibility and can be intuitively operated like a smartphone</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="pd-body">
+                                <div class="bs-table">
+                                    <h3 class="title">Specifications</h3>
+                                    <div class="table-wrap">
+                                        <table class="table" cellpadding="0" cellspacing="0">
+                                            <thead>
+                                                <tr>
+                                                    <th class="t-title">Model</th>
+                                                    <th class="t-title"></th>
+                                                    <th class="t-title">LC2512C1AJ</th>
+                                                    <th class="t-title">LC2515C1AJ</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td class="t-desc">NC</td>
+                                                    <td class="t-desc"></td>
+                                                    <td class="t-desc" colspan="2">AMNC 3i</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Punch</td>
+                                                    <td class="t-desc">Press Capacity(kN)</td>
+                                                    <td class="t-desc" colspan="2">200</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc"></td>
+                                                    <td class="t-desc">Drive Method</td>
+                                                    <td class="t-desc" colspan="2">AC Servo Drive</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc"></td>
+                                                    <td class="t-desc">Turret Specification</td>
+                                                    <td class="t-desc" colspan="2">46 station MPT
+                                                        <span class="cm-line-break">(4 tapping,4Auto Index)</span></td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Processing Range(mm)</td>
+                                                    <td class="t-desc">Punch</td>
+                                                    <td class="t-desc">2500 x 1270</td>
+                                                    <td class="t-desc">3050 x 1525</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc"></td>
+                                                    <td class="t-desc">Laser</td>
+                                                    <td class="t-desc">2500 x 1270</td>
+                                                    <td class="t-desc">2500 x 1525</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc"></td>
+                                                    <td class="t-desc">Combined</td>
+                                                    <td class="t-desc">2500 x 1270</td>
+                                                    <td class="t-desc">2500 x 1525</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Max. Feed Rate(m/min)</td>
+                                                    <td class="t-desc"></td>
+                                                    <td class="t-desc">(X/YP)100/80</td>
+                                                    <td class="t-desc"></td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Oscillator</td>
+                                                    <td class="t-desc"></td>
+                                                    <td class="t-desc" colspan="2">AJ-3000</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Max. Power(W)</td>
+                                                    <td class="t-desc"></td>
+                                                    <td class="t-desc" colspan="2">3000</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+
+                                <div class="bs-table">
+                                    <h3 class="title">Oscillator Specifications</h3>
+                                    <div class="table-wrap">
+                                        <table class="table" cellpadding="0" cellspacing="0">
+                                            <thead>
+                                                <tr>
+                                                    <th class="t-title">Model</th>
+                                                    <th class="t-title">AJ-2000</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td class="t-desc">Oscillation Method</td>
+                                                    <td class="t-desc">LD-Pumped Fiber Laser</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Wavelength <span class="cm-bold">µm</span></td>
+                                                    <td class="t-desc">1.08</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Rated Power <span class="cm-bold">W</span></td>
+                                                    <td class="t-desc">2000</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Pulse Peak Power <span class="cm-bold">W</span></td>
+                                                    <td class="t-desc">2000</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Power Requirement <span class="cm-bold">kVA</span></td>
+                                                    <td class="t-desc">8.8</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+
+                                <div class="bs-table">
+                                    <h3 class="title">Turret Layout</h3>
+                                    <div class="table-wrap">
+                                        <table class="table" cellpadding="0" cellspacing="0">
+                                            <thead>
+                                                <tr>
+                                                    <th class="t-title" colspan="2">Tool Size</th>
+                                                    <th class="t-title">Punch Size</th>
+                                                    <th class="t-title">Number of Stations</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td class="t-desc">A</td>
+                                                    <td class="t-desc">½ ̎ </td>
+                                                    <td class="t-desc">Φ 1.6 ~ 12.7</td>
+                                                    <td class="t-desc">24(16)</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">B</td>
+                                                    <td class="t-desc">1 ¼ ̎</td>
+                                                    <td class="t-desc">Φ 12.8 ~ 31.7</td>
+                                                    <td class="t-desc">16(16)</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">B’</td>
+                                                    <td class="t-desc">1 ¼ ̎</td>
+                                                    <td class="t-desc">Φ 12.8 ~ 31.7</td>
+                                                    <td class="t-desc">3(3)</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">C</td>
+                                                    <td class="t-desc">2 ̎</td>
+                                                    <td class="t-desc">Φ 31.8 ~ 50.8</td>
+                                                    <td class="t-desc">4(4)</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">D</td>
+                                                    <td class="t-desc">3 ½ ̎ </td>
+                                                    <td class="t-desc">Φ 50.9 ~ 88.9</td>
+                                                    <td class="t-desc">1(1)</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">G</td>
+                                                    <td class="t-desc">AI (1 ¼ ̎)</td>
+                                                    <td class="t-desc">Φ 12.8 ~ 31.7</td>
+                                                    <td class="t-desc">1(1)</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc" colspan="2">TOTAL</td>
+                                                    <td class="t-desc"></td>
+                                                    <td class="t-desc">49(41)</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section>
+                <div class="bs-button">
+                    <div class="container">
+                        <div class="action-wrap">
+                            <a href="#" target="_blank" class="bs-btn btn-icon-link download-btn"><span class="icon icon-download"></span> download brochure</a>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <!-- footer start -->
+        <!--#include virtual="view/footer.html" -->
+        <!-- footer end -->
+    </footer>
+
+    <!-- popup start -->
+    <!--#include virtual="view/popup.html" -->
+    <!-- popup end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+
+</body>
+
+</html>

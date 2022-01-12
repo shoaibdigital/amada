@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>News & Events</title>
+    <meta name="description" content="description goes here">
+    <link rel="canonical" href="url goes here" />
+
+    <meta property="og:url" content="url goes here" />
+    <meta property="og:title" content="title goes here" />
+    <meta property="og:description" content="description goes here" />
+    <meta property="og:image" content="img url goes here" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@PayUmoney" />
+    <meta name="twitter:title" content="title goes here" />
+    <meta name="twitter:description" content="description goes here" />
+    <meta name="twitter:url" content="url goes here" />
+    <meta name="twitter:image" content="img url goes here" />
+
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+
+</head>
+
+<body>
+    <header>
+        <!-- header start -->
+        <!--#include virtual="view/header.html" -->
+        <!-- header end -->
+    </header>
+
+    <main>
+        <div class="main lyt-content js-bg">
+            <!-- banner start -->
+            <!--#include virtual="view/imtexformingevent2018-banner.html" -->
+            <!-- banner end -->
+            <div class="bs-breadcrum">
+                <div class="container">
+                    <ul class="list">
+                        <li class="item"><a href="#" class="link">amada</a></li>
+                        <li class="item"><a href="#" class="link">News & Events</a></li>
+                        <li class="item">IMTEX Forming 2018</li>
+                    </ul>
+                </div>
+            </div>
+            <section>
+                <div class="bs-section">
+                    <div class="container">
+                        <div class="bs-blog-detail">
+                            <div class="bd-head">
+                                <h2 class="bd-title">Gallery</h2>
+                            </div>
+                            <div class="bd-body">
+                                <div class="bs-gallery">
+                                    <div class="gallery-head">
+                                        <div class="swiper-container mySwiper2Gallery">
+                                            <div class="swiper-wrapper">
+                                                <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2018/1.jpg">
+                                                    <div class="gallery-slide-info">
+                                                        <p class="text">Amada India displayed 3 unique solution at IMTEX 2018. Launch of LCG3015AJ 6kW with Automation, HG1303 with Sheet Follower & VPSS3i (IoT based production system)</p>
+                                                    </div>
+                                                </div>
+                                                <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2018/2.jpg">
+                                                    <div class="gallery-slide-info">
+                                                        <p class="text">LCG3015AJ-6kW with Automation</p>
+                                                    </div>
+                                                </div>
+                                                <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2018/3.jpg">
+                                                    <div class="gallery-slide-info">
+                                                        <p class="text">HG1303 with SF</p>
+                                                    </div>
+                                                </div>
+                                                <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2018/4.jpg">
+                                                    <div class="gallery-slide-info">
+                                                        <p class="text">LCG3015AJ-6kW with Automation</p>
+                                                    </div>
+                                                </div>
+                                                <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2018/5.jpg">
+                                                    <div class="gallery-slide-info">
+                                                        <p class="text">VPSS 3i Solution & VFactory</p>
+                                                    </div>
+                                                </div>
+                                                <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2018/6.jpg">
+                                                    <div class="gallery-slide-info">
+                                                        <p class="text">Displayed solution presented to customers</p>
+                                                    </div>
+                                                </div>
+                                                <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2018/7.jpg">
+                                                    <div class="gallery-slide-info">
+                                                        <p class="text">LCG3015AJ-6kW with Automation</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="swiper-button-next"></div>
+                                            <div class="swiper-button-prev"></div>
+                                            <div class="swiper-pagination"></div>
+                                        </div>
+                                    </div>
+                                    <div class="gallery-footer">
+                                        <div thumbsSlider="" class="swiper-container mySwiperGallery">
+                                            <div class="swiper-wrapper">
+                                                <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2018/1.jpg">
+                                                </div>
+                                                <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2018/2.jpg">
+                                                </div>
+                                                <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2018/3.jpg">
+                                                </div>
+                                                <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2018/4.jpg">
+                                                </div>
+                                                <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2018/5.jpg">
+                                                </div>
+                                                <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2018/6.jpg">
+                                                </div>
+                                                <div class="swiper-slide lozad-background" data-background-image="assets/images/news/imtex2018/7.jpg">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <!-- footer start -->
+        <!--#include virtual="view/footer.html" -->
+        <!-- footer end -->
+    </footer>
+
+    <!-- popup start -->
+    <!--#include virtual="view/popup.html" -->
+    <!-- popup end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+
+</body>
+
+</html>

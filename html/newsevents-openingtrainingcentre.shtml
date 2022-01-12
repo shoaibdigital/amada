@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>News & Events</title>
+    <meta name="description" content="description goes here">
+    <link rel="canonical" href="url goes here" />
+
+    <meta property="og:url" content="url goes here" />
+    <meta property="og:title" content="title goes here" />
+    <meta property="og:description" content="description goes here" />
+    <meta property="og:image" content="img url goes here" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@PayUmoney" />
+    <meta name="twitter:title" content="title goes here" />
+    <meta name="twitter:description" content="description goes here" />
+    <meta name="twitter:url" content="url goes here" />
+    <meta name="twitter:image" content="img url goes here" />
+
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+
+</head>
+
+<body>
+    <header>
+        <!-- header start -->
+        <!--#include virtual="view/header.html" -->
+        <!-- header end -->
+    </header>
+
+    <main>
+        <div class="main lyt-content js-bg">
+            <!-- banner start -->
+            <!--#include virtual="view/newsevents-openingtrainingcentre-banner.html" -->
+            <!-- banner end -->
+            <div class="bs-breadcrum">
+                <div class="container">
+                    <ul class="list">
+                        <li class="item"><a href="#" class="link">amada</a></li>
+                        <li class="item"><a href="#" class="link">News & Events</a></li>
+                        <li class="item">News events Opening Training Centre</li>
+                    </ul>
+                </div>
+            </div>
+            <section>
+                <div class="bs-section">
+                    <div class="container">
+                        <div class="bs-blog-detail">
+                            <div class="sec-head">
+                                <h2 class="sec-title">Gallery</h2>
+                            </div>
+                            <div class="bs-swiper-detail">
+                                <div class="swiper-container">
+                                    <div class="swiper-wrapper">
+                                        <div class="swiper-slide lozad-background" data-background-image="assets/images/news/opening/gallery1.jpg">
+                                            <div class="banner-info mod-count-text">
+                                                <div class="text">Inauguration speech by Mr. Takagi – Senior M.D. Amada Co. Ltd.</div>
+                                            </div>
+                                        </div>
+                                        <div class="swiper-slide lozad-background" data-background-image="assets/images/news/opening/gallery2.jpg">
+                                            <div class="banner-info mod-count-text">
+                                                <div class="text">Welcome speech by Mr. K. Matsumoto – President & CEO Amada (India)</div>
+                                            </div>
+                                        </div>
+                                        <div class="swiper-slide lozad-background" data-background-image="assets/images/news/opening/gallery3.jpg">
+                                            <div class="banner-info mod-count-text">
+                                                <div class="text">Welcome speech by Mr. Niraj Seth– V.P. Amada India</div>
+                                            </div>
+                                        </div>
+                                        <div class="swiper-slide lozad-background" data-background-image="assets/images/news/opening/gallery4.jpg">
+                                            <div class="banner-info mod-count-text">
+                                                <div class="text">Mr. Niraj Seth – V.P. Amada (India) introducing TC team to customers</div>
+                                            </div>
+                                        </div>
+                                        <div class="swiper-slide lozad-background" data-background-image="assets/images/news/opening/gallery5.jpg">
+                                            <div class="banner-info mod-count-text">
+                                                <div class="text">Machine Demonstration</div>
+                                            </div>
+                                        </div>
+                                        <div class="swiper-slide lozad-background" data-background-image="assets/images/news/opening/gallery6.jpg">
+                                            <div class="banner-info mod-count-text">
+                                                <div class="text">Machine Demonstration</div>
+                                            </div>
+                                        </div>
+                                        <div class="swiper-slide lozad-background" data-background-image="assets/images/news/opening/gallery7.jpg">
+                                            <div class="banner-info mod-count-text">
+                                                <div class="text">Machine Demonstration</div>
+                                            </div>
+                                        </div>
+                                        <div class="swiper-slide lozad-background" data-background-image="assets/images/news/opening/gallery8.jpg">
+                                            <div class="banner-info mod-count-text">
+                                                <div class="text">Machine Demonstration</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="swiper-pagination"></div>
+                                </div>
+                            </div>
+
+                        </div>
+
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <!-- footer start -->
+        <!--#include virtual="view/footer.html" -->
+        <!-- footer end -->
+    </footer>
+
+    <!-- popup start -->
+    <!--#include virtual="view/popup.html" -->
+    <!-- popup end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+
+</body>
+
+</html>

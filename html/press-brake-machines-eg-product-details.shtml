@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Product</title>
+    <meta name="description" content="description goes here">
+    <link rel="canonical" href="url goes here" />
+
+    <meta property="og:url" content="url goes here" />
+    <meta property="og:title" content="title goes here" />
+    <meta property="og:description" content="description goes here" />
+    <meta property="og:image" content="img url goes here" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@PayUmoney" />
+    <meta name="twitter:title" content="title goes here" />
+    <meta name="twitter:description" content="description goes here" />
+    <meta name="twitter:url" content="url goes here" />
+    <meta name="twitter:image" content="img url goes here" />
+
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+
+</head>
+
+<body>
+    <header>
+        <!-- header start -->
+        <!--#include virtual="view/header.html" -->
+        <!-- header end -->
+    </header>
+
+    <main>
+        <div class="main lyt-content js-bg">
+            <div class="bs-breadcrum">
+                <div class="container">
+                    <ul class="list">
+                        <li class="item"><a href="#" class="link">amada</a></li>
+                        <li class="item"><a href="#" class="link">products</a></li>
+                        <li class="item"><a href="#" class="link">Press Brakes Machines</a></li>
+                        <li class="item">EG Series</li>
+                    </ul>
+                </div>
+            </div>
+            <section>
+                <div class="bs-section">
+                    <div class="container">
+                        <div class="bs-product-detail">
+                            <div class="pd-head">
+                                <ul class="bs-chain-info">
+                                    <li class="item">
+                                        <div class="bs-img-desc">
+                                            <div class="left-side">
+                                                <h2 class="title">EG series</h2>
+                                                <p class="sub-title">High speed and high accuracy electric servo drive press brake</p>
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/products/press/press5.jpg"></div>
+                                                <div class="sec-desc">
+                                                    <p>An ultra-high precision, high-speed compact bending solution featuring an advanced and precise Dual Servo Power drive system</p>
+                                                    <ul class="mod-list">
+                                                        <li class="item">Automatic material thickness detection.</li>
+                                                        <li class="item">BI-S or BI-L automatic angle measurement system options</li>
+                                                        <li class="item">AMNC3i - 19" Multi touch screen 3D control</li>
+                                                        <li class="item">Thickness detection and force control system</li>
+                                                        <li class="item">Amada A Grip-M tool clamps</li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                            <div class="right-side">
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/products/press/press5.jpg"></div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    </li>
+                                </ul>
+                                <div class="bs-features">
+                                    <div class="lyt-features">
+                                        <div class="">
+                                            <h2 class="title">FEATURES</h2>
+                                            <div class="sec-desc">
+                                                <h3 class="sub-title">Dual Servo Power [DSP] Drive</h3>
+                                                <ul class="mod-list-circle">
+                                                    <li>Dual servo AC power drive system contains two AC servo motors - one motor for bending and the other for high speed approach/return.</li>
+                                                    <li>Extremely fast approach, bending & return speed.</li>
+                                                    <li>Highly accurate position detection and positioning.</li>
+                                                </ul>
+                                                <h3 class="sub-title">L-Shift Back gauge</h3>
+                                                <ul class="mod-list-circle">
+                                                    <li>5 axis back gauge speeds setup for complex parts.</li>
+                                                    <li>High-Speed movement on all axes ensures that the gauge fingers are positioned as quickly as the operator positions the part.</li>
+                                                    <li>L-Axes Servo Drive (L-Shift) handle bending of a wide variety of part shapes.</li>
+                                                </ul>
+                                                <h3 class="sub-title">High Rigidity & Larger Open Height</h3>
+                                                <ul class="mod-list-circle">
+                                                    <li>High-rigidity frame allows for a larger open height and stroke.</li>
+                                                    <li>Larger open height allows deep box bending& easier retraction of parts with large down flanges</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="pd-body">
+                                <div class="bs-table">
+                                    <h3 class="title">Specifications</h3>
+                                    <div class="table-wrap">
+                                        <table class="table" cellpadding="0" cellspacing="0">
+                                            <thead>
+                                                <tr>
+                                                    <th class="t-title">Model</th>
+                                                    <th class="t-title">EG 4010</th>
+                                                    <th class="t-title">EG 6013</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td class="t-desc">Numerical Control</td>
+                                                    <td class="t-desc" colspan="2">AMNC PC</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Press Capacity <span class="cm-bold">kN {ton}</span></td>
+                                                    <td class="t-desc">400 {40}</td>
+                                                    <td class="t-desc">600 {60}</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Press Beam Length <span class="cm-bold">mm</span></td>
+                                                    <td class="t-desc">1050</td>
+                                                    <td class="t-desc">1350</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Frame Gap <span class="cm-bold">mm</span></td>
+                                                    <td class="t-desc">755</td>
+                                                    <td class="t-desc">1010</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Open Height <span>mm</span></td>
+                                                    <td class="t-desc">520</td>
+                                                    <td class="t-desc">420</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Stroke Length <span>mm</span></td>
+                                                    <td class="t-desc">250</td>
+                                                    <td class="t-desc">150</td>
+                                                </tr>
+                                                <tr>
+                                                    <th class="t-title text-center" colspan="6">MAX Speed</th>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Approach Speed <span class="cm-bold">mm/sec</span></td>
+                                                    <td class="t-desc">150</td>
+                                                    <td class="t-desc">220</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Bend Speed <span class="cm-bold">mm/sec</span></td>
+                                                    <td class="t-desc">15</td>
+                                                    <td class="t-desc">25</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Return Speed <span class="cm-bold">mm/sec</span></td>
+                                                    <td class="t-desc">150</td>
+                                                    <td class="t-desc">220</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section>
+                <div class="bs-button">
+                    <div class="container">
+                        <div class="action-wrap">
+                            <button class="bs-btn btn-icon-link download-btn"><span class="icon icon-download"></span>
+                                    <a href="assets/doc/EG-4010.pdf" target="_blank">download brochure</a></button>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <!-- footer start -->
+        <!--#include virtual="view/footer.html" -->
+        <!-- footer end -->
+    </footer>
+
+    <!-- popup start -->
+    <!--#include virtual="view/popup.html" -->
+    <!-- popup end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+
+</body>
+
+</html>

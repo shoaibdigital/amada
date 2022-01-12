@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Service Extended Warranty</title>
+    <meta name="description" content="description goes here">
+    <link rel="canonical" href="url goes here" />
+
+    <meta property="og:url" content="url goes here" />
+    <meta property="og:title" content="title goes here" />
+    <meta property="og:description" content="description goes here" />
+    <meta property="og:image" content="img url goes here" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@PayUmoney" />
+    <meta name="twitter:title" content="title goes here" />
+    <meta name="twitter:description" content="description goes here" />
+    <meta name="twitter:url" content="url goes here" />
+    <meta name="twitter:image" content="img url goes here" />
+
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+
+</head>
+
+<body>
+    <header>
+        <!-- header start -->
+        <!--#include virtual="view/header.html" -->
+        <!-- header end -->
+    </header>
+
+    <main>
+        <div class="main lyt-content js-bg">
+            <!-- banner start -->
+            <!--#include virtual="view/service-extended-banner.html" -->
+            <!-- banner end -->
+            <div class="bs-breadcrum">
+                <div class="container">
+                    <ul class="list">
+                        <li class="item"><a href="#" class="link">amada</a></li>
+                        <li class="item"><a href="#" class="link">Services</a></li>
+                        <li class="item">Service Extended Warranty</li>
+                    </ul>
+                </div>
+            </div>
+            <section>
+                <div class="bs-section">
+                    <div class="container">
+                        <div class="sec-cont">
+                            <ul class="bs-chain-info">
+                                <li class="item">
+                                    <div class="bs-img-desc">
+                                        <div class="left-side">
+                                            <h2 class="title">Extended Warranty</h2>
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/services/service4.jpg">
+                                            </div>
+                                            <div class="sec-desc">
+                                                <p>Extended Warranty now offers up tp five years warranty on all fiber laser engine. With this new offer Customers benefitfrom en even higher degree of security for their fiber laser cutting machine.</p>
+                                                <p><strong>Benefits</strong></p>
+                                                <ul class="mod-list">
+                                                    <li class="item">Insures machine operation at peak performance.</li>
+                                                    <li class="item">Covers cost for the machine parts.</li>
+                                                    <li class="item">Provides minimum machine downtime and production delays.</li>
+                                                    <li class="item">Machine operation report</li>
+                                                </ul>
+                                                <p>In the event of claim under extended warranty, Amada offers the oarts and component of the fiber laser engine free of charge.</p>
+                                                <p>As an integral part of this program, the comprehensive machine inspection, including preventive maintenance, is performed at the 11th month of plan agreement. Service histories of all maintenance performed
+                                                    are then recorded for future reference.</p>
+                                            </div>
+                                        </div>
+                                        <div class="right-side">
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/services/service4.jpg">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <!-- footer start -->
+        <!--#include virtual="view/footer.html" -->
+        <!-- footer end -->
+    </footer>
+
+    <!-- popup start -->
+    <!--#include virtual="view/popup.html" -->
+    <!-- popup end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+
+</body>
+
+</html>

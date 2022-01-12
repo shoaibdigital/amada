@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Product</title>
+    <meta name="description" content="description goes here">
+    <link rel="canonical" href="url goes here" />
+
+    <meta property="og:url" content="url goes here" />
+    <meta property="og:title" content="title goes here" />
+    <meta property="og:description" content="description goes here" />
+    <meta property="og:image" content="img url goes here" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@PayUmoney" />
+    <meta name="twitter:title" content="title goes here" />
+    <meta name="twitter:description" content="description goes here" />
+    <meta name="twitter:url" content="url goes here" />
+    <meta name="twitter:image" content="img url goes here" />
+
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+
+</head>
+
+<body>
+    <header>
+        <!-- header start -->
+        <!--#include virtual="view/header.html" -->
+        <!-- header end -->
+    </header>
+
+    <main>
+        <div class="main lyt-content js-bg">
+            <div class="bs-breadcrum">
+                <div class="container">
+                    <ul class="list">
+                        <li class="item"><a href="#" class="link">amada</a></li>
+                        <li class="item"><a href="#" class="link">products</a></li>
+                        <li class="item"><a href="#" class="link">Automation</a></li>
+                        <li class="item">Shuttle Table (LST)</li>
+                    </ul>
+                </div>
+            </div>
+            <section>
+                <div class="bs-section">
+                    <div class="container">
+                        <div class="bs-product-detail">
+                            <div class="pd-head">
+                                <ul class="bs-chain-info">
+                                    <li class="item">
+                                        <div class="bs-img-desc">
+                                            <div class="left-side">
+                                                <h2 class="title">Shuttle Table (LST)</h2>
+                                                <p class="sub-title">Features</p>
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/products/auto/auto8.jpg"></div>
+                                                <div class="sec-desc">
+                                                    <ul class="mod-list-circle">
+                                                        <li>Continuous operation by offline setups</li>
+                                                        <li>Improvement of workability</li>
+                                                        <li>Applicable for thick and heavy material</li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                            <div class="right-side">
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/products/auto/auto8.jpg"></div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    </li>
+                                </ul>
+
+                            </div>
+                            <div class="pd-body">
+                                <div class="bs-table">
+                                    <h3 class="title">Specifications</h3>
+                                    <div class="table-wrap">
+                                        <table class="table" cellpadding="0" cellspacing="0">
+                                            <thead>
+                                                <tr>
+                                                    <th class="t-title" colspan="2">Model</th>
+                                                    <th class="t-title">LST-2412</th>
+                                                    <th class="t-title">LST-3015</th>
+                                                    <th class="t-title">LST-4020</th>
+                                                    <th class="t-title">LST-4222</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td class="t-desc" rowspan="3">Material</td>
+                                                    <td class="t-desc">Maximum Size mm</td>
+                                                    <td class="t-desc">1250 x 2500</td>
+                                                    <td class="t-desc">1525 x 3050</td>
+                                                    <td class="t-desc">2000 x 4000</td>
+                                                    <td class="t-desc">2200 x 4200</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Minimum Size mm</td>
+                                                    <td class="t-desc" colspan="4">X=800</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Thickness range mm</td>
+                                                    <td class="t-desc" colspan="3">25</td>
+                                                    <td class="t-desc">28</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Processing Pallet</td>
+                                                    <td class="t-desc">Maximum payload kg/pallet</td>
+                                                    <td class="t-desc">620</td>
+                                                    <td class="t-desc">920</td>
+                                                    <td class="t-desc">1570</td>
+                                                    <td class="t-desc">2030</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc" colspan="2">Air Requirement L/min(ANR)</td>
+                                                    <td class="t-desc" colspan="4">Inclusive with machine</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section>
+                <div class="bs-button">
+                    <div class="container">
+                        <div class="action-wrap">
+                            <a href="#" target="_blank" class="bs-btn btn-icon-link download-btn"><span class="icon icon-download"></span> download brochure</a>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <!-- footer start -->
+        <!--#include virtual="view/footer.html" -->
+        <!-- footer end -->
+    </footer>
+
+    <!-- popup start -->
+    <!--#include virtual="view/popup.html" -->
+    <!-- popup end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+
+</body>
+
+</html>

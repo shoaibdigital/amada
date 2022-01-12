@@ -1,0 +1,533 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Template</title>
+    <meta name="description" content="description goes here">
+    <link rel="canonical" href="url goes here" />
+
+    <meta property="og:url" content="url goes here" />
+    <meta property="og:title" content="title goes here" />
+    <meta property="og:description" content="description goes here" />
+    <meta property="og:image" content="img url goes here" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@PayUmoney" />
+    <meta name="twitter:title" content="title goes here" />
+    <meta name="twitter:description" content="description goes here" />
+    <meta name="twitter:url" content="url goes here" />
+    <meta name="twitter:image" content="img url goes here" />
+
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+    <style>
+        .maintitle {
+            font-size: 33px;
+            text-align: center;
+            margin: 20px 0 40px;
+            padding-bottom: 20px;
+            border-bottom: 1px solid #239fd0;
+        }
+
+        .demo {
+            padding: 20px;
+            border: 1px solid #e8e8e8;
+            border-radius: 5px;
+            margin-bottom: 30px;
+            background: #ffffff;
+        }
+
+        .comp-title {
+            font-size: 16px;
+            line-height: 18px;
+            margin-bottom: 20px;
+        }
+
+        .comp-sub-title {
+            font-size: 14px;
+            line-height: 16px;
+            margin-bottom: 10px;
+        }
+
+        .main {
+            width: 100%;
+            float: left;
+        }
+
+        .wrapper {
+            position: relative;
+            padding: 0 20px;
+            overflow: hidden;
+        }
+
+        .box-title {
+            font-size: 20px;
+            font-weight: 500;
+            text-transform: capitalize;
+            margin-bottom: 11px;
+        }
+
+        .sidebar {
+            width: 19%;
+            max-height: 480px;
+            padding: 0;
+            text-align: center;
+            position: fixed;
+            right: 0;
+            overflow-y: auto;
+        }
+
+        .sidebar h2 {
+            font-size: 22px;
+            line-height: 24px;
+            text-align: left;
+            margin-bottom: 20px;
+            text-transform: capitalize;
+        }
+
+        .sidelist {
+            text-align: left;
+            font-size: 16px;
+            line-height: 18px;
+            text-transform: capitalize;
+            list-style: initial;
+            margin-left: 17px;
+        }
+
+        .sidelist li {
+            margin-bottom: 10px;
+            list-style: circle;
+        }
+
+        .margin-bot-20 {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <div class="comp-header typ-white">
+            <!-- header start -->
+            <!--#include virtual="view/header.html" -->
+            <!-- header end -->
+        </div>
+    </header>
+
+    <main>
+        <main>
+            <h1 class="maintitle">Components</h1>
+            <div class="wrapper">
+                <div class="main">
+                    <div class="box">
+                        <h2 class="box-title">Specifications Table</h2>
+                        <div class="demo">
+                            <div class="comp">
+                                <div class="container">
+                                    <div class="bs-table">
+                                        <h3 class="title">Specifications</h3>
+                                        <div class="table-wrap">
+                                            <table class="table" cellpadding="0" cellspacing="0">
+                                                <thead>
+                                                    <tr>
+                                                        <th class="t-title">MODEL</th>
+                                                        <th class="t-title">EM-2510M II</th>
+                                                        <th class="t-title">EM-2612M II</th>
+                                                        <th class="t-title">EMZ-3510M II</th>
+                                                        <th class="t-title">EMK-3510M II</th>
+                                                        <th class="t-title">EMK-3510M II</th>
+                                                        <th class="t-title">EMK-3612M II</th>
+                                                    </tr>
+                                                </thead>
+                                                <tbody>
+                                                    <tr>
+                                                        <td class="t-desc">Press Capacity <span class="cm-bold">KN{tonf}</span></td>
+                                                        <td class="t-desc">200</td>
+                                                        <td class="t-desc">200</td>
+                                                        <td class="t-desc">300</td>
+                                                        <td class="t-desc">300</td>
+                                                        <td class="t-desc">300</td>
+                                                        <td class="t-desc">300</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td class="t-desc">Drive Method</td>
+                                                        <td class="t-desc" colspan="6">AC Servo direct twin drive</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td class="t-desc">Processing Range <span class="cm-bold">mm</span></td>
+                                                        <td class="t-desc">2500 x 1270</td>
+                                                        <td class="t-desc">3050 x 1525</td>
+                                                        <td class="t-desc">2500 x 1270</td>
+                                                        <td class="t-desc">3050 x 1525</td>
+                                                        <td class="t-desc">2500 x 1270</td>
+                                                        <td class="t-desc">3050 x 1525</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td class="t-desc">Max. Material Thickness <span class="cm-bold">mm</span></td>
+                                                        <td class="t-desc" colspan="6">3.2(mild steel)</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td class="t-desc">Hit Rate <span class="cm-bold">min-1</span></td>
+                                                        <td class="t-desc" colspan="2">515 (stroke=5mm , pitch=25.4mm)</td>
+                                                        <td class="t-desc" colspan="4">530 (stroke=5mm , pitch=25.4mm)</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td class="t-desc">Processing Accuracy <span class="cm-bold">mm</span></td>
+                                                        <td class="t-desc" colspan="6">± 0.1 (Manufacturer's standard tolerance)</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td class="t-desc">Mass of Machine <span class="cm-bold">kg</span></td>
+                                                        <td class="t-desc">17000</td>
+                                                        <td class="t-desc">19000</td>
+                                                        <td class="t-desc">18500</td>
+                                                        <td class="t-desc">20500</td>
+                                                        <td class="t-desc">19000</td>
+                                                        <td class="t-desc">21000</td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </div>
+                                    </div>
+                                </div>                                
+                            </div>
+                        </div>
+                    </div>
+                    <div class="box">
+                        <h2 class="box-title">Customer Details</h2>
+                        <div class="demo">
+                            <div class="comp">
+                                <div class="bs-section">
+                                    <div class="container">
+                                        <div class="bs-client-card">
+                                            <ul class="list">
+                                                <li class="item">
+                                                    <div class="clt-card">
+                                                        <h3 class="title">DG Set Manufacturers</h3>
+                                                    </div>
+                                                </li>
+                                                <li class="item">
+                                                    <div class="clt-card">
+                                                        <h3 class="title">Jobshop Manufacturers</h3>
+                                                    </div>
+                                                </li>
+                                                <li class="item">
+                                                    <div class="clt-card">
+                                                        <h3 class="title">Medical Equipment Manufacturers</h3>
+                                                    </div>
+                                                </li>
+                                                <li class="item">
+                                                    <div class="clt-card">
+                                                        <h3 class="title">Control Panel & Switchgear Manufacturers</h3>
+                                                    </div>
+                                                </li>
+                                                <li class="item">
+                                                    <div class="clt-card">
+                                                        <h3 class="title">Air Conditioning & Refrigeration</h3>
+                                                    </div>
+                                                </li>
+                                                <li class="item">
+                                                    <div class="clt-card">
+                                                        <h3 class="title">Lighting Fixture Manufacturers</h3>
+                                                    </div>
+                                                </li>
+                                                <li class="item">
+                                                    <div class="clt-card">
+                                                        <h3 class="title">Elevator Manufacturers</h3>
+                                                    </div>
+                                                </li>
+                                                <li class="item">
+                                                    <div class="clt-card">
+                                                        <h3 class="title">Machine Builders</h3>
+                                                    </div>
+                                                </li>
+                                                <li class="item">
+                                                    <div class="clt-card">
+                                                        <h3 class="title">Furniture Manufacturers</h3>
+                                                    </div>
+                                                </li>
+                                                <li class="item">
+                                                    <div class="clt-card">
+                                                        <h3 class="title">Construction and Agricultural Machinery and
+                                                            equipment</h3>
+                                                    </div>
+                                                </li>
+                                                <li class="item">
+                                                    <div class="clt-card">
+                                                        <h3 class="title">Kitchen Equipment</h3>
+                                                    </div>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="box">
+                        <h2 class="box-title">Breadcrum</h2>
+                        <div class="demo">
+                            <div class="comp">
+                                <div class="bs-breadcrum">
+                                    <div class="container">
+                                        <ul class="list">
+                                            <li class="item"><a href="#" class="link">amada</a></li>
+                                            <li class="item"><a href="#" class="link">about us</a></li>
+                                            <li class="item">CUSTOMER DETAILS</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="box">
+                        <h2 class="box-title">Inner Banner</h2>
+                        <div class="demo">
+                            <div class="comp">
+                                <div class="bs-banner">
+                                    <div class="img-wrap">
+                                        <picture>
+                                            <source media="(max-width:768px)"
+                                                srcset="assets/images/punching-machine-banner.jpg">
+                                            <source media="(min-width:768px)"
+                                                srcset="assets/images/punching-machine-banner.jpg">
+                                            <img src="assets/images/punching-machine-banner.jpg" alt="">
+                                        </picture>
+                                    </div>
+                                    <div class="shape"></div>
+                                    <div class="container">
+                                        <div class="title-wrap">
+                                            <h2 class="title">punching <span class="cm-line-break">machines</span></h2>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="box">
+                        <h2 class="box-title">Image Description</h2>
+                        <div class="demo">
+                            <div class="comp">
+                                <div class="bs-section">
+                                    <div class="container">
+                                        <div class="bs-img-desc bs-two-col">
+                                            <div class="left-side">
+                                                <div class="sec-title">
+                                                    <h2 class="title">AMADA INDIA</h2>
+                                                </div>
+                                                <div class="img-wrap">
+                                                    <picture>
+                                                        <source media="(max-width:768px)"
+                                                            srcset="assets/images/amada-india-m.jpg">
+                                                        <source media="(min-width:768px)"
+                                                            srcset="assets/images/amada-india-m.jpg">
+                                                        <img src="assets/images/amada-india-m.jpg" alt="">
+                                                    </picture>
+                                                </div>
+                                                <div class="sec-desc">
+                                                    <p>With 70 years of experience in the development of metal working
+                                                        machinery, Amada is confident that it will continuously maintain
+                                                        a spirit of originality, guided with a viewpoint of the end
+                                                        user.</p>
+                                                </div>
+
+                                                <div class="action-wrap">
+                                                    <button class="bs-btn btn-default">KNOW MORE ABOUT US</button>
+                                                </div>
+                                            </div>
+                                            <div class="right-side">
+                                                <div class="img-wrap">
+                                                    <picture>
+                                                        <source media="(max-width:768px)"
+                                                            srcset="assets/images/amada-india-m.jpg">
+                                                        <source media="(min-width:768px)"
+                                                            srcset="assets/images/amada-india-m.jpg">
+                                                        <img src="assets/images/amada-india-m.jpg" alt="">
+                                                    </picture>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="box">
+                        <h2 class="box-title">Image Description Reverse</h2>
+                        <div class="demo">
+                            <div class="comp">
+                                <div class="bs-section">
+                                    <div class="container">
+                                        <div class="bs-img-desc bs-two-col typ-row-reverse">
+                                            <div class="left-side">
+                                                <div class="sec-title">
+                                                    <h2 class="title">VOCATIONAL
+                                                        CENTRE</h2>
+                                                </div>
+                                                <div class="img-wrap">
+                                                    <picture>
+                                                        <source media="(max-width:768px)"
+                                                            srcset="assets/images/vocational-m.jpg">
+                                                        <source media="(min-width:768px)"
+                                                            srcset="assets/images/vocational-m.jpg">
+                                                        <img src="assets/images/vocational-m.jpg" alt="">
+                                                    </picture>
+                                                </div>
+                                                <div class="sec-desc">
+                                                    <p>To overcome the shortage of skilled workers, we want to work
+                                                        together with our customers and their employees and give them
+                                                        the ability to constantly live up to the ever-greater technical
+                                                        requirements in the field of Sheet Metal Industry.</p>
+                                                </div>
+                                                <div class="action-wrap">
+                                                    <button class="bs-btn btn-default">VIEW COURSES OFFERED BY US</button>
+                                                </div>
+                                            </div>
+                                            <div class="right-side">
+                                                <div class="img-wrap">
+                                                    <picture>
+                                                        <source media="(max-width:768px)"
+                                                            srcset="assets/images/vocational-m.jpg">
+                                                        <source media="(min-width:768px)"
+                                                            srcset="assets/images/vocational-m.jpg">
+                                                        <img src="assets/images/vocational-m.jpg" alt="">
+                                                    </picture>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="box">
+                        <h2 class="box-title">Product Card</h2>
+                        <div class="demo">
+                            <div class="comp">
+                                <div class="bs-section">
+                                    <div class="container">
+                                        <div class="sec-title">
+                                            <h2 class="title">OUR PRODUCTS</h2>
+                                        </div>
+                                        <div class="sec-cont">
+                                            <div class="cp-prod-card">
+                                                <ul class="list">
+                                                    <li class="item">
+                                                        <div class="bs-prod-card">
+                                                            <div class="img-wrap">
+                                                                <img src="assets/images/pro1.jpg" alt="">
+                                                            </div>
+                                                            <div class="info-wrap">
+                                                                <h3 class="title">PUNCHING <span
+                                                                        class="cm-line-break">MACHINES</span></h3>
+                                                            </div>
+                                                        </div>
+                                                    </li>
+                                                    <li class="item">
+                                                        <div class="bs-prod-card">
+                                                            <div class="img-wrap">
+                                                                <img src="assets/images/pro1.jpg" alt="">
+                                                            </div>
+                                                            <div class="info-wrap">
+                                                                <h3 class="title">Laser <span
+                                                                        class="cm-line-break">MACHINES</span></h3>
+                                                            </div>
+                                                        </div>
+                                                    </li>
+                                                    <li class="item">
+                                                        <div class="bs-prod-card">
+                                                            <div class="img-wrap">
+                                                                <img src="assets/images/pro1.jpg" alt="">
+                                                            </div>
+                                                            <div class="info-wrap">
+                                                                <h3 class="title">Bending <span
+                                                                        class="cm-line-break">MACHINES</span></h3>
+                                                            </div>
+                                                        </div>
+                                                    </li>
+                                                    <li class="item">
+                                                        <div class="bs-prod-card">
+                                                            <div class="img-wrap">
+                                                                <img src="assets/images/pro1.jpg" alt="">
+                                                            </div>
+                                                            <div class="info-wrap">
+                                                                <h3 class="title">Fabricating <span
+                                                                        class="cm-line-break">MACHINES</span></h3>
+                                                            </div>
+                                                        </div>
+                                                    </li>
+                                                    <li class="item">
+                                                        <div class="bs-prod-card">
+                                                            <div class="img-wrap">
+                                                                <img src="assets/images/pro1.jpg" alt="">
+                                                            </div>
+                                                            <div class="info-wrap">
+                                                                <h3 class="title">Tooling <span class="cm-line-break">&
+                                                                        Spares</span></h3>
+                                                            </div>
+                                                        </div>
+                                                    </li>
+                                                    <li class="item">
+                                                        <div class="bs-prod-card">
+                                                            <div class="img-wrap">
+                                                                <img src="assets/images/pro1.jpg" alt="">
+                                                            </div>
+                                                            <div class="info-wrap">
+                                                                <h3 class="title">Softwares</span></h3>
+                                                            </div>
+                                                        </div>
+                                                    </li>
+                                                    <li class="item">
+                                                        <div class="bs-prod-card">
+                                                            <div class="img-wrap">
+                                                                <img src="assets/images/pro1.jpg" alt="">
+                                                            </div>
+                                                            <div class="info-wrap">
+                                                                <h3 class="title">Automation</h3>
+                                                            </div>
+                                                        </div>
+                                                    </li>
+                                                    <li class="item">
+                                                        <div class="bs-prod-card">
+                                                            <div class="img-wrap">
+                                                                <img src="assets/images/pro1.jpg" alt="">
+                                                            </div>
+                                                            <div class="info-wrap">
+                                                                <h3 class="title">Combination</h3>
+                                                            </div>
+                                                        </div>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </main>
+
+    <footer>
+        <!-- footer start -->
+        <!--#include virtual="view/footer.html" -->
+        <!-- footer end -->
+    </footer>
+
+    <!-- popup start -->
+    <!--#include virtual="view/popup.html" -->
+    <!-- popup end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+
+</body>
+
+</html>

@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Product</title>
+    <meta name="description" content="description goes here">
+    <link rel="canonical" href="url goes here" />
+
+    <meta property="og:url" content="url goes here" />
+    <meta property="og:title" content="title goes here" />
+    <meta property="og:description" content="description goes here" />
+    <meta property="og:image" content="img url goes here" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@PayUmoney" />
+    <meta name="twitter:title" content="title goes here" />
+    <meta name="twitter:description" content="description goes here" />
+    <meta name="twitter:url" content="url goes here" />
+    <meta name="twitter:image" content="img url goes here" />
+
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+
+</head>
+
+<body>
+    <header>
+        <!-- header start -->
+        <!--#include virtual="view/header.html" -->
+        <!-- header end -->
+    </header>
+
+    <main>
+        <div class="main lyt-content js-bg">
+            <div class="bs-breadcrum">
+                <div class="container">
+                    <ul class="list">
+                        <li class="item"><a href="#" class="link">amada</a></li>
+                        <li class="item"><a href="#" class="link">products</a></li>
+                        <li class="item"><a href="#" class="link">Press Brake Machines</a></li>
+                        <li class="item">HG-ATC series</li>
+                    </ul>
+                </div>
+            </div>
+            <section>
+                <div class="bs-section">
+                    <div class="container">
+                        <div class="bs-product-detail">
+                            <div class="pd-head">
+                                <ul class="bs-chain-info">
+                                    <li class="item">
+                                        <div class="bs-img-desc">
+                                            <div class="left-side">
+                                                <h2 class="title">HG-ATC series</h2>
+                                                <p class="sub-title">Press brake for extremely high-mix, small-batch production</p>
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/products/press/press2.jpg"></div>
+                                                <div class="sec-desc">
+                                                    <p>Automation of tool setup and angle accuracy adjustment by batch tool layout for multiple part types</p>
+                                                    <p>Hybrid press brake with the next generation ATC</p>
+                                                    <p>The Automatic Tool Changer (ATC) is added to the digital hybrid press brake HG-1003 with a new mechanism.</p>
+                                                    <p>Tool changes are automated to accommodate high-mix small-batch assembly production</p>
+                                                </div>
+                                            </div>
+                                            <div class="right-side">
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/products/press/press2.jpg"></div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="pd-body">
+                                <div class="bs-table">
+                                    <h3 class="title">Specifications</h3>
+                                    <div class="table-wrap">
+                                        <table class="table" cellpadding="0" cellspacing="0">
+                                            <thead>
+                                                <tr>
+                                                    <th class="t-title cm-half">Model</th>
+                                                    <th class="t-title cm-half">HG-1003</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td class="t-desc">Capacity <span class="cm-bold">kN {ton}</span></td>
+                                                    <td class="t-desc">1000 {100}</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Bending Length <span class="cm-bold">mm</span></td>
+                                                    <td class="t-desc">3110</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Stroke length <span class="cm-bold">mm/</span></td>
+                                                    <td class="t-desc">620</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Rapid Closing Speed <span class="cm-bold">mm/s</span></td>
+                                                    <td class="t-desc">220</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Bending Speed <span>mm/s</span></td>
+                                                    <td class="t-desc">20</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Openning Speed <span class="cm-bold">mm/s</span></td>
+                                                    <td class="t-desc">250</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Tank Capacity <span class="cm-bold">L</span></td>
+                                                    <td class="t-desc">59.5</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                                <div class="bs-table">
+                                    <h3 class="title">ATC Specifications</h3>
+                                    <div class="table-wrap">
+                                        <table class="table" cellpadding="0" cellspacing="0">
+                                            <thead>
+                                                <tr>
+                                                    <th class="t-title cm-half">Tool Type</th>
+                                                    <th class="t-title cm-half">AMTS III (ATC)</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td class="t-desc">Number of tool stockers (dies)</td>
+                                                    <td class="t-desc">18 dies</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Number of tool stockers (punch)</td>
+                                                    <td class="t-desc">15 punch</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Tool layout length (mm)</td>
+                                                    <td class="t-desc">15 ~ 2495</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Tool length increments (mm)</td>
+                                                    <td class="t-desc">5</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section>
+                <div class="bs-button">
+                    <div class="container">
+                        <div class="action-wrap">
+                            <button class="bs-btn btn-icon-link download-btn"><span class="icon icon-download"></span>
+                                    <a href="assets/doc/HG-1003-ATC.pdf" target="_blank">download brochure</a></button>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <!-- footer start -->
+        <!--#include virtual="view/footer.html" -->
+        <!-- footer end -->
+    </footer>
+
+    <!-- popup start -->
+    <!--#include virtual="view/popup.html" -->
+    <!-- popup end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+
+</body>
+
+</html>

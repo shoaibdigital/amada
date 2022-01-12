@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Product</title>
+    <meta name="description" content="description goes here">
+    <link rel="canonical" href="url goes here" />
+
+    <meta property="og:url" content="url goes here" />
+    <meta property="og:title" content="title goes here" />
+    <meta property="og:description" content="description goes here" />
+    <meta property="og:image" content="img url goes here" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@PayUmoney" />
+    <meta name="twitter:title" content="title goes here" />
+    <meta name="twitter:description" content="description goes here" />
+    <meta name="twitter:url" content="url goes here" />
+    <meta name="twitter:image" content="img url goes here" />
+
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+
+</head>
+
+<body>
+    <header>
+        <!-- header start -->
+        <!--#include virtual="view/header.html" -->
+        <!-- header end -->
+    </header>
+
+    <main>
+        <div class="main lyt-content js-bg">
+            <div class="bs-breadcrum">
+                <div class="container">
+                    <ul class="list">
+                        <li class="item"><a href="#" class="link">amada</a></li>
+                        <li class="item"><a href="#" class="link">products</a></li>
+                        <li class="item"><a href="#" class="link">Laser Machines</a></li>
+                        <li class="item">LCG 3015 AJ II</li>
+                    </ul>
+                </div>
+            </div>
+            <section>
+                <div class="bs-section">
+                    <div class="container">
+                        <div class="bs-product-detail">
+                            <div class="pd-head">
+                                <ul class="bs-chain-info">
+                                    <li class="item">
+                                        <div class="bs-img-desc">
+                                            <div class="left-side">
+                                                <h2 class="title">LCG 3015 AJ II</h2>
+                                                <p class="sub-title">High-efficiency Fiber laser machine</p>
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/products/laser/laser13.jpg"></div>
+                                                <div class="sec-desc">
+                                                    <p>The AMADA’s global standard fiber laser machine LCG-AJ series. High-efficiency fiber laser cutting system that most suitable for processing wide range materials.
+                                                    </p>
+                                                    <p><strong>LCG AJII Features</strong></p>
+                                                    <ul class="mod-list-circle">
+                                                        <li>Better productivity
+                                                            <ul class="inside-list">
+                                                                <li>Processing of various materials without changing the focus lens.</li>
+                                                                <li>Automatic nozzle changer unit.</li>
+                                                            </ul>
+                                                        </li>
+                                                        <li>Expanded processing range
+                                                            <ul class="inside-list">
+                                                                <li>High pressure air cutting</li>
+                                                                <li>Deep engraving</li>
+                                                            </ul>
+                                                        </li>
+                                                        <li>Flexible options
+                                                            <ul class="inside-list">
+                                                                <li>Upgraded automation solutions (MPL-C, ASFH-TKL,AS-T,MARS)</li>
+                                                                <li>X-Direction conveyor</li>
+                                                            </ul>
+                                                        </li>
+                                                        <li>Easy operation – AMNC-3i</li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                            <div class="right-side">
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/products/laser/laser13.jpg"></div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                </ul>
+
+                            </div>
+                            <div class="pd-body">
+                                <div class="bs-table">
+                                    <h3 class="title">Specifications</h3>
+                                    <div class="table-wrap">
+                                        <table class="table" cellpadding="0" cellspacing="0">
+                                            <thead>
+                                                <tr>
+                                                    <th class="t-title">Model</th>
+                                                    <th class="t-title">LCG3015AJ II</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td class="t-desc">Rated Laser Power</td>
+                                                    <td class="t-desc">3000W</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Oscillator</td>
+                                                    <td class="t-desc">LD pumped fiber laser</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Processing Dimension X x Y x Z <span class="cm-cold">mm</span></td>
+                                                    <td class="t-desc">3070 x 1550 x 100</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Axis control method</td>
+                                                    <td class="t-desc">X, Y, Z axes ( simultaneous controller ) + B axis + CF axis</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Rapid traverse X x Y composite <span class="cm-cold">m/min</span></td>
+                                                    <td class="t-desc">170</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Processing feed rate X x Y <span class="cm-cold">m/min</span></td>
+                                                    <td class="t-desc">0 - 120 (max. command speed )</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Mass of the machine (include oscillator) <span class="cm-cold">kg</span></td>
+                                                    <td class="t-desc">9100</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Material Thickness <span class="cm-cold">mm</span></td>
+                                                    <td class="t-desc"></td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Mild steel</td>
+                                                    <td class="t-desc">19</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Stainless steel</td>
+                                                    <td class="t-desc">15</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Aluminium</td>
+                                                    <td class="t-desc">12</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Brass</td>
+                                                    <td class="t-desc">8</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Copper</td>
+                                                    <td class="t-desc">6</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section>
+                <div class="bs-button">
+                    <div class="container">
+                        <div class="action-wrap">
+                            <button class="bs-btn btn-icon-link download-btn"><span class="icon icon-download"></span>
+                                    <a href="assets/doc/Catalog_LCG-AJII.pdf" target="_blank">download brochure</a></button>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <!-- footer start -->
+        <!--#include virtual="view/footer.html" -->
+        <!-- footer end -->
+    </footer>
+
+    <!-- popup start -->
+    <!--#include virtual="view/popup.html" -->
+    <!-- popup end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+
+</body>
+
+</html>

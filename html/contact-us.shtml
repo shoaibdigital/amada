@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Contact Us</title>
+    <meta name="description" content="description goes here">
+    <link rel="canonical" href="url goes here" />
+
+    <meta property="og:url" content="url goes here" />
+    <meta property="og:title" content="title goes here" />
+    <meta property="og:description" content="description goes here" />
+    <meta property="og:image" content="img url goes here" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@PayUmoney" />
+    <meta name="twitter:title" content="title goes here" />
+    <meta name="twitter:description" content="description goes here" />
+    <meta name="twitter:url" content="url goes here" />
+    <meta name="twitter:image" content="img url goes here" />
+
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+
+</head>
+
+<body>
+    <header>
+        <!-- header start -->
+        <!--#include virtual="view/header.html" -->
+        <!-- header end -->
+    </header>
+
+    <main>
+        <div class="main lyt-content js-bg">
+            <!-- banner start -->
+            <!--#include virtual="view/contact-us-banner.html" -->
+            <!-- banner end -->
+            <div class="bs-breadcrum">
+                <div class="container">
+                    <ul class="list">
+                        <li class="item"><a href="#" class="link">amada</a></li>
+                        <li class="item"><a href="#" class="link">Contact</a></li>
+                        <li class="item">Contact Us</li>
+                    </ul>
+                </div>
+            </div>
+            <section>
+                <div class="bs-section sec-first">
+                    <div class="container">
+                        <div class="sec-cont">
+                            <ul class="bs-chain-info typ-img-lg typ-reverse typ-address">
+                                <li class="item">
+                                    <div class="bs-img-desc">
+                                        <div class="left-side">
+                                            <h2 class="title">Amada (India) pvt. ltd.</h2>
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/contact/contact1.jpg">
+                                            </div>
+                                            <div class="sec-desc">
+                                                <p><strong>Bangalore Technical Centre</strong>
+                                                    <span class="cm-line-break">(Head Office & Registered Office)</span>
+                                                    <span class="cm-line-break">No.60, KIADB Bengaluru Aerospace Park,</span>
+                                                    <span class="cm-line-break">Singahalli Village, Budigere Post, Bangalore,</span>
+                                                    <span class="cm-line-break">North Taluk – 562 129, India.</span>
+                                                    <span class="cm-line-break">Telephone: <a href="tel:918071100200">+91-80-71100200</a></span>
+                                                    <span class="cm-line-break">Web: <a href="www.amadaindia.co.in">www.amadaindia.co.in</a></span>
+                                                    <span class="cm-line-break">Email: <a href="mailto:info@amadaindia.co.in">info@amadaindia.co.in</a></span>
+                                                    <span class="cm-line-break">CIN Number: U74140KA2000PTC078927</span>
+                                                </p>
+                                            </div>
+                                        </div>
+                                        <div class="right-side">
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/contact/contact1.jpg">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section>
+                <div class="bs-section">
+                    <div class="container">
+                        <div class="sec-cont">
+                            <div class="bs-add-card">
+                                <ul class="list">
+                                    <li class="item">
+                                        <div class="mod-add">
+                                            <div class="info-wrap">
+                                                <h3 class="title">North Satellite <span class="cm-line-break">Technical Center</span></h3>
+                                                <div class="sec-desc">
+                                                    <p>North Satellite Center
+                                                        <span class="cm-line-break">Faridabad Plot No. 38,</span>
+                                                        <span class="cm-line-break">Sector 27A, Mathura Road,</span>
+                                                        <span class="cm-line-break">Faridabad – 121 003 (Haryana)</span>
+                                                        <span class="cm-line-break">Ph: <a href="tel:9350679547">9350679547</a></span>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="item">
+                                        <div class="mod-add">
+                                            <div class="info-wrap">
+                                                <h3 class="title">Bangalore SC</h3>
+                                                <div class="sec-desc">
+                                                    <p>No. 8/13, Ground Floor,
+                                                        <span class="cm-line-break">G. N. Lakshmikanth Complex,</span>
+                                                        <span class="cm-line-break">1st Cross, 1st Block,</span>
+                                                        <span class="cm-line-break">Nandhini Layout,</span>
+                                                        <span class="cm-line-break">Bangalore - 560 096.</span>
+                                                        <span class="cm-line-break">Ph: <a href="tel:8023379255">080 – 233 792 55</a></span>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="item">
+                                        <div class="mod-add">
+                                            <div class="info-wrap">
+                                                <h3 class="title">Hyderabad SC</h3>
+                                                <div class="sec-desc">
+                                                    <p>No.1-7-96, 2nd Floor,
+                                                        <span class="cm-line-break">KMR Plaza, Kamala Nagar
+                                                        <span class="cm-line-break">Main Road, CIL Post,</span>
+                                                        <span class="cm-line-break">Hyderabad - 500 062.</span>
+                                                        <span class="cm-line-break">Ph: <a href="tel:8886426624">8886426624</a></span>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="item">
+                                        <div class="mod-add">
+                                            <div class="info-wrap">
+                                                <h3 class="title">Chennai SC</h3>
+                                                <div class="sec-desc">
+                                                    <p>103/1,1st Floor,
+                                                        <span class="cm-line-break">Poonamalee High Road,</span>
+                                                        <span class="cm-line-break">Goparasanallur, Kattupakkam,</span>
+                                                        <span class="cm-line-break">Chennai – 600 056.</span>
+                                                        <span class="cm-line-break">Direct: <a href="tel:4426792856">044-26792856</a></span>
+                                                        <span class="cm-line-break">LM: Above Kovai Pazhamudhir</span>
+                                                        <span class="cm-line-break">Nilayam/next to Baba temple</span>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="item">
+                                        <div class="mod-add">
+                                            <div class="info-wrap">
+                                                <h3 class="title">Mumbai SC</h3>
+                                                <div class="sec-desc">
+                                                    <p>Office No.208, 2nd Floor,
+                                                        <span class="cm-line-break">Puranik Capitol Puranik City,</span>
+                                                        <span class="cm-line-break">Opp-Hypercity, Vadavli</span>
+                                                        <span class="cm-line-break">Ghodbunder Road,</span>
+                                                        <span class="cm-line-break">Thane (W) – 400 615</span>
+                                                        <span class="cm-line-break">Tel No: <a href="tel:2225973467">022 25973467</a></span>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="item">
+                                        <div class="mod-add">
+                                            <div class="info-wrap">
+                                                <h3 class="title">Pune SC</h3>
+                                                <div class="sec-desc">
+                                                    <p>Office No. 405, 4th Floor,
+                                                        <span class="cm-line-break">TRANSBAY Building.</span>
+                                                        <span class="cm-line-break"> Survey No. 3, Balewadi Phata,</span>
+                                                        <span class="cm-line-break">Baner, Village Balewadi,</span>
+                                                        <span class="cm-line-break">District Pune – 411 045,</span>
+                                                        <span class="cm-line-break"> Maharashtra</span>
+                                                        <span class="cm-line-break">Cell.No: <a href="tel:7875556334">07875556334</a></span>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="item">
+                                        <div class="mod-add">
+                                            <div class="info-wrap">
+                                                <h3 class="title">Vadodara SC</h3>
+                                                <div class="sec-desc">
+                                                    <p>Baroda Service Center
+                                                        <span class="cm-line-break">Plot No.2,Ajitanagar-1,</span>
+                                                        <span class="cm-line-break">Beside BRG Heights,</span>
+                                                        <span class="cm-line-break">Nr.Amit Nagar Circle,</span>
+                                                        <span class="cm-line-break">Sama Savli Road,</span>
+                                                        <span class="cm-line-break">Vadodara - 390 018</span>
+                                                        <span class="cm-line-break">Cell: <a href="tel:8238040120">82380 40120</a></span>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section>
+                <div class="bs-section">
+                    <div class="container">
+                        <div class="sec-cont">
+                            <ul class="bs-map">
+                                <li class="item">
+                                    <div class="iframe">
+                                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3884.7542352476476!2d77.71948381477279!3d13.177889790720819!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae110aecb2852f%3A0x145b7e34c1222e35!2sAMADA%20India%20Technical%20Center!5e0!3m2!1sen!2sin!4v1629292398370!5m2!1sen!2sin"
+                                            width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+        </div>
+    </main>
+
+    <footer>
+        <!-- footer start -->
+        <!--#include virtual="view/footer.html" -->
+        <!-- footer end -->
+    </footer>
+
+    <!-- popup start -->
+    <!--#include virtual="view/popup.html" -->
+    <!-- popup end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+
+</body>
+
+</html>

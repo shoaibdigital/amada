@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Presidents Message</title>
+    <meta name="description" content="description goes here">
+    <link rel="canonical" href="url goes here" />
+
+    <meta property="og:url" content="url goes here" />
+    <meta property="og:title" content="title goes here" />
+    <meta property="og:description" content="description goes here" />
+    <meta property="og:image" content="img url goes here" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@PayUmoney" />
+    <meta name="twitter:title" content="title goes here" />
+    <meta name="twitter:description" content="description goes here" />
+    <meta name="twitter:url" content="url goes here" />
+    <meta name="twitter:image" content="img url goes here" />
+
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+
+</head>
+
+<body>
+    <header>
+        <!-- header start -->
+        <!--#include virtual="view/header.html" -->
+        <!-- header end -->
+    </header>
+
+    <main>
+        <div class="main lyt-content js-bg">
+            <!-- banner start -->
+            <!--#include virtual="view/president-message-banner.html" -->
+            <!-- banner end -->
+            <div class="bs-breadcrum">
+                <div class="container">
+                    <ul class="list">
+                        <li class="item"><a href="#" class="link">amada</a></li>
+                        <li class="item"><a href="#" class="link">about us</a></li>
+                        <li class="item">Presidents Message</li>
+                    </ul>
+                </div>
+            </div>
+            <section>
+                <div class="bs-section">
+                    <div class="container">
+                        <div class="sec-cont">
+                            <ul class="bs-chain-info typ-img-lg">
+                                <li class="item">
+                                    <div class="bs-img-desc">
+                                        <div class="left-side">
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/pre/president1.jpg">
+                                            </div>
+                                            <div class="sec-desc">
+                                                <p><strong>Dear Customers,</strong></p>
+                                                <p>As the Covid-19 is impacting more and more of our lives, many proactive actions have been initiated by Amada India to ensure business continuity in support of our industry.</p>
+                                                <p>Amada India is operating with a series of preventative safety measures, is following regional health department guidelines, and is actively managing this dynamic situation.</p>
+                                                <p>Our priorities are:</p>
+                                                <ul class="mod-list">
+                                                    <li class="item">The safety of our employees, and</li>
+                                                    <li class="item">Maintain our ability to provide required services and products to our customers. Any services requiring physical presence, are provided in a manner that protects the safety of everyone involved.</li>
+                                                </ul>
+                                                <p>We feel privileged that you trust us to continue supplying products with superior quality to you. To do so, we ensure to protect the health and safety of our employees to the best we can.</p>
+                                                <p>Whereas private life is under severe constraints nowadays, most of our employees are still allowed to come to work to ensure business continuity, for you and for all of us.</p>
+                                                <p>We wish our customers, employees, suppliers and partners to stay healthy and safe.</p>
+                                                <p>Looking forward to seeing you again in person and face-to-face.</p>
+                                                <p>For everyone safe success,</p>
+                                                <p><strong>Niraj Seth
+                                                    <span class="cm-line-break">President</span>
+                                                    <span class="cm-line-break">Amada (India) Pvt. Ltd.</span>
+                                                </strong>
+                                                </p>
+
+                                            </div>
+                                        </div>
+                                        <div class="right-side">
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/pre/president1.jpg">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <!-- footer start -->
+        <!--#include virtual="view/footer.html" -->
+        <!-- footer end -->
+    </footer>
+
+    <!-- popup start -->
+    <!--#include virtual="view/popup.html" -->
+    <!-- popup end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+
+</body>
+
+</html>

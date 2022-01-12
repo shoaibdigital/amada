@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Product</title>
+    <meta name="description" content="description goes here">
+    <link rel="canonical" href="url goes here" />
+
+    <meta property="og:url" content="url goes here" />
+    <meta property="og:title" content="title goes here" />
+    <meta property="og:description" content="description goes here" />
+    <meta property="og:image" content="img url goes here" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@PayUmoney" />
+    <meta name="twitter:title" content="title goes here" />
+    <meta name="twitter:description" content="description goes here" />
+    <meta name="twitter:url" content="url goes here" />
+    <meta name="twitter:image" content="img url goes here" />
+
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+
+</head>
+
+<body>
+    <header>
+        <!-- header start -->
+        <!--#include virtual="view/header.html" -->
+        <!-- header end -->
+    </header>
+
+    <main>
+        <div class="main lyt-content js-bg">
+            <div class="bs-breadcrum">
+                <div class="container">
+                    <ul class="list">
+                        <li class="item"><a href="#" class="link">amada</a></li>
+                        <li class="item"><a href="#" class="link">products</a></li>
+                        <li class="item"><a href="#" class="link">Press Brake Machines</a></li>
+                        <li class="item">HG series</li>
+                    </ul>
+                </div>
+            </div>
+            <section>
+                <div class="bs-section">
+                    <div class="container">
+                        <div class="bs-product-detail">
+                            <div class="pd-head">
+                                <ul class="bs-chain-info">
+                                    <li class="item">
+                                        <div class="bs-img-desc">
+                                            <div class="left-side">
+                                                <h2 class="title">HG series</h2>
+                                                <p class="sub-title">High speed & High accuracy press brakes</p>
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/products/press/press1.jpg"></div>
+                                                <div class="sec-desc">
+                                                    <p>HG Series is high end press brake for various mix & various volume production.</p>
+                                                    <p>An ultra-high precision, high-speed compact bending solution featuring an advanced Dual Servo Power Drive system providing ultimate in bending control and accuracy.</p>
+                                                    <p>A newly developed NC unit has display functions strengthened to allow operators to check forming information in real time and to contribute to easier operation and shorter lead time. A variety of bend
+                                                        angle solutions support inexperienced operators in achieving target bend angle from the first part without test bending.</p>
+                                                </div>
+                                            </div>
+                                            <div class="right-side">
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/products/press/press1.jpg"></div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    </li>
+                                </ul>
+                                <div class="bs-features">
+                                    <div class="lyt-features">
+                                        <div class="">
+                                            <h2 class="title">FEATURES</h2>
+                                            <div class="sec-desc">
+                                                <h3 class="sub-title">Unique Hybrid Drive System</h3>
+                                                <ul class="mod-list-circle">
+                                                    <li>Independent AC-servo motors drive high efficiency & bi-directional hydraulic pumps.</li>
+                                                    <li>Extremely fast approach, bending & return speeds provide faster cycle times.</li>
+                                                </ul>
+                                                <h3 class="sub-title">Multiple Axis Back gauge</h3>
+                                                <ul class="mod-list-circle">
+                                                    <li>6-axis back gauge speed setup for complex parts.</li>
+                                                    <li>High-speed movement on all axes.</li>
+                                                    <li>Independent servo drives for ‘’L’’ axis allow tapered bends.</li>
+                                                </ul>
+                                                <h3 class="sub-title">Dynamic Hydraulic Crown Bed</h3>
+                                                <ul class="mod-list-circle">
+                                                    <li>Amada’s patented hybrid hydraulic crown bed design automatically provides consistent angular accuracy.</li>
+                                                </ul>
+                                                <h3 class="sub-title">AMNC 3i Control with Network Capabilities</h3>
+                                                <ul class="mod-list-circle">
+                                                    <li>User-friendly graphic interface.</li>
+                                                    <li>Automatic program creation from a 3D representation of the workpiece.</li>
+                                                    <li>Built-in barcode reader</li>
+                                                    <li>Dual foot pedal ram control.</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="pd-body">
+                                <div class="bs-table">
+                                    <h3 class="title">Specifications</h3>
+                                    <div class="table-wrap">
+                                        <table class="table" cellpadding="0" cellspacing="0">
+                                            <thead>
+                                                <tr>
+                                                    <th class="t-title">Model</th>
+                                                    <th class="t-title">HG-5020</th>
+                                                    <th class="t-title">HG-8025</th>
+                                                    <th class="t-title">HG-1303</th>
+                                                    <th class="t-title">HG-1703</th>
+                                                    <th class="t-title">HG-1704</th>
+                                                    <th class="t-title">HG-2203</th>
+                                                    <th class="t-title">HG-2204</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td class="t-desc">Tonnage <span class="cm-bold">kN {ton}</span></td>
+                                                    <td class="t-desc">500 {50}</td>
+                                                    <td class="t-desc">800 {80}</td>
+                                                    <td class="t-desc">1300 {130}</td>
+                                                    <td class="t-desc">1700 {170}</td>
+                                                    <td class="t-desc">1700 {170}</td>
+                                                    <td class="t-desc">2200 {220}</td>
+                                                    <td class="t-desc">2200 {220}</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Bend Length <span class="cm-bold">mm</span></td>
+                                                    <td class="t-desc">2150</td>
+                                                    <td class="t-desc">2600</td>
+                                                    <td class="t-desc">3110</td>
+                                                    <td class="t-desc">3110</td>
+                                                    <td class="t-desc">4300</td>
+                                                    <td class="t-desc">3110</td>
+                                                    <td class="t-desc">4300</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Stoke length <span class="cm-bold">mm</span></td>
+                                                    <td class="t-desc" colspan="7">250</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Approach Speed <span class="cm-bold">mm/s</span></td>
+                                                    <td class="t-desc" colspan="7">220</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Bending Speed <span>mm/s</span></td>
+                                                    <td class="t-desc" colspan="7">20</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Return Speed <span class="cm-bold">mm/s</span></td>
+                                                    <td class="t-desc" colspan="7">250</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Machine Mass <span class="cm-bold">kg</span></td>
+                                                    <td class="t-desc">5500</td>
+                                                    <td class="t-desc">7200</td>
+                                                    <td class="t-desc">11500</td>
+                                                    <td class="t-desc">1500</td>
+                                                    <td class="t-desc">1800</td>
+                                                    <td class="t-desc">1700</td>
+                                                    <td class="t-desc">20000</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section>
+                <div class="bs-button">
+                    <div class="container">
+                        <div class="action-wrap">
+                            <button class="bs-btn btn-icon-link download-btn"><span class="icon icon-download"></span>
+                                    <a href="assets/doc/HG-Series.pdf" target="_blank">download brochure</a></button>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <!-- footer start -->
+        <!--#include virtual="view/footer.html" -->
+        <!-- footer end -->
+    </footer>
+
+    <!-- popup start -->
+    <!--#include virtual="view/popup.html" -->
+    <!-- popup end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+
+</body>
+
+</html>

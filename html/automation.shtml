@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Automation</title>
+    <meta name="description" content="description goes here">
+    <link rel="canonical" href="url goes here" />
+
+    <meta property="og:url" content="url goes here" />
+    <meta property="og:title" content="title goes here" />
+    <meta property="og:description" content="description goes here" />
+    <meta property="og:image" content="img url goes here" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@PayUmoney" />
+    <meta name="twitter:title" content="title goes here" />
+    <meta name="twitter:description" content="description goes here" />
+    <meta name="twitter:url" content="url goes here" />
+    <meta name="twitter:image" content="img url goes here" />
+
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+
+</head>
+
+<body>
+    <header>
+        <!-- header start -->
+        <!--#include virtual="view/header.html" -->
+        <!-- header end -->
+    </header>
+
+    <main>
+        <div class="main lyt-content js-bg">
+            <!-- banner start -->
+            <!--#include virtual="view/automation-banner.html" -->
+            <!-- banner end -->
+            <div class="bs-breadcrum">
+                <div class="container">
+                    <ul class="list">
+                        <li class="item"><a href="#" class="link">amada</a></li>
+                        <li class="item"><a href="#" class="link">Products</a></li>
+                        <li class="item">Automation</li>
+                    </ul>
+                </div>
+            </div>
+            <section>
+                <div class="bs-section sec-first">
+                    <div class="container">
+                        <div class="sec-cont">
+                            <ul class="bs-chain-info">
+                                <li class="item">
+                                    <div class="bs-img-desc">
+                                        <div class="left-side">
+                                            <h2 class="title">TAKEOUT LOADER (RMP-NTK)</h2>
+                                            <div class="img-wrap lozad-background" data-background-image="assets/images/products/auto/auto1.jpg"></div>
+                                            <div class="sec-desc">
+                                                <p><strong>Features</strong></p>
+                                                <ul class="mod-list-circle">
+                                                    <li>Material Loading/Component stacking system for long hour automatic operation.</li>
+                                                    <li>Improvement of automatic operability</li>
+                                                    <li>Stand alone operation with space saving</li>
+                                                    <li>Expansion availability (System up)</li>
+                                                </ul>
+                                            </div>
+                                            <div class="action-wrap">
+                                                <a href="automation-rmp-ntk-product-details.shtml" class="bs-btn btn-default">KNOW MORE</a>
+                                                <button class="bs-btn btn-icon-link"><span class="icon icon-download"></span>download brochure</button>
+                                            </div>
+                                        </div>
+                                        <div class="right-side">
+                                            <div class="img-wrap lozad-background" data-background-image="assets/images/products/auto/auto1.jpg"></div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="item">
+                                    <div class="bs-img-desc">
+                                        <div class="left-side">
+                                            <h2 class="title">TAKEOUT LOADER WITH STORAGE TOWER (AS-NTK)</h2>
+                                            <div class="img-wrap lozad-background" data-background-image="assets/images/products/auto/auto2.jpg"></div>
+                                            <div class="sec-desc">
+                                                <p><strong>Features</strong></p>
+                                                <ul class="mod-list-circle">
+                                                    <li>Multi TK device</li>
+                                                    <li>Joint less processing</li>
+                                                    <li>High Grade processing</li>
+                                                </ul>
+                                            </div>
+                                            <div class="action-wrap">
+                                                <a href="automation-as-ntk-product-details.shtml" class="bs-btn btn-default">KNOW MORE</a>
+                                                <button class="bs-btn btn-icon-link"><span class="icon icon-download"></span>download brochure</button>
+                                            </div>
+                                        </div>
+                                        <div class="right-side">
+                                            <div class="img-wrap lozad-background" data-background-image="assets/images/products/auto/auto2.jpg"></div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="item">
+                                    <div class="bs-img-desc">
+                                        <div class="left-side">
+                                            <h2 class="title">CYCLE LOADER WITH STORAGE TOWER (ASR-N)</h2>
+                                            <div class="img-wrap lozad-background" data-background-image="assets/images/products/auto/auto3.jpg"></div>
+                                            <div class="sec-desc">
+                                                <p><strong>Features</strong></p>
+                                                <ul class="mod-list-circle">
+                                                    <li>Material loading / Component stacking system for log hour automatic operation.</li>
+                                                    <li>Shortening of setup time</li>
+                                                    <li>Efficiency up of setup work</li>
+                                                </ul>
+                                            </div>
+                                            <div class="action-wrap">
+                                                <a href="automation-asr-n-product-details.shtml" class="bs-btn btn-default">KNOW MORE</a>
+                                                <button class="bs-btn btn-icon-link"><span class="icon icon-download"></span>download brochure</button>
+                                            </div>
+                                        </div>
+                                        <div class="right-side">
+                                            <div class="img-wrap lozad-background" data-background-image="assets/images/products/auto/auto3.jpg"></div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="item">
+                                    <div class="bs-img-desc">
+                                        <div class="left-side">
+                                            <h2 class="title">MARS</h2>
+                                            <div class="img-wrap lozad-background" data-background-image="assets/images/products/auto/auto4.jpg"></div>
+                                            <div class="sec-desc">
+                                                <p><strong>Features</strong></p>
+                                                <ul class="mod-list-circle">
+                                                    <li>Auto storage to meet 24 hour operation</li>
+                                                    <li>Quick material loading/unloading for work rationalization.</li>
+                                                    <li>Total control on all stages (Option)</li>
+                                                    <li>Single sheet pick up at shelf (Option)</li>
+                                                </ul>
+                                            </div>
+                                            <div class="action-wrap">
+                                                <a href="automation-mars-product-details.shtml" class="bs-btn btn-default">KNOW MORE</a>
+                                                <button class="bs-btn btn-icon-link"><span class="icon icon-download"></span>download brochure</button>
+                                            </div>
+                                        </div>
+                                        <div class="right-side">
+                                            <div class="img-wrap lozad-background" data-background-image="assets/images/products/auto/auto4.jpg"></div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="item">
+                                    <div class="bs-img-desc">
+                                        <div class="left-side">
+                                            <h2 class="title">FORK PALLET CHANGER</h2>
+                                            <div class="img-wrap lozad-background" data-background-image="assets/images/products/auto/auto5.jpg"></div>
+                                            <div class="sec-desc">
+                                                <p><strong>Features</strong></p>
+                                                <ul class="mod-list-circle">
+                                                    <li>Multi storage system with packaged pallet and processing pallet (Pin holder)</li>
+                                                    <li>Various operation mode</li>
+                                                    <li>High speed processing (ASFH)</li>
+                                                </ul>
+                                            </div>
+                                            <div class="action-wrap">
+                                                <a href="automation-fork-pallet-product-details.shtml" class="bs-btn btn-default">KNOW MORE</a>
+                                                <button class="bs-btn btn-icon-link"><span class="icon icon-download"></span>download brochure</button>
+                                            </div>
+                                        </div>
+                                        <div class="right-side">
+                                            <div class="img-wrap lozad-background" data-background-image="assets/images/products/auto/auto5.jpg"></div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="item">
+                                    <div class="bs-img-desc">
+                                        <div class="left-side">
+                                            <h2 class="title">PALLET CHANGER (AS)</h2>
+                                            <div class="img-wrap lozad-background" data-background-image="assets/images/products/auto/auto6.jpg"></div>
+                                            <div class="sec-desc">
+                                                <p><strong>Features</strong></p>
+                                                <ul class="mod-list-circle">
+                                                    <li>Long hour automatic operation</li>
+                                                    <li>Improvement workability</li>
+                                                </ul>
+                                            </div>
+                                            <div class="action-wrap">
+                                                <a href="automation-pallet-as-product-details.shtml" class="bs-btn btn-default">KNOW MORE</a>
+                                                <button class="bs-btn btn-icon-link"><span class="icon icon-download"></span>download brochure</button>
+                                            </div>
+                                        </div>
+                                        <div class="right-side">
+                                            <div class="img-wrap lozad-background" data-background-image="assets/images/products/auto/auto6.jpg"></div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="item">
+                                    <div class="bs-img-desc">
+                                        <div class="left-side">
+                                            <h2 class="title">MANIPULATOR (MPL)</h2>
+                                            <div class="img-wrap lozad-background" data-background-image="assets/images/products/auto/auto7.jpg"></div>
+                                            <div class="sec-desc">
+                                                <p><strong>Features</strong></p>
+                                                <ul class="mod-list-circle">
+                                                    <li>Material loading/Component stacking system for long hour automatic operation</li>
+                                                    <li>Space saving type L/Shuttle table between laser machine and MPL type S</li>
+                                                    <li>Expansible</li>
+                                                </ul>
+                                            </div>
+                                            <div class="action-wrap">
+                                                <a href="automation-manipulator-product-details.shtml" class="bs-btn btn-default">KNOW MORE</a>
+                                                <button class="bs-btn btn-icon-link"><span class="icon icon-download"></span>download brochure</button>
+                                            </div>
+                                        </div>
+                                        <div class="right-side">
+                                            <div class="img-wrap lozad-background" data-background-image="assets/images/products/auto/auto7.jpg"></div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="item">
+                                    <div class="bs-img-desc">
+                                        <div class="left-side">
+                                            <h2 class="title">SHUTTLE TABLE (LST)</h2>
+                                            <div class="img-wrap lozad-background" data-background-image="assets/images/products/auto/auto8.jpg"></div>
+                                            <div class="sec-desc">
+                                                <p><strong>Features</strong></p>
+                                                <ul class="mod-list-circle">
+                                                    <li>Continuous operation by offline setups</li>
+                                                    <li>Improvement of workability</li>
+                                                    <li>Applicable for thick and heavy material</li>
+                                                </ul>
+                                            </div>
+                                            <div class="action-wrap">
+                                                <a href="automation-lst-product-details.shtml" class="bs-btn btn-default">KNOW MORE</a>
+                                                <button class="bs-btn btn-icon-link"><span class="icon icon-download"></span>download brochure</button>
+                                            </div>
+                                        </div>
+                                        <div class="right-side">
+                                            <div class="img-wrap lozad-background" data-background-image="assets/images/products/auto/auto8.jpg"></div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <!-- footer start -->
+        <!--#include virtual="view/footer.html" -->
+        <!-- footer end -->
+    </footer>
+
+    <!-- popup start -->
+    <!--#include virtual="view/popup.html" -->
+    <!-- popup end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+
+</body>
+
+</html>

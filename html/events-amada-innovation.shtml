@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>News & Events</title>
+    <meta name="description" content="description goes here">
+    <link rel="canonical" href="url goes here" />
+
+    <meta property="og:url" content="url goes here" />
+    <meta property="og:title" content="title goes here" />
+    <meta property="og:description" content="description goes here" />
+    <meta property="og:image" content="img url goes here" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@PayUmoney" />
+    <meta name="twitter:title" content="title goes here" />
+    <meta name="twitter:description" content="description goes here" />
+    <meta name="twitter:url" content="url goes here" />
+    <meta name="twitter:image" content="img url goes here" />
+
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+
+</head>
+
+<body>
+    <header>
+        <!-- header start -->
+        <!--#include virtual="view/header.html" -->
+        <!-- header end -->
+    </header>
+
+    <main>
+        <div class="main lyt-content js-bg">
+            <!-- banner start -->
+            <!--#include virtual="view/events-amada-innovation-banner.html" -->
+            <!-- banner end -->
+            <div class="bs-breadcrum">
+                <div class="container">
+                    <ul class="list">
+                        <li class="item"><a href="#" class="link">amada</a></li>
+                        <li class="item"><a href="#" class="link">News & Events</a></li>
+                        <li class="item">Events Amada Innovation</li>
+                    </ul>
+                </div>
+            </div>
+            <section>
+                <div class="bs-section">
+                    <div class="container">
+                        <div class="bs-blog-detail">
+                            <div class="sec-cont">
+                                <ul class="bs-chain-info">
+                                    <li class="item">
+                                        <div class="bs-img-desc">
+                                            <div class="left-side">
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/news/innovation/gallery1.jpg"></div>
+                                                <div class="sec-desc">
+                                                    <p>Amada President Mr. Mitsuo Okamoto donated two models of sheet-metal processing machines <a href="http://www.amadaindia.co.in/punchingmachine_AE2510NT_AE255NT.html"><strong>AE255NT</strong></a> &
+                                                        <a href="http://www.amadaindia.co.in/bendingmachine_RG_Series.html"><strong>RGM23512</strong></a> Press Brake with <a href="http://www.amadaindia.co.in/software.html"><strong>AP100 software</strong></a>,
+                                                        to Pt. Dwarka Prasad Mishra Indian Institute of Information Technology, Jabalpur on 5th December 2012. The donated machine value is worth Rs. 3.5 Crore.</p>
+                                                    <p>PDPM IIITDM-Jabalpur is shortly starting a course on sheet-metal fabrication, utilizing Amada Machines.</p>
+                                                    <p>Central Government official s from PDPM IIITDM-Jabalpur and Board members from Amada Co. Ltd. Japan officially announced that the newly launched facility would be named "Amada Manufacturing Innovation
+                                                        Center."
+                                                    </p>
+                                                </div>
+                                            </div>
+                                            <div class="right-side">
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/news/innovation/gallery1.jpg"></div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="item">
+                                        <div class="bs-img-desc">
+                                            <div class="left-side">
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/news/innovation/gallery2.jpg"></div>
+                                                <div class="sec-desc">
+                                                    <p>This is the second contribution from Amada Group to India’s premier technical institutes.</p>
+                                                    <p>Previously Amada had donated a set of sheet-metal processing machines, including a laser cutting machine, with high end Press Brake to Indian Institute of Technology-Chennai (IIT). As a platinum sponsor,
+                                                        Amada also supported the global alumni conference (Pan IIT) of IIT held annually. We will continue to make appropriate contributions to advance India's sheet metal processing industry.</p>
+                                                </div>
+                                            </div>
+                                            <div class="right-side">
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/news/innovation/gallery2.jpg"></div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="sec-head">
+                                <h2 class="sec-title">Event Details</h2>
+                            </div>
+                            <div class="bs-swiper-detail">
+                                <div class="swiper-container">
+                                    <div class="swiper-wrapper">
+                                        <div class="swiper-slide lozad-background" data-background-image="assets/images/news/innovation/gallery3.jpg">
+                                            <div class="banner-info mod-count-text">
+                                                <div class="text">Inauguration by Prof. S.V. RAGHAVAN - Chairman BoG and Scientific Secretary to Chief Scientific Advisor, Govt. of India in presence of Mr. ATSUSHIGE ABE, - Managing Director, AMADA Co Ltd., Japan.</div>
+                                            </div>
+                                        </div>
+                                        <div class="swiper-slide lozad-background" data-background-image="assets/images/news/innovation/gallery4.jpg">
+                                            <div class="banner-info mod-count-text">
+                                                <div class="text">Inauguration of Amada Manufacturing Innovation Center by Mr. S.V.Raghavan</div>
+                                            </div>
+                                        </div>
+                                        <div class="swiper-slide lozad-background" data-background-image="assets/images/news/innovation/gallery5.jpg">
+                                            <div class="banner-info mod-count-text">
+                                                <div class="text">Demonstration of Machines to Guests by Amada Staff</div>
+                                            </div>
+                                        </div>
+                                        <div class="swiper-slide lozad-background" data-background-image="assets/images/news/innovation/gallery6.jpg">
+                                            <div class="banner-info mod-count-text">
+                                                <div class="text">Machine operation in progress</div>
+                                            </div>
+                                        </div>
+                                        <div class="swiper-slide lozad-background" data-background-image="assets/images/news/innovation/gallery7.jpg">
+                                            <div class="banner-info mod-count-text">
+                                                <div class="text">Machine hand over ceremony : Mr. ATSUSHIGE ABE handing over To Mr. S.V. Raghavan</div>
+                                            </div>
+                                        </div>
+                                        <div class="swiper-slide lozad-background" data-background-image="assets/images/news/innovation/gallery8.jpg">
+                                            <div class="banner-info mod-count-text">
+                                                <div class="text">Demonstration of Machines in Progress</div>
+                                            </div>
+                                        </div>
+                                        <div class="swiper-slide lozad-background" data-background-image="assets/images/news/innovation/gallery9.jpg">
+                                            <div class="banner-info mod-count-text">
+                                                <div class="text">Speech by Mr. S.V. Raghavan ( extreme left ), Mr. ATSUSHIGE ABE , Prof. Aparajita Ojha, Director, PDPM IIITDM-Jabalpur.</div>
+                                            </div>
+                                        </div>
+                                        <div class="swiper-slide lozad-background" data-background-image="assets/images/news/innovation/gallery10.jpg">
+                                            <div class="banner-info mod-count-text">
+                                                <div class="text">Participants listening carefully to the panel</div>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                    <div class="swiper-pagination"></div>
+                                </div>
+                            </div>
+
+                        </div>
+
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <!-- footer start -->
+        <!--#include virtual="view/footer.html" -->
+        <!-- footer end -->
+    </footer>
+
+    <!-- popup start -->
+    <!--#include virtual="view/popup.html" -->
+    <!-- popup end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+
+</body>
+
+</html>

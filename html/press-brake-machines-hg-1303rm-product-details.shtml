@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Product</title>
+    <meta name="description" content="description goes here">
+    <link rel="canonical" href="url goes here" />
+
+    <meta property="og:url" content="url goes here" />
+    <meta property="og:title" content="title goes here" />
+    <meta property="og:description" content="description goes here" />
+    <meta property="og:image" content="img url goes here" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@PayUmoney" />
+    <meta name="twitter:title" content="title goes here" />
+    <meta name="twitter:description" content="description goes here" />
+    <meta name="twitter:url" content="url goes here" />
+    <meta name="twitter:image" content="img url goes here" />
+
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+
+</head>
+
+<body>
+    <header>
+        <!-- header start -->
+        <!--#include virtual="view/header.html" -->
+        <!-- header end -->
+    </header>
+
+    <main>
+        <div class="main lyt-content js-bg">
+            <div class="bs-breadcrum">
+                <div class="container">
+                    <ul class="list">
+                        <li class="item"><a href="#" class="link">amada</a></li>
+                        <li class="item"><a href="#" class="link">products</a></li>
+                        <li class="item"><a href="#" class="link">Press Brake Machines</a></li>
+                        <li class="item">HG-1303Rm</li>
+                    </ul>
+                </div>
+            </div>
+            <section>
+                <div class="bs-section">
+                    <div class="container">
+                        <div class="bs-product-detail">
+                            <div class="pd-head">
+                                <ul class="bs-chain-info">
+                                    <li class="item">
+                                        <div class="bs-img-desc">
+                                            <div class="left-side">
+                                                <h2 class="title">HG-1303Rm</h2>
+                                                <p class="sub-title">Bending robot system for bending ribbed parts and long parts</p>
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/products/press/press3.jpg"></div>
+                                                <div class="sec-desc">
+                                                    <p>Simple operation, and secure, safe and stable bending with a single robot. Bending robot system for bending complex rib and panel shapes.</p>
+                                                    <ul class="mod-list">
+                                                        <li class="item">HG-Rm with a new hybrid drive system is integrated with single 7-axis articulated robot and a series of intelligent devices aimed specially at bending complex rib and large panel parts.» Simple operation
+                                                            with a single Robot (7-axis articulated Robot)</li>
+                                                        <li class="item">Regripping device for panel</li>
+                                                        <li class="item">Secure production by squaring table</li>
+                                                        <li class="item">Accurate loading of ribbed parts and panels</li>
+                                                        <li class="item">Reduced trial bending and reliable production (Bi-S)</li>
+                                                        <li class="item">Regripping device for rib parts</li>
+                                                        <li class="item">Reduced setup time and expansion of the bending range</li>
+                                                        <li class="item">Easy operation</li>
+                                                        <li class="item">Dedicated CAM</li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                            <div class="right-side">
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/products/press/press3.jpg"></div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    </li>
+                                </ul>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section>
+                <div class="bs-button">
+                    <div class="container">
+                        <div class="action-wrap">
+                            <a href="#" target="_blank" class="bs-btn btn-icon-link download-btn"><span class="icon icon-download"></span> download brochure</a>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <!-- footer start -->
+        <!--#include virtual="view/footer.html" -->
+        <!-- footer end -->
+    </footer>
+
+    <!-- popup start -->
+    <!--#include virtual="view/popup.html" -->
+    <!-- popup end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+
+</body>
+
+</html>

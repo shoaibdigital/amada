@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Product</title>
+    <meta name="description" content="description goes here">
+    <link rel="canonical" href="url goes here" />
+
+    <meta property="og:url" content="url goes here" />
+    <meta property="og:title" content="title goes here" />
+    <meta property="og:description" content="description goes here" />
+    <meta property="og:image" content="img url goes here" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@PayUmoney" />
+    <meta name="twitter:title" content="title goes here" />
+    <meta name="twitter:description" content="description goes here" />
+    <meta name="twitter:url" content="url goes here" />
+    <meta name="twitter:image" content="img url goes here" />
+
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+
+</head>
+
+<body>
+    <header>
+        <!-- header start -->
+        <!--#include virtual="view/header.html" -->
+        <!-- header end -->
+    </header>
+
+    <main>
+        <div class="main lyt-content js-bg">
+            <div class="bs-breadcrum">
+                <div class="container">
+                    <ul class="list">
+                        <li class="item"><a href="#" class="link">amada</a></li>
+                        <li class="item"><a href="#" class="link">products</a></li>
+                        <li class="item"><a href="#" class="link">Automation</a></li>
+                        <li class="item">Automated material storage and retrieval system MARS</li>
+                    </ul>
+                </div>
+            </div>
+            <section>
+                <div class="bs-section">
+                    <div class="container">
+                        <div class="bs-product-detail">
+                            <div class="pd-head">
+                                <ul class="bs-chain-info">
+                                    <li class="item">
+                                        <div class="bs-img-desc">
+                                            <div class="left-side">
+                                                <h2 class="title">MARS</h2>
+                                                <p class="sub-title">Automated material storage and retrieval system</p>
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/products/auto/auto4.jpg"></div>
+                                                <div class="sec-desc">
+                                                    <p><strong>Features</strong></p>
+                                                    <ul class="mod-list-circle">
+                                                        <li>Auto storage to meet 24 hour operation</li>
+                                                        <li>Quick material loading/unloading for work rationalization.</li>
+                                                        <li>Total control on all stages (Option)</li>
+                                                        <li>Single sheet pick up at shelf (Option)</li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                            <div class="right-side">
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/products/auto/auto4.jpg"></div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    </li>
+                                </ul>
+
+                            </div>
+                            <div class="pd-body">
+                                <div class="bs-table">
+                                    <h3 class="title">Specifications</h3>
+                                    <div class="table-wrap">
+                                        <table class="table" cellpadding="0" cellspacing="0">
+                                            <thead>
+                                                <tr>
+                                                    <th class="t-title" colspan="2">Model</th>
+                                                    <th class="t-title">MP-1212C1</th>
+                                                    <th class="t-title">MP-2512C1</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td class="t-desc" rowspan="2">Material</td>
+                                                    <td class="t-desc">Maximum Size mm</td>
+                                                    <td class="t-desc">1250 x 1250</td>
+                                                    <td class="t-desc">1250 x 2500</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Minimum Size mm</td>
+                                                    <td class="t-desc" colspan="2">300 x 750</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc" rowspan="2">Processing Pallet</td>
+                                                    <td class="t-desc">Material Thickness mm</td>
+                                                    <td class="t-desc" colspan="2">0.5 to 6.0</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Maximum Payload kg/pallet</td>
+                                                    <td class="t-desc" colspan="2">2000</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc" colspan="2">Air Requirement L/min(ANR)</td>
+                                                    <td class="t-desc" colspan="2">650</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc" colspan="2">Applicable Machines</td>
+                                                    <td class="t-desc" colspan="2">LC-1212C1NT, LC-2012C1NT, AE-255NT and AE-2510NT</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section>
+                <div class="bs-button">
+                    <div class="container">
+                        <div class="action-wrap">
+                            <a href="#" target="_blank" class="bs-btn btn-icon-link download-btn"><span class="icon icon-download"></span> download brochure</a>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <!-- footer start -->
+        <!--#include virtual="view/footer.html" -->
+        <!-- footer end -->
+    </footer>
+
+    <!-- popup start -->
+    <!--#include virtual="view/popup.html" -->
+    <!-- popup end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+
+</body>
+
+</html>

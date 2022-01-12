@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Product</title>
+    <meta name="description" content="description goes here">
+    <link rel="canonical" href="url goes here" />
+
+    <meta property="og:url" content="url goes here" />
+    <meta property="og:title" content="title goes here" />
+    <meta property="og:description" content="description goes here" />
+    <meta property="og:image" content="img url goes here" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@PayUmoney" />
+    <meta name="twitter:title" content="title goes here" />
+    <meta name="twitter:description" content="description goes here" />
+    <meta name="twitter:url" content="url goes here" />
+    <meta name="twitter:image" content="img url goes here" />
+
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+
+</head>
+
+<body>
+    <header>
+        <!-- header start -->
+        <!--#include virtual="view/header.html" -->
+        <!-- header end -->
+    </header>
+
+    <main>
+        <div class="main lyt-content js-bg">
+            <div class="bs-breadcrum">
+                <div class="container">
+                    <ul class="list">
+                        <li class="item"><a href="#" class="link">amada</a></li>
+                        <li class="item"><a href="#" class="link">products</a></li>
+                        <li class="item"><a href="#" class="link">Combination Machines</a></li>
+                        <li class="item">ACIES AJ series</li>
+                    </ul>
+                </div>
+            </div>
+            <section>
+                <div class="bs-section">
+                    <div class="container">
+                        <div class="bs-product-detail">
+                            <div class="pd-head">
+                                <ul class="bs-chain-info">
+                                    <li class="item">
+                                        <div class="bs-img-desc">
+                                            <div class="left-side">
+                                                <h2 class="title">ACIES AJ series</h2>
+                                                <p class="sub-title">Fiber Laser-equipped blanking process integrated solution</p>
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/products/comb/comb3.jpg"></div>
+                                                <div class="sec-desc">
+                                                    <p>The ACIES-AJ series has overcome the weaknesses of CO2 laser system and has achieved high speed, low-running cost processing.</p>
+                                                    <p>Fiber laser combination machine, with Automatic tool changer offers high quality punching, forming and scratch free processing.</p>
+                                                    <p><strong>High speed, Low Running Cost Processing</strong></p>
+                                                    <p>A debut of the ACIES-AJ series with the fiber laser AJ installed on the blanking process integrated solution ACIES for variable-volume production and high-quality processing!</p>
+                                                    <p>The laser cutting area is enclosed by a table cabin and a shutter to ensure safety. Fiber laser-equipped blanking process integrated solution combination with automation options allows for continuous
+                                                        long-time operation.</p>
+                                                </div>
+                                            </div>
+                                            <div class="right-side">
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/products/comb/comb3.jpg"></div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    </li>
+                                </ul>
+                                <div class="bs-features">
+                                    <div class="lyt-features">
+                                        <div class="">
+                                            <h2 class="title">ACIES-AJ Features</h2>
+                                            <div class="sec-desc">
+                                                <h3 class="sub-title">Features – 1</h3>
+                                                <p>High Speed & Low running cost</p>
+                                                <ul class="mod-list-circle">
+                                                    <li>High Speed processing of thin materials</li>
+                                                </ul>
+                                                <p>Safety and operability achieved together</p>
+                                                <ul class="mod-list-circle">
+                                                    <li>Table cabin</li>
+                                                    <li>Setting second origin</li>
+                                                </ul>
+
+                                                <h3 class="sub-title">Features – 2</h3>
+                                                <p>Easy Operation</p>
+                                                <ul class="mod-list-circle">
+                                                    <li>AMNC 3i</li>
+                                                </ul>
+
+                                                <h3 class="sub-title">Features – 3</h3>
+                                                <p>High Quality & High speed processing</p>
+                                                <ul class="mod-list-circle">
+                                                    <li>ZR turret and full flat table</li>
+                                                    <li>Stabilization of high quality processing prevention of tool setup mistakes</li>
+                                                    <li>Automatic change of tapping tools.</li>
+                                                </ul>
+
+                                                <h3 class="sub-title">Features – 4</h3>
+                                                <p>Tool setup without stopping machine and automation solutions</p>
+                                                <ul class="mod-list-circle">
+                                                    <li>Automatic tool change during laser cutting</li>
+                                                    <li>Automation solutions</li>
+                                                    <li>Diagram illustrating benefits of introducing ACIES-AJ</li>
+                                                    <li>New functions (options) to support longer-time operation</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="pd-body">
+                                <div class="bs-table">
+                                    <h3 class="title">Machine Specifications</h3>
+                                    <div class="table-wrap">
+                                        <table class="table" cellpadding="0" cellspacing="0">
+                                            <thead>
+                                                <tr>
+                                                    <th class="t-title" colspan="2">Model</th>
+                                                    <th class="t-title">ACIES-2512T-AJ</th>
+                                                    <th class="t-title">ACIES-2515T-AJ</th>
+                                                    <th class="t-title">ACIES-2512B-AJ</th>
+                                                    <th class="t-title">ACIES-2515B-AJ</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td class="t-desc" colspan="2">Model names (Note the points listed below)</td>
+                                                    <td class="t-desc">ACIES12TAJ</td>
+                                                    <td class="t-desc">ACIES15TAJ</td>
+                                                    <td class="t-desc">ACIES12BAJ</td>
+                                                    <td class="t-desc">ACCIES16BAJ</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc" rowspan="3">Punch</td>
+                                                    <td class="t-desc">Press capacity <span class="cm-bold">kN</span></td>
+                                                    <td class="t-desc" colspan="4">300</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Drive System</td>
+                                                    <td class="t-desc" colspan="4">AC servo, Direct twin drive</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Turret</td>
+                                                    <td class="t-desc" colspan="4">ZR turret(Storage-type turret)</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Move method</td>
+                                                    <td class="t-desc">Punching</td>
+                                                    <td class="t-desc" colspan="4">X × Y material travel</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc"></td>
+                                                    <td class="t-desc">Laser cutting</td>
+                                                    <td class="t-desc" colspan="4">X material / Y Laser Beam</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc" rowspan="3">Processing Dimension</td>
+                                                    <td class="t-desc">Punch X × YP <span class="cm-bold">mm</span></td>
+                                                    <td class="t-desc" colspan="4">3050 × 1525</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Laser X × YL <span class="cm-bold">mm</span></td>
+                                                    <td class="t-desc">2500 × 1270</td>
+                                                    <td class="t-desc">3050 × 1525 <span class="cm-bold">(With repositioning)</span></td>
+                                                    <td class="t-desc">2500 × 1270</td>
+                                                    <td class="t-desc">3050 × 1525 <span class="cm-bold">(With repositioning)</span></td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Combination X × YL <span class="cm-bold">mm</span></td>
+                                                    <td class="t-desc">2550 × 1270</td>
+                                                    <td class="t-desc">3050 × 1525 <span class="cm-bold">(With repositioning)</span></td>
+                                                    <td class="t-desc">2500 × 1270</td>
+                                                    <td class="t-desc">3050 × 1525 <span class="cm-bold">(With repositioning)</span></td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc" colspan="2">Rapid Traverse X / YP / YL / Z <span class="cm-bold">m/min</span></td>
+                                                    <td class="t-desc" colspan="4">100 / 80 / 100 / 80</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc" colspan="2">Accuracy <span class="cm-bold">mm</span></td>
+                                                    <td class="t-desc" colspan="4">± 0.07</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc" colspan="2">Maximum hit rate (X axis) <span class="cm-bold">min-1</span></td>
+                                                    <td class="t-desc" colspan="4">500(25.4mm pitch/5mm stroke)</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc" colspan="2">Maximum hit rate (Y axis) <span class="cm-bold">min-1</span></td>
+                                                    <td class="t-desc" colspan="4">340(25.4mm pitch/5mm stroke)</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc" colspan="2">Machine Mass <span class="cm-bold">kg</span></td>
+                                                    <td class="t-desc">28000</td>
+                                                    <td class="t-desc">30000</td>
+                                                    <td class="t-desc">24000</td>
+                                                    <td class="t-desc">26000</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+
+                                <div class="bs-table">
+                                    <h3 class="title">Oscillator Specifications</h3>
+                                    <div class="table-wrap">
+                                        <table class="table" cellpadding="0" cellspacing="0">
+                                            <thead>
+                                                <tr>
+                                                    <th class="t-title">Model</th>
+                                                    <th class="t-title">AJ-2000</th>
+                                                    <th class="t-title">AJ-4000</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td class="t-desc">Oscillation Method</td>
+                                                    <td class="t-desc" colspan="2">LD-Pumped fiber laser</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Wavelength <span class="cm-bold">µm</span></td>
+                                                    <td class="t-desc" colspan="2">1.08</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Rated Power <span class="cm-bold">W</span></td>
+                                                    <td class="t-desc">2000</td>
+                                                    <td class="t-desc">4000</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Pulse Peak Power <span class="cm-bold">W</span></td>
+                                                    <td class="t-desc">2000</td>
+                                                    <td class="t-desc">4000</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Mass <span class="cm-bold">kg</span></td>
+                                                    <td class="t-desc">Appx. 400</td>
+                                                    <td class="t-desc">Appx. 600</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Power Requirement <span class="cm-bold">kVA</span></td>
+                                                    <td class="t-desc">8.8</td>
+                                                    <td class="t-desc">17.8</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Chiller Power requirement <span class="cm-bold">kVA</span></td>
+                                                    <td class="t-desc">7.5</td>
+                                                    <td class="t-desc">9.0</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+
+                                <div class="bs-table">
+                                    <h3 class="title">Turret Layout</h3>
+                                    <div class="table-wrap">
+                                        <table class="table" cellpadding="0" cellspacing="0">
+                                            <thead>
+                                                <tr>
+                                                    <th class="t-title">Tool Size</th>
+                                                    <th class="t-title">36ST-2AI</th>
+                                                    <th class="t-title">32ST-4AI *w E Range</th>
+                                                    <th class="t-title">32ST-4AJ *w/o E Range</th>
+                                                </tr>
+
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td class="t-desc">A</td>
+                                                    <td class="t-desc">½ ̎ </td>
+                                                    <td class="t-desc">16(16)</td>
+                                                    <td class="t-desc">14(14)</td>
+                                                    <td class="t-desc">14(14)</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">B</td>
+                                                    <td class="t-desc">1 ¼ ̎</td>
+                                                    <td class="t-desc">10(10)</td>
+                                                    <td class="t-desc">8(8)</td>
+                                                    <td class="t-desc">8(8)</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">C</td>
+                                                    <td class="t-desc">2 ̎</td>
+                                                    <td class="t-desc">2(2)</td>
+                                                    <td class="t-desc">-</td>
+                                                    <td class="t-desc">-</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">D</td>
+                                                    <td class="t-desc">3 ½ ̎ </td>
+                                                    <td class="t-desc">1(1)</td>
+                                                    <td class="t-desc">1(1)</td>
+                                                    <td class="t-desc">1(1)</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">E</td>
+                                                    <td class="t-desc">4 ½ ̎ </td>
+                                                    <td class="t-desc">1(1)</td>
+                                                    <td class="t-desc">-</td>
+
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">B(TAP)</td>
+                                                    <td class="t-desc">1 ¼ ̎ </td>
+                                                    <td class="t-desc">4(4)</td>
+                                                    <td class="t-desc">4(4)</td>
+                                                    <td class="t-desc">4(4)</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">G</td>
+                                                    <td class="t-desc">AI (1 ¼ ̎)</td>
+                                                    <td class="t-desc">2(2)</td>
+                                                    <td class="t-desc">2(2)</td>
+                                                    <td class="t-desc">2(2)</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">H</td>
+                                                    <td class="t-desc">AI (2 ̎)</td>
+                                                    <td class="t-desc">-</td>
+                                                    <td class="t-desc">2(2)</td>
+                                                    <td class="t-desc">2(2)</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">TOTAL</td>
+                                                    <td class="t-desc"></td>
+                                                    <td class="t-desc">36</td>
+                                                    <td class="t-desc">32</td>
+                                                    <td class="t-desc">32</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section>
+                <div class="bs-button">
+                    <div class="container">
+                        <div class="action-wrap">
+                            <button class="bs-btn btn-icon-link download-btn"><span class="icon icon-download"></span>
+                                    <a href="assets/doc/ACIES-AJ-Series.pdf" target="_blank">download brochure</a></button>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <!-- footer start -->
+        <!--#include virtual="view/footer.html" -->
+        <!-- footer end -->
+    </footer>
+
+    <!-- popup start -->
+    <!--#include virtual="view/popup.html" -->
+    <!-- popup end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+
+</body>
+
+</html>

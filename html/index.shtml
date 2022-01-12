@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Home</title>
+    <meta name="description" content="description goes here">
+    <link rel="canonical" href="url goes here" />
+
+    <meta property="og:url" content="url goes here" />
+    <meta property="og:title" content="title goes here" />
+    <meta property="og:description" content="description goes here" />
+    <meta property="og:image" content="img url goes here" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@PayUmoney" />
+    <meta name="twitter:title" content="title goes here" />
+    <meta name="twitter:description" content="description goes here" />
+    <meta name="twitter:url" content="url goes here" />
+    <meta name="twitter:image" content="img url goes here" />
+
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+
+</head>
+
+<body class="">
+    <header>
+        <!-- header start -->
+        <!--#include virtual="view/header.html" -->
+        <!-- header end -->
+    </header>
+
+    <main>
+        <div class="main lyt-content">
+            <!-- banner start -->
+            <!--#include virtual="view/home-banner.html" -->
+            <!-- banner end -->
+            <section>
+                <div class="bs-section sec-first">
+                    <div class="container">
+                        <div class="sec-head">
+                            <h2 class="sec-title">our products</h2>
+                        </div>
+                        <div class="sec-cont">
+                            <div class="bs-product-grid">
+                                <ul class="list">
+                                    <li class="item">
+                                        <div class="bs-prod-card">
+                                            <a href="#" class="prod-link"></a>
+                                            <div class="img-wrap lozad-background" data-background-image="assets/images/products/tiles/laser.jpg"></div>
+                                            <div class="info-wrap">
+                                                <h3 class="title">Laser <span class="cm-line-break">MACHINES</span></h3>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="item">
+                                        <div class="bs-prod-card">
+                                            <a href="#" class="prod-link"></a>
+                                            <div class="img-wrap lozad-background" data-background-image="assets/images/products/tiles/automation.jpg"></div>
+                                            <div class="info-wrap">
+                                                <h3 class="title">Automation</h3>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="item">
+                                        <div class="bs-prod-card">
+                                            <a href="#" class="prod-link"></a>
+                                            <div class="img-wrap lozad-background" data-background-image="assets/images/products/tiles/combination.jpg"></div>
+                                            <div class="info-wrap">
+                                                <h3 class="title">Combination <span class="cm-line-break">MACHINES</span></h3>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="item">
+                                        <div class="bs-prod-card">
+                                            <a href="#" class="prod-link"></a>
+                                            <div class="img-wrap lozad-background" data-background-image="assets/images/products/tiles/tooling.jpg"></div>
+                                            <div class="info-wrap">
+                                                <h3 class="title">Tooling</span>
+                                                </h3>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="item">
+                                        <div class="bs-prod-card">
+                                            <a href="#" class="prod-link"></a>
+                                            <div class="img-wrap lozad-background" data-background-image="assets/images/products/tiles/punching.jpg"></div>
+
+                                            <div class="info-wrap">
+                                                <h3 class="title">Punching <span class="cm-line-break">MACHINES</span></h3>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="item">
+                                        <div class="bs-prod-card">
+                                            <a href="#" class="prod-link"></a>
+                                            <div class="img-wrap lozad-background" data-background-image="assets/images/products/tiles/software.jpg"></div>
+                                            <div class="info-wrap">
+                                                <h3 class="title">Software</h3>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="item">
+                                        <div class="bs-prod-card">
+                                            <a href="#" class="prod-link"></a>
+                                            <div class="img-wrap lozad-background" data-background-image="assets/images/products/tiles/press.jpg"></div>
+                                            <div class="info-wrap">
+                                                <h3 class="title">Press <span class="cm-line-break">Brakes</span></h3>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="item">
+                                        <div class="bs-prod-card">
+                                            <a href="#" class="prod-link"></a>
+                                            <div class="img-wrap lozad-background" data-background-image="assets/images/products/tiles/fabricator.jpg"></div>
+                                            <div class="info-wrap">
+                                                <h3 class="title">General fabricating <span class="cm-line-break">MACHINES</span></h3>
+                                            </div>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section>
+                <div class="bs-section">
+                    <div class="container">
+                        <div class="sec-cont">
+                            <ul class="bs-chain-info typ-img-lg">
+                                <li class="item">
+                                    <div class="bs-img-desc">
+                                        <div class="left-side">
+                                            <h2 class="title">AMADA (INDIA) pvt. ltd.</h2>
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/amada-india-m.jpg">
+                                            </div>
+                                            <div class="sec-desc">
+                                                <p>The AMADA Group comprises about 91 companies. Our main businesses are the manufacture, sale, repair, maintenance, check, and inspection of metalworking machines and equipment.</p>
+                                            </div>
+                                            <div class="action-wrap">
+                                                <a href="company-overview.shtml" class="bs-btn btn-default">KNOW MORE ABOUT US</a>
+                                            </div>
+                                        </div>
+                                        <div class="right-side">
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/amada-india-m.jpg">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="item">
+                                    <div class="bs-img-desc">
+                                        <div class="left-side">
+                                            <h2 class="title">VOCATIONAL CENTRE</h2>
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/vocational-m.jpg">
+                                            </div>
+                                            <div class="sec-desc">
+                                                <p>The AMADA Vocational Center is committed to work with customers and their employees in the Sheet Metal Industry with a view of imparting knowledge to the operators related to Safety, Machine Operation and
+                                                    Maintenance to make them completely competent.
+                                                </p>
+                                            </div>
+                                            <div class="action-wrap">
+                                                <a href="trainingcourses.shtml" class="bs-btn btn-default">VIEW COURSES OFFERED BY US</a>
+                                            </div>
+                                        </div>
+                                        <div class="right-side">
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/vocational-m.jpg">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section>
+                <div class="bs-section">
+                    <div class="container">
+                        <div class="sec-head">
+                            <h2 class="sec-title">what's new</h2>
+                        </div>
+                        <div class="sec-cont">
+                            <div class="lyt-news">
+                                <ul class="list">
+                                    <!---  <li class="item">
+                                        <div class="bs-news typ-linkedin">
+                                            <a href="https://www.linkedin.com/feed/update/urn:li:activity:6831534483821473792" target="_blank" class="news-link"></a>
+                                            <span class="icon icon-linkedin"></span>
+                                            <div class="img-wrap lozad-background" data-background-image="assets/images/linkdin/linkdin1.jpg"></div>
+                                            <div class="news-info">
+                                                <time datetime="2020-08" class="date">August 2021</time>
+                                                <p class="desc">Quality Mode Comparison - Aluminium</p>
+                                            </div>
+                                        </div>
+                                    </li> -->
+                                    <li class="item">
+                                        <div class="bs-img-overlay">
+                                            <div class="img-wrap bs-news lozad-background" data-background-image="assets/images/linkdin/linkdin1.jpg">
+                                                <a href="https://www.linkedin.com/feed/update/urn:li:activity:6831534483821473792" target="_blank" class="news-link"></a>
+                                                <span class="icon icon-linkedin"></span>
+                                                <div class="news-info">
+                                                    <time datetime="2020-08" class="date">August 2021</time>
+                                                    <p class="desc">Quality Mode Comparison - Aluminium</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="item">
+                                        <div class="bs-img-overlay">
+                                            <div class="img-wrap bs-news lozad-background" data-background-image="assets/images/linkdin/linkdin2.jpg">
+                                                <a href="https://www.linkedin.com/feed/update/urn:li:activity:6828931399555391488" target="_blank" class="news-link"></a>
+                                                <span class="icon icon-linkedin"></span>
+                                                <div class="news-info">
+                                                    <time datetime="2020-08" class="date">August 2021</time>
+                                                    <p class="desc">AIR-CUT Mild Steel</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="item">
+                                        <div class="bs-img-overlay">
+                                            <div class="img-wrap bs-news lozad-background" data-background-image="assets/images/linkdin/linkdin3.jpg">
+                                                <a href="https://www.linkedin.com/feed/update/urn:li:activity:6827895117844766720" target="_blank" class="news-link"></a>
+                                                <span class="icon icon-linkedin"></span>
+                                                <div class="news-info">
+                                                    <time datetime="2020-08" class="date">August 2021</time>
+                                                    <p class="desc">9kW Fiber Laser machine ENSIS3015AJ</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="item">
+                                        <div class="bs-img-overlay">
+                                            <div class="img-wrap bs-news lozad-background" data-background-image="assets/images/news/news1.jpg">
+                                                <a href="imtex2020detail.shtml" class="news-link"></a>
+                                                <div class="news-info">
+                                                    <!-- <time datetime="2020-08" class="date">August 2020</time> -->
+                                                    <p class="desc">IMTEX FORMING 2020</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="item">
+                                        <div class="bs-img-overlay">
+                                            <div class="img-wrap bs-news lozad-background" data-background-image="assets/images/news/news2.jpg">
+                                                <a href="imtexformingevent2018.shtml" class="news-link"></a>
+                                                <div class="news-info">
+                                                    <!-- <time datetime="2020-08" class="date">August 2020</time> -->
+                                                    <p class="desc">IMTEX FORMING 2018</p>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                    </li>
+                                    <li class="item">
+                                        <a href="newsevents.shtml">
+                                            <button class="bs-btn btn-tile">
+                                                <span class="text">more in news</span>
+                                            </button>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <!-- footer start -->
+        <!--#include virtual="view/footer.html" -->
+        <!-- footer end -->
+    </footer>
+
+    <!-- popup start -->
+    <!--#include virtual="view/popup.html" -->
+    <!-- popup end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+
+</body>
+
+</html>

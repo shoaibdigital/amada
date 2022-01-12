@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Product</title>
+    <meta name="description" content="description goes here">
+    <link rel="canonical" href="url goes here" />
+
+    <meta property="og:url" content="url goes here" />
+    <meta property="og:title" content="title goes here" />
+    <meta property="og:description" content="description goes here" />
+    <meta property="og:image" content="img url goes here" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@PayUmoney" />
+    <meta name="twitter:title" content="title goes here" />
+    <meta name="twitter:description" content="description goes here" />
+    <meta name="twitter:url" content="url goes here" />
+    <meta name="twitter:image" content="img url goes here" />
+
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+
+</head>
+
+<body>
+    <header>
+        <!-- header start -->
+        <!--#include virtual="view/header.html" -->
+        <!-- header end -->
+    </header>
+
+    <main>
+        <div class="main lyt-content js-bg">
+            <div class="bs-breadcrum">
+                <div class="container">
+                    <ul class="list">
+                        <li class="item"><a href="#" class="link">amada</a></li>
+                        <li class="item"><a href="#" class="link">products</a></li>
+                        <li class="item"><a href="#" class="link">General Fabricating Machine</a></li>
+                        <li class="item">Welding Machine – YLR series</li>
+                    </ul>
+                </div>
+            </div>
+            <section>
+                <div class="bs-section">
+                    <div class="container">
+                        <div class="bs-product-detail">
+                            <div class="pd-head">
+                                <ul class="bs-chain-info">
+                                    <li class="item">
+                                        <div class="bs-img-desc">
+                                            <div class="left-side">
+                                                <h2 class="title">Welding Machine – YLR series</h2>
+                                                <p class="sub-title">Pursuit of high productivity, high quality and economic efficiency</p>
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/products/punch/punch3.jpg"></div>
+                                                <div class="sec-desc">
+                                                    <ul class="mod-list-circle">
+                                                        <li>System to weld otherwise difficult-to-weld materials. Easy to operate</li>
+                                                        <li>Pulsed YAG system to provide high quality welding. Easy to check control panel</li>
+                                                        <li>Optimum welding head selectable to meet specific workpieces</li>
+                                                        <li>Software to lessen operation's workload and setup</li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                            <div class="right-side">
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/products/punch/punch3.jpg"></div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="pd-body">
+                                <div class="bs-table">
+                                    <h3 class="title">Specifications</h3>
+                                    <div class="table-wrap">
+                                        <table class="table" cellpadding="0" cellspacing="0">
+                                            <thead>
+                                                <th class="t-title">MODEL</th>
+                                                <th class="t-title" colspan="2">YLR-1500 III</th>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td class="t-desc">Method</td>
+                                                    <td class="t-desc" colspan="2">Six-axes articulated robot</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Maximum processing range (torch downward)</td>
+                                                    <td class="t-desc" colspan="2">Operating range R1717 – R787 x 120˚ (circular arc range) Throat range 787</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Positioning accuracy</td>
+                                                    <td class="t-desc" colspan="2">Repeatability ± 0.08</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Oscillator (Select one if multiple model are given)</td>
+                                                    <td class="t-desc">OYL110P (AMADA 1kW)</td>
+                                                    <td class="t-desc">OYL055P (AMADAA 500W)</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Maximum Material thickness (as penetration depth)</td>
+                                                    <td class="t-desc">Mild Steel & Stainless Steel: 3
+                                                        <span class="cm-line-break">Aluminium: 3</span></td>
+                                                    <td class="t-desc">Mild Steel & Stainless Steel: 2
+                                                        <span class="cm-line-break">Aluminium: 1</span></td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section>
+                <div class="bs-button">
+                    <div class="container">
+                        <div class="action-wrap">
+                            <a href="#" target="_blank" class="bs-btn btn-icon-link download-btn"><span class="icon icon-download"></span> download brochure</a>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <!-- footer start -->
+        <!--#include virtual="view/footer.html" -->
+        <!-- footer end -->
+    </footer>
+
+    <!-- popup start -->
+    <!--#include virtual="view/popup.html" -->
+    <!-- popup end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+
+</body>
+
+</html>

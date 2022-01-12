@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+  <title>FAQ</title>
+  <meta name="description" content="description goes here">
+  <link rel="canonical" href="url goes here" />
+
+  <meta property="og:url" content="url goes here" />
+  <meta property="og:title" content="title goes here" />
+  <meta property="og:description" content="description goes here" />
+  <meta property="og:image" content="img url goes here" />
+
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="@PayUmoney" />
+  <meta name="twitter:title" content="title goes here" />
+  <meta name="twitter:description" content="description goes here" />
+  <meta name="twitter:url" content="url goes here" />
+  <meta name="twitter:image" content="img url goes here" />
+
+  <!-- css group start -->
+  <!--#include virtual="view/include_css.html" -->
+  <!-- css group end -->
+
+</head>
+
+<body>
+  <header>
+    <!-- header start -->
+    <!--#include virtual="view/header.html" -->
+    <!-- header end -->
+  </header>
+
+  <main>
+    <div class="main lyt-content js-bg">
+      <!-- banner start -->
+      <!--#include virtual="view/faq-banner.html" -->
+      <!-- banner end -->
+      <div class="bs-breadcrum">
+        <div class="container">
+          <ul class="list">
+            <li class="item"><a href="#" class="link">amada</a></li>
+            <!-- <li class="item"><a href="#" class="link">about us</a></li> -->
+            <li class="item">faq</li>
+          </ul>
+        </div>
+      </div>
+
+      <section>
+        <div class="bs-section">
+          <div class="container">
+            <div class="sec-head">
+              <h2 class="sec-title">Service FAQ</h2>
+            </div>
+            <div class="sec-cont lyt-accordian">
+              <div class="bs-accordian">
+                <div class="acc-card">
+
+                  <div class="acc-title js-acc-title">
+                    How to Register a Special/Forming tool?
+                    
+                  </div>
+                  <div class="acc-desc js-acc-body">
+                    <ul>
+                      <li>IN 2D CAD OPEN A NEW FILE</li>
+                      <li>
+                        MAKE THE DRAWING OF THE SPECIAL TOOL AND THEN CLICK ON FILE
+                        <ul class="list-inside">
+                          <li>REGISTER SP/FORMING(E)</li>
+                          <li>SP(T)</li>
+                        </ul>
+                      </li>
+                      <li>
+                        SELECT THE WHOLE COMPONENT
+                        <ul class="list-inside">
+                          <li>RIGHT CLICK COMPLETE</li>
+                          <li>SELECT THE TOOLING CENTRE POINT</li>
+                          <li>SELECT THE SIZE OF GUIDE (STATION)</li>
+                          <li>GIVE THE MANAGEMENT NAME</li>
+                          <li>SAVE</li>
+                        </ul>
+                      </li>
+                      <li>GO TO HOLE
+                        <ul class="list-inside">
+                          <li>SP(P)</li>
+                          <li>AND LOAD THE SPECIAL SHAPE IN THE DRAWING.</li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+                
+                <div class="acc-card">
+                  <div class="acc-title js-acc-title">
+                    How to take data backup?
+                    
+                  </div>
+                  <div class="acc-desc js-acc-body">
+                    <ul>
+                      <li>GO TO DATAMANAGER
+                        <ul class="list-inside">
+                          <li>SELECT FOLDER NAME “*”</li>
+                          <li>FIND</li>
+                        </ul>
+                      </li>
+                      <li>THEN SELECT ALL
+                        <ul class="list-inside">
+                          <li>REGISTER</li>
+                        </ul>
+                      </li>
+                      <li>
+                        IMPORT/EXPORT
+                        <ul class="list-inside">
+                          <li>FD OUTPUT</li>
+                        </ul>
+                      </li>
+                      <li>SELECT THE DRIVE IN WHICH YOU WANT TO TAKE DATA BACKUP.</li>
+                      <li>EXECUTE</li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+
+              <div class="bs-faq-card">
+                <ul class="list">
+                  <li class="item">
+                    <div class="bs-prod-card">
+                      <a href="http://www.amadaindia.co.in/downloads/ap100-installation.pdf" target="_blank" class="prod-link"></a>
+                      <!--<div class="bs-upload">
+                        <span class="icon icon-upload"></span>
+                      </div> -->
+                      <div class="info-wrap">
+                        <span class="icon icon-upload"></span>
+                        <h3 class="title">How to install / uninstall AP 100 software?</h3>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="item">
+                    <div class="bs-prod-card">
+                      <a href="http://www.amadaindia.co.in/downloads/maintenance%20centre%20backup.pdf" target="_blank" class="prod-link"></a>
+                      <div class="info-wrap">
+                        <span class="icon icon-upload"></span>
+                        <h3 class="title">Maintenance Centre Backup?</h3>
+                      </div>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </section>
+    </div>
+  </main>
+
+  <footer>
+    <!-- footer start -->
+    <!--#include virtual="view/footer.html" -->
+    <!-- footer end -->
+  </footer>
+
+  <!-- popup start -->
+  <!--#include virtual="view/popup.html" -->
+  <!-- popup end -->
+
+  <!-- js group start -->
+  <!--#include virtual="view/include_js.html" -->
+  <!-- js group end -->
+
+</body>
+
+</html>

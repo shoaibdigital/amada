@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Home</title>
+    <meta name="description" content="description goes here">
+    <link rel="canonical" href="url goes here" />
+
+    <meta property="og:url" content="url goes here" />
+    <meta property="og:title" content="title goes here" />
+    <meta property="og:description" content="description goes here" />
+    <meta property="og:image" content="img url goes here" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@PayUmoney" />
+    <meta name="twitter:title" content="title goes here" />
+    <meta name="twitter:description" content="description goes here" />
+    <meta name="twitter:url" content="url goes here" />
+    <meta name="twitter:image" content="img url goes here" />
+
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+
+</head>
+
+<body>
+    <header>
+        <!-- header start -->
+        <!--#include virtual="view/header.html" -->
+        <!-- header end -->
+    </header>
+
+    <main>
+        <div class="main lyt-content js-bg">
+            <!-- banner start -->
+            <!--#include virtual="view/plp-banner.html" -->
+            <!-- banner end -->
+            <div class="bs-breadcrum">
+                <div class="container">
+                    <ul class="list">
+                        <li class="item"><a href="#" class="link">amada</a></li>
+                        <li class="item"><a href="#" class="link">about us</a></li>
+                        <li class="item">CUSTOMER DETAILS</li>
+                    </ul>
+                </div>
+            </div>
+            <section>
+                <div class="bs-section sec-first">
+                    <div class="container">
+                        <div class="sec-cont">
+                            <ul class="bs-chain-info">
+                                <li class="item">
+                                    <div class="bs-img-desc">
+                                        <div class="left-side">
+                                            <h2 class="title">em-mii-series</h2>
+                                            <div class="img-wrap lozad-background" data-background-image="assets/images/products/product1.jpg"></div>
+                                            <div class="sec-desc">
+                                                <p>New technologies added to the EM-NT series with the world’s unparalleled AC direct twin drive system. The result is faster, more productive, and higher grade sheet metal fabrication. An ID tool system and an MPT tapping unit are installed to drastically reduce the setup time and achieve blanking process integration.</p>
+                                            </div>
+                                            <div class="action-wrap">
+                                                <a href="product-details.shtml" class="bs-btn btn-default">KNOW MORE ABOUT US</a>
+                                                <button class="bs-btn btn-icon-link"><span class="icon icon-download"></span>download brochure</button>
+                                            </div>
+                                        </div>
+                                        <div class="right-side">
+                                            <div class="img-wrap lozad-background" data-background-image="assets/images/products/product1.jpg"></div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="item">
+                                    <div class="bs-img-desc">
+                                        <div class="left-side">
+                                            <h2 class="title">AE-NT Series</h2>
+                                            <div class="img-wrap lozad-background" data-background-image="assets/images/products/product2.jpg"></div>
+                                            <div class="sec-desc">
+                                                <p>New Single Electric Drive AMNC based AE255NT & AE2510NT 
+                                                    Compact & High Cost Performance 
+                                                    Ecology Single Electric Drive 
+                                                    Intelligent New Press Control System </p>
+                                            </div>
+                                            <div class="action-wrap">
+                                                <a href="product-details.shtml" class="bs-btn btn-default">VIEW COURSES OFFERED BY US</a>
+                                                <button class="bs-btn btn-icon-link"><span class="icon icon-download"></span>download brochure</button>
+                                            </div>
+                                        </div>
+                                        <div class="right-side">
+                                            <div class="img-wrap lozad-background" data-background-image="assets/images/products/product2.jpg"></div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>       
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <!-- footer start -->
+        <!--#include virtual="view/footer.html" -->
+        <!-- footer end -->
+    </footer>
+
+    <!-- popup start -->
+    <!--#include virtual="view/popup.html" -->
+    <!-- popup end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+
+</body>
+
+</html>

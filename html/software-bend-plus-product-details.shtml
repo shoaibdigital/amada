@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Product</title>
+    <meta name="description" content="description goes here">
+    <link rel="canonical" href="url goes here" />
+
+    <meta property="og:url" content="url goes here" />
+    <meta property="og:title" content="title goes here" />
+    <meta property="og:description" content="description goes here" />
+    <meta property="og:image" content="img url goes here" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@PayUmoney" />
+    <meta name="twitter:title" content="title goes here" />
+    <meta name="twitter:description" content="description goes here" />
+    <meta name="twitter:url" content="url goes here" />
+    <meta name="twitter:image" content="img url goes here" />
+
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+
+</head>
+
+<body>
+    <header>
+        <!-- header start -->
+        <!--#include virtual="view/header.html" -->
+        <!-- header end -->
+    </header>
+
+    <main>
+        <div class="main lyt-content js-bg">
+            <div class="bs-breadcrum">
+                <div class="container">
+                    <ul class="list">
+                        <li class="item"><a href="#" class="link">amada</a></li>
+                        <li class="item"><a href="#" class="link">products</a></li>
+                        <li class="item"><a href="#" class="link">Software</a></li>
+                        <li class="item">Bend Plus</li>
+                    </ul>
+                </div>
+            </div>
+            <section>
+                <div class="bs-section">
+                    <div class="container">
+                        <div class="bs-product-detail">
+                            <ul class="bs-chain-info">
+                                <li class="item">
+                                    <div class="bs-img-desc">
+                                        <div class="left-side">
+                                            <h2 class="title">BEND PLUS</h2>
+                                            <p class="sub-title">Fully Automatic bending data creation CAM</p>
+                                            <div class="img-wrap lozad-background" data-background-image="assets/images/products/software/bend4.jpg"></div>
+                                            <div class="sec-desc">
+                                                <p>VPSS 3i Bend is required to create a bending data for HG / HRB / EG / HG-ATC machine series. This software is a global software that is incorporated the demand from domestic and overseas market. and realized
+                                                    “easy and understandable” operation by using a high quality sheet metal model.</p>
+                                                <p>VPSS 3i Bend plus is VPSS system for the new generation.</p>
+                                            </div>
+                                        </div>
+                                        <div class="right-side">
+                                            <div class="img-wrap lozad-background" data-background-image="assets/images/products/software/bend4.jpg"></div>
+                                            <div class="bs-awards">
+                                                <div class="bs-img-desc">
+                                                    <div class="first-award">
+                                                        <div class="img-wrap">
+                                                            <img src="assets/images/products/software/bend5.jpg" />
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                            <div class="lyt-awards typ-col-3">
+                                <div class="sec-head">
+                                    <h2 class="sec-title">Bend Plus Features</h2>
+                                </div>
+                                <ul class="awards-list">
+                                    <li class="awards-item">
+                                        <div class="bs-award-tile typ-xl">
+                                            <div class="body">
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/products/software/bend1.jpg"></div>
+                                            </div>
+                                            <div class="footer">
+                                                <h3 class="award-title">High precision bending simulation</h3>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="awards-item">
+                                        <div class="bs-award-tile typ-xl">
+                                            <div class="body">
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/products/software/bend2.jpg"></div>
+                                            </div>
+                                            <div class="footer">
+                                                <h3 class="award-title">Common Layout Generation</h3>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="awards-item">
+                                        <div class="bs-award-tile typ-xl">
+                                            <div class="body">
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/products/software/bend3.jpg"></div>
+                                            </div>
+                                            <div class="footer">
+                                                <h3 class="award-title">Switch between design and bending environment for checking feasibility</h3>
+                                            </div>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section>
+                <div class="bs-button">
+                    <div class="container">
+                        <div class="action-wrap">
+                            <a href="#" target="_blank" class="bs-btn btn-icon-link download-btn"><span class="icon icon-download"></span> download brochure</a>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <!-- footer start -->
+        <!--#include virtual="view/footer.html" -->
+        <!-- footer end -->
+    </footer>
+
+    <!-- popup start -->
+    <!--#include virtual="view/popup.html" -->
+    <!-- popup end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+
+</body>
+
+</html>

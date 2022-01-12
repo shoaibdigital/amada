@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Product</title>
+    <meta name="description" content="description goes here">
+    <link rel="canonical" href="url goes here" />
+
+    <meta property="og:url" content="url goes here" />
+    <meta property="og:title" content="title goes here" />
+    <meta property="og:description" content="description goes here" />
+    <meta property="og:image" content="img url goes here" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@PayUmoney" />
+    <meta name="twitter:title" content="title goes here" />
+    <meta name="twitter:description" content="description goes here" />
+    <meta name="twitter:url" content="url goes here" />
+    <meta name="twitter:image" content="img url goes here" />
+
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+
+</head>
+
+<body>
+    <header>
+        <!-- header start -->
+        <!--#include virtual="view/header.html" -->
+        <!-- header end -->
+    </header>
+
+    <main>
+        <div class="main lyt-content js-bg">
+            <div class="bs-breadcrum">
+                <div class="container">
+                    <ul class="list">
+                        <li class="item"><a href="#" class="link">amada</a></li>
+                        <li class="item"><a href="#" class="link">products</a></li>
+                        <li class="item"><a href="#" class="link">Automation</a></li>
+                        <li class="item">Takeout Loader with storage tower (AS-NTK)</li>
+                    </ul>
+                </div>
+            </div>
+            <section>
+                <div class="bs-section">
+                    <div class="container">
+                        <div class="bs-product-detail">
+                            <div class="pd-head">
+                                <ul class="bs-chain-info">
+                                    <li class="item">
+                                        <div class="bs-img-desc">
+                                            <div class="left-side">
+                                                <h2 class="title">Takeout Loader with storage tower (AS-NTK)</h2>
+                                                <p class="sub-title">Features</p>
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/products/auto/auto2.jpg"></div>
+                                                <div class="sec-desc">
+                                                    <ul class="mod-list-circle">
+                                                        <li>Multi TK device</li>
+                                                        <li>Joint less processing</li>
+                                                        <li>High Grade processing</li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                            <div class="right-side">
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/products/auto/auto2.jpg"></div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    </li>
+                                </ul>
+
+                            </div>
+                            <div class="pd-body">
+                                <div class="bs-table">
+                                    <h3 class="title">Specifications</h3>
+                                    <div class="table-wrap">
+                                        <table class="table" cellpadding="0" cellspacing="0">
+                                            <thead>
+                                                <tr>
+                                                    <th class="t-title" colspan="2">Model</th>
+                                                    <th class="t-title">RMP-2512NTK/ASR-2512NTK
+                                                        <span class="cm-line-break">AS-2512NTK +ULS-2512NTK</span>
+                                                    </th>
+                                                    <th class="t-title">RMP-3015NTK/ASR-3015NTK
+                                                        <span class="cm-line-break">AS-3015NTK + ULS-3015NTK</span>
+                                                    </th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td class="t-desc" rowspan="2">Material</td>
+                                                    <td class="t-desc">Maximum Size mm</td>
+                                                    <td class="t-desc">1250 x 2500</td>
+                                                    <td class="t-desc">1525 x 3050</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Minimum Size mm</td>
+                                                    <td class="t-desc" colspan="2">Punching machine: 300 x 914, Combination machine: 300 x 600 (LC-C1AJ: 300 x 750)</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Processing Pallet</td>
+                                                    <td class="t-desc">Material Thickness mm</td>
+                                                    <td class="t-desc" colspan="2">Punching machine: 0.4 to 3.2, Combination machine: 0.4 to 6.0</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc" colspan="2">TK arm length mm</td>
+                                                    <td class="t-desc">2000</td>
+                                                    <td class="t-desc">2750</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc" colspan="2">Transferring Payload kg</td>
+                                                    <td class="t-desc">120 (60 x 2)</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc" colspan="2">Air Requirement L/min(ANR)</td>
+                                                    <td class="t-desc">1200</td>
+                                                    <td class="t-desc">1350</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc" colspan="2">Applicable Machines</td>
+                                                    <td class="t-desc" colspan="2">ACIES,EM-MII,EM-ZR,EML-NT AND LC-C1AJ</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section>
+                <div class="bs-button">
+                    <div class="container">
+                        <div class="action-wrap">
+                            <a href="#" target="_blank" class="bs-btn btn-icon-link download-btn"><span class="icon icon-download"></span> download brochure</a>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <!-- footer start -->
+        <!--#include virtual="view/footer.html" -->
+        <!-- footer end -->
+    </footer>
+
+    <!-- popup start -->
+    <!--#include virtual="view/popup.html" -->
+    <!-- popup end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+
+</body>
+
+</html>

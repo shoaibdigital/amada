@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>VENTIS-AJ Series</title>
+    <meta name="description" content="description goes here">
+    <link rel="canonical" href="url goes here" />
+
+    <meta property="og:url" content="url goes here" />
+    <meta property="og:title" content="title goes here" />
+    <meta property="og:description" content="description goes here" />
+    <meta property="og:image" content="img url goes here" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@PayUmoney" />
+    <meta name="twitter:title" content="title goes here" />
+    <meta name="twitter:description" content="description goes here" />
+    <meta name="twitter:url" content="url goes here" />
+    <meta name="twitter:image" content="img url goes here" />
+
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+
+</head>
+
+<body>
+    <header>
+        <!-- header start -->
+        <!--#include virtual="view/header.html" -->
+        <!-- header end -->
+    </header>
+
+    <main>
+        <div class="main lyt-content js-bg">
+            <div class="bs-breadcrum">
+                <div class="container">
+                    <ul class="list">
+                        <li class="item"><a href="#" class="link">amada</a></li>
+                        <li class="item"><a href="#" class="link">products</a></li>
+                        <li class="item"><a href="#" class="link">Laser Machines</a></li>
+                        <li class="item">VENTIS-AJ Series</li>
+                    </ul>
+                </div>
+            </div>
+            <section>
+                <div class="bs-section">
+                    <div class="container">
+                        <div class="sec-head">
+                            <h2 class="sec-title">VENTIS-AJ Series</h2>
+                        </div>
+                        <div class="sec-cont bs-img-desc typ-vertical">
+                            <div class="img-wrap">
+                                <img class="lozad" data-src="assets/images/products/laser/hero1.jpg">
+                            </div>
+                            <p class="sub-title">World’s First Fiber Laser with LBC Technology</p>
+                            <div class="sec-desc">
+                                <p>VENTIS AJ is a new laser system equipped with LBC Technology which allows to modulate the beam and control the movement of the laser beam, ensuring maximum efficiency based on the type of material and
+                                    thickness to be processed.</p>
+                            </div>
+                            <div class="action-wrap">
+                                <a href="assets/doc/VENTIS_catalog.pdf" class="bs-btn btn-default download-btn" target="_blank"><span class="icon icon-download"></span>download brochure</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section>
+                <div class="bs-section">
+                    <div class="container">
+                        <!-- <div class="sec-head">
+                            
+                        </div> -->
+                        <div class="sec-cont">
+                            <div class="bs-product-detail">
+                                <div class="pd-head">
+                                    <h2 class="sub-title">Features of LBC Technology</h2>
+                                    <ul class="bs-chain-info">
+                                        <li class="item">
+                                            <div class="bs-img-desc">
+                                                <div class="left-side">
+                                                    <div class="img-wrap">
+                                                        <img class="lozad" data-src="assets/images/products/laser/laser4.jpg">
+                                                    </div>
+                                                    <div class="sec-desc">
+                                                        <p><strong>Productivity mode</strong> In Productivity mode - Realise a significant improvement throughput when cutting stainless steel and aluminium with nitrogen. And these performance levels, in tandem with lower energy consumption, can
+                                                            reduce processing costs by up to 75% in some instances.</p>
+                                                    </div>
+                                                </div>
+                                                <div class="right-side">
+                                                    <div class="img-wrap">
+                                                        <img class="lozad" data-src="assets/images/products/laser/laser4.jpg">
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li class="item">
+                                            <div class="bs-img-desc">
+                                                <div class="left-side">
+                                                    <div class="img-wrap">
+                                                        <img class="lozad" data-src="assets/images/products/laser/laser51.jpg">
+                                                    </div>
+                                                    <div class="sec-desc">
+                                                        <p><strong>Quality mode</strong> Improves the surface roughness and resultant dross levels. Cut quality is assured by reducing surface roughness by approximately 50% when compared with a conventional machine. And can
+                                                            eliminate secondary operations such as deburring and reduce processing costs.</p>
+                                                    </div>
+                                                </div>
+                                                <div class="right-side">
+                                                    <div class="img-wrap">
+                                                        <img class="lozad" data-src="assets/images/products/laser/laser51.jpg">
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li class="item">
+                                            <div class="bs-img-desc">
+                                                <div class="left-side">
+                                                    <div class="img-wrap">
+                                                        <img class="lozad" data-src="assets/images/products/laser/laser61.jpg">
+                                                    </div>
+                                                    <div class="sec-desc">
+                                                        <p><strong>Kerf-Control mode</strong> enables long-term stable processing during automated system operation. By controlling the locus beam, the kerf width can be controlled to 2.3 times wider than general fiber lasers.
+                                                            In fact, the system is able to control kerf width for optimal efficiency based on the material type and thickness being processed.</p>
+                                                    </div>
+                                                </div>
+                                                <div class="right-side">
+                                                    <div class="img-wrap">
+                                                        <img class="lozad" data-src="assets/images/products/laser/laser61.jpg">
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </li>
+                                    </ul>
+    
+                                </div>
+                                <div class="pd-body">
+                                    <div class="bs-table">
+                                        <h3 class="title">Specifications</h3>
+                                        <div class="table-wrap">
+                                            <table class="table" cellpadding="0" cellspacing="0">
+                                                <thead>
+                                                    <tr>
+                                                        <th class="t-title">MODEL</th>
+                                                        <th class="t-title">VENTIS 3015 AJ</th>
+                                                        <th class="t-title">VENTIS 4020 AJ</th>
+                                                    </tr>
+                                                </thead>
+                                                <tbody>
+                                                    <tr>
+                                                        <td class="t-desc">Rated Laser Power</td>
+                                                        <td class="t-desc">4000W</td>
+                                                        <td class="t-desc">4000W</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td class="t-desc">Oscillator</td>
+                                                        <td class="t-desc">LD excited Yb fiber</td>
+                                                        <td class="t-desc">LD excited Yb fiber</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td class="t-desc">Processing Dimension X x Y x Z <span class="cm-bold">(mm)</span></td>
+                                                        <td class="t-desc">3070×1550×100</td>
+                                                        <td class="t-desc">4070×2050×100</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td class="t-desc t-highlight">Axis control method</td>
+                                                        <td class="t-desc t-highlight">X, Y, Z axes (simultaneous controller)</td>
+                                                        <td class="t-desc t-highlight">X, Y, Z axes (simultaneous controller)</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td class="t-desc"> Maximum rapid feed rate X : Y : Z <span class="cm-bold">(m/min)</span></td>
+                                                        <td class="t-desc">120：120：80</td>
+                                                        <td class="t-desc">120：120：80</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td class="t-desc">Material Thickness <span class="cm-bold">(mm)</span></td>
+                                                        <td class="t-desc"></td>
+                                                        <td class="t-desc"></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td class="t-desc">Mild steel</td>
+                                                        <td class="t-desc">25</td>
+                                                        <td class="t-desc">25</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td class="t-desc">Stainless steel</td>
+                                                        <td class="t-desc">20</td>
+                                                        <td class="t-desc">20</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td class="t-desc">Aluminium</td>
+                                                        <td class="t-desc">16</td>
+                                                        <td class="t-desc">16</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td class="t-desc">Brass</td>
+                                                        <td class="t-desc">10</td>
+                                                        <td class="t-desc">10</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td class="t-desc">Copper</td>
+                                                        <td class="t-desc">10</td>
+                                                        <td class="t-desc">10</td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <!-- footer start -->
+        <!--#include virtual="view/footer.html" -->
+        <!-- footer end -->
+    </footer>
+
+    <!-- popup start -->
+    <!--#include virtual="view/popup.html" -->
+    <!-- popup end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+
+</body>
+
+</html>

@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Punching Machines</title>
+    <meta name="description" content="description goes here">
+    <link rel="canonical" href="url goes here" />
+
+    <meta property="og:url" content="url goes here" />
+    <meta property="og:title" content="title goes here" />
+    <meta property="og:description" content="description goes here" />
+    <meta property="og:image" content="img url goes here" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@PayUmoney" />
+    <meta name="twitter:title" content="title goes here" />
+    <meta name="twitter:description" content="description goes here" />
+    <meta name="twitter:url" content="url goes here" />
+    <meta name="twitter:image" content="img url goes here" />
+
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+
+</head>
+
+<body>
+    <header>
+        <!-- header start -->
+        <!--#include virtual="view/header.html" -->
+        <!-- header end -->
+    </header>
+
+    <main>
+        <div class="main lyt-content js-bg">
+            <!-- banner start -->
+            <!--#include virtual="view/punching-machines-banner.html" -->
+            <!-- banner end -->
+            <div class="bs-breadcrum">
+                <div class="container">
+                    <ul class="list">
+                        <li class="item"><a href="#" class="link">amada</a></li>
+                        <li class="item"><a href="#" class="link">Products</a></li>
+                        <li class="item">Punching MACHINES</li>
+                    </ul>
+                </div>
+            </div>
+            <section>
+                <div class="bs-section sec-first">
+                    <div class="container">
+                        <div class="sec-cont">
+                            <ul class="bs-chain-info">
+                                <li class="item">
+                                    <div class="bs-img-desc">
+                                        <div class="left-side">
+                                            <h2 class="title">EM-ZR SERIES</h2>
+                                            <div class="img-wrap lozad-background" data-background-image="assets/images/products/punch/punch1.jpg"></div>
+                                            <div class="sec-desc">
+                                                <p>Fusion of original technologies to achieve processing with high speed, productivity & grade</p>
+                                                <p>EM-ZR series comes with the world’s unparalleled drive system, or AC servo direct twin drive and ZR turret, a major innovation since the development of Amada’s first numerically controlled turret punch press.</p>
+                                            </div>
+                                            <div class="action-wrap">
+                                                <a href="punching-machines-em-zr-product-details.shtml" class="bs-btn btn-default">KNOW MORE</a>
+                                                <button class="bs-btn btn-icon-link download-btn"><span class="icon icon-download"></span>
+                                                    <a href="assets/doc/EM-ZR-Series.pdf" target="_blank">download brochure</a></button>
+                                            </div>
+                                        </div>
+                                        <div class="right-side">
+                                            <div class="img-wrap lozad-background" data-background-image="assets/images/products/punch/punch1.jpg"></div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="item">
+                                    <div class="bs-img-desc">
+                                        <div class="left-side">
+                                            <h2 class="title">EM-MII SERIES</h2>
+                                            <div class="img-wrap lozad-background" data-background-image="assets/images/products/punch/punch2.jpg"></div>
+                                            <div class="sec-desc">
+                                                <p>Further evolution of best seller machine. Setup time reduction and process integration.</p>
+                                                <p>New technologies are added to the EM-NT series with the world's unparalleled AC servo direct twin drive system.</p>
+                                            </div>
+                                            <div class="action-wrap">
+                                                <a href="punching-machines-em-mii-product-details.shtml" class="bs-btn btn-default">KNOW MORE</a>
+                                                <button class="bs-btn btn-icon-link download-btn"><span class="icon icon-download"></span>
+                                                    <a href="assets/doc/EM-MII-Series.pdf" target="_blank">download brochure</a></button>
+                                            </div>
+                                        </div>
+                                        <div class="right-side">
+                                            <div class="img-wrap lozad-background" data-background-image="assets/images/products/punch/punch2.jpg"></div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="item">
+                                    <div class="bs-img-desc">
+                                        <div class="left-side">
+                                            <h2 class="title">AE-NT SERIES</h2>
+                                            <div class="img-wrap lozad-background" data-background-image="assets/images/products/punch/punch3.jpg"></div>
+                                            <div class="sec-desc">
+                                                <p>New Compact, Eco-Friendly and Intelligent NCT</p>
+                                                <p>Amada’s Turret Punch Presses have been delivered more than 30,000 units worldwide. Developed on these results, the AENT series is a line of single AC servo drive turret punch press with Amada’s original
+                                                    ‘’Highly Rigid Bridge Frame”.</p>
+                                            </div>
+                                            <div class="action-wrap">
+                                                <a href="punching-machines-ae-nt-product-details.shtml" class="bs-btn btn-default">KNOW MORE</a>
+                                                <button class="bs-btn btn-icon-link download-btn"><span class="icon icon-download"></span>
+                                                    <a href="assets/doc/AE-NT-Series.pdf" target="_blank">download brochure</a></button>
+                                            </div>
+                                        </div>
+                                        <div class="right-side">
+                                            <div class="img-wrap lozad-background" data-background-image="assets/images/products/punch/punch3.jpg"></div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <!-- footer start -->
+        <!--#include virtual="view/footer.html" -->
+        <!-- footer end -->
+    </footer>
+
+    <!-- popup start -->
+    <!--#include virtual="view/popup.html" -->
+    <!-- popup end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+
+</body>
+
+</html>

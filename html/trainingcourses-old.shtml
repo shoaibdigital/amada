@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Training Courses Offered</title>
+    <meta name="description" content="description goes here">
+    <link rel="canonical" href="url goes here" />
+
+    <meta property="og:url" content="url goes here" />
+    <meta property="og:title" content="title goes here" />
+    <meta property="og:description" content="description goes here" />
+    <meta property="og:image" content="img url goes here" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@PayUmoney" />
+    <meta name="twitter:title" content="title goes here" />
+    <meta name="twitter:description" content="description goes here" />
+    <meta name="twitter:url" content="url goes here" />
+    <meta name="twitter:image" content="img url goes here" />
+
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+
+</head>
+
+<body>
+    <header>
+        <!-- header start -->
+        <!--#include virtual="view/header.html" -->
+        <!-- header end -->
+    </header>
+
+    <main>
+        <div class="main lyt-content js-bg">
+            <!-- banner start -->
+            <!--#include virtual="view/training-courses-banner.html" -->
+            <!-- banner end -->
+            <div class="bs-breadcrum">
+                <div class="container">
+                    <ul class="list">
+                        <li class="item"><a href="#" class="link">amada</a></li>
+                        <li class="item"><a href="#" class="link">vocational centre</a></li>
+                        <li class="item">Training Courses Offered</li>
+                    </ul>
+                </div>
+            </div>
+            <section>
+                <div class="bs-section bs-col-grid">
+                    <div class="container">
+                        <div class="sec-cont">
+                            <div class="sec-desc">
+                                <p>Vocational Training course for Machine Operation has been designed to gain best knowledge and correct procedure of operation to minimize the idle time.  This course will ensure the trainee can  operate the machine  efficiently with confidence. Imparting 5S techniques, operating skill and proper maintenance procedure will enhance productivity and profit.</p>
+                                <p>We offer the following Machine Training Courses</p>
+                            </div>
+                            <div class="bs-col-grid">
+                                <ul class="quicklink-item-wrap bottom">
+                                    <li class="quicklink-item">
+                                        <div class="mod-quicklink">
+                                            <h2 class="title mb-accord-title">Software <span class="cm-line-break">Training</span></h2>
+                                            <ul class="wrap mb-accord-body">
+                                                <li class="item">
+                                                    <p>AP100 CAD & CAM (Punch/Laser)</p>
+                                                </li>
+                                                <li class="item">
+                                                    <p>Dr.ABE/VPSS 3i Blank CAM (Punch)</p>
+                                                </li>
+                                                <li class="item">
+                                                    <p>Dr.ABE/VPSS 3i Blank CAM (Laser)</p>
+                                                </li>
+                                                <li class="item">
+                                                    <p>VPSS 3i Bend</p>
+                                                </li>
+                                                <li class="item">
+                                                    <p>Sheetworks</p>
+                                                </li>
+                                                <li class="item">
+                                                    <p>Production Designer</p>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </li>
+                                    <li class="quicklink-item">
+                                        <div class="mod-quicklink">
+                                            <h2 class="title mb-accord-title">Laser Operation <span class="cm-line-break">Training</span></h2>
+                                            <ul class="wrap mb-accord-body">
+                                                <li class="item">
+                                                    <p>Laser Machine Operation Training</p>
+                                                </li>
+                                                <li class="item">
+                                                    <p>Advanced Laser Machine Operation Training</p>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </li>
+                                    <li class="quicklink-item">
+                                        <div class="mod-quicklink">
+                                            <h2 class="title mb-accord-title">NCT Operation <span class="cm-line-break">Training</span></h2>
+                                            <ul class="wrap mb-accord-body">
+                                                <li class="item">
+                                                    <p>Punching Machine Operation Training</p>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </li>
+                                    <li class="quicklink-item">
+                                        <div class="mod-quicklink">
+                                            <h2 class="title mb-accord-title">Press Brake Operation <span class="cm-line-break">Training</span></h2>
+                                            <ul class="wrap mb-accord-body">
+                                                <li class="item">
+                                                    <p>HG</p>
+                                                </li>
+                                                <li class="item">
+                                                    <p>RGM2</p>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </li>
+                                    <li class="quicklink-item">
+                                        <div class="mod-quicklink">
+                                            <h2 class="title mb-accord-title">Machine Maintenance <span class="cm-line-break">Training</span></h2>
+                                        </div>
+                                    </li>
+                                   
+                                </ul>
+                            </div>
+                        </div>       
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <!-- footer start -->
+        <!--#include virtual="view/footer.html" -->
+        <!-- footer end -->
+    </footer>
+
+    <!-- popup start -->
+    <!--#include virtual="view/popup.html" -->
+    <!-- popup end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+
+</body>
+
+</html>

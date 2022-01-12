@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Company Overview</title>
+    <meta name="description" content="description goes here">
+    <link rel="canonical" href="url goes here" />
+
+    <meta property="og:url" content="url goes here" />
+    <meta property="og:title" content="title goes here" />
+    <meta property="og:description" content="description goes here" />
+    <meta property="og:image" content="img url goes here" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@PayUmoney" />
+    <meta name="twitter:title" content="title goes here" />
+    <meta name="twitter:description" content="description goes here" />
+    <meta name="twitter:url" content="url goes here" />
+    <meta name="twitter:image" content="img url goes here" />
+
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+
+</head>
+
+<body>
+    <header>
+        <!-- header start -->
+        <!--#include virtual="view/header.html" -->
+        <!-- header end -->
+    </header>
+
+    <main>
+        <div class="main lyt-content js-bg">
+            <!-- banner start -->
+            <!--#include virtual="view/company-overview-banner.html" -->
+            <!-- banner end -->
+            <div class="bs-breadcrum">
+                <div class="container">
+                    <ul class="list">
+                        <li class="item"><a href="#" class="link">amada</a></li>
+                        <li class="item"><a href="#" class="link">about us</a></li>
+                        <li class="item">company overview</li>
+                    </ul>
+                </div>
+            </div>
+            <section>
+                <div class="bs-section sec-first">
+                    <div class="container">
+                        <div class="sec-cont">
+                            <ul class="bs-chain-info typ-img-lg">
+                                <li class="item">
+                                    <div class="bs-img-desc">
+                                        <div class="left-side">
+                                            <h2 class="title">amada (india) pvt. ltd.</h2>
+                                            <div class="img-wrap">
+                                                <figure class="mod-figure">
+                                                    <img class="lozad" data-src="assets/images/amada-india-m.jpg">
+                                                    <figcaption class="sub-title">Bangalore Technical Center</figcaption>
+                                                </figure>
+                                            </div>
+                                            <div class="sec-desc">
+                                                <p><strong>Comprehensive manufacturer of metalworking machinery</strong></p>
+                                                <p>The AMADA Group comprises about 91 companies. Our main businesses are the manufacture, sale, repair, maintenance, check, and inspection of metalworking machines and equipment.</p>
+                                                <p>We, AMADA Group, provide a full range of solution, not only five major businesses which are Sheet metal machinery, Cutting machine, Grinding machine, Stamping press, and Micro welding, but also software,
+                                                    peripheral equipment, tooling, maintenance and service. As a comprehensive global manufacturer of metalworking machinery, AMADA contributes to the development of manufacturing considering what is most
+                                                    necessary from the customer's point of view.</p>
+                                            </div>
+                                        </div>
+                                        <div class="right-side">
+                                            <div class="img-wrap">
+                                                <figure class="mod-figure">
+                                                    <img class="lozad" data-src="assets/images/amada-india-m.jpg">
+                                                    <figcaption class="sub-title">Bangalore Technical Center</figcaption>
+                                                </figure>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="item">
+                                    <div class="bs-img-desc">
+                                        <div class="left-side">
+                                            <div class="img-wrap">
+                                                <figure class="mod-figure">
+                                                    <img class="lozad" data-src="assets/images/co/co2.jpg">
+                                                    <figcaption class="sub-title">North Satellite Technical Center, Faridabad</figcaption>
+                                                </figure>
+                                            </div>
+                                            <div class="sec-desc">
+                                                <p>AMADA established Amada (India) Pvt. Ltd. in April 2000, with its office in Mumbai and this is a wholly owned subsidiary of Amada Co. Ltd., Japan. In the present day, the company shifted base and has a functional
+                                                    Technical and Vocational Center in Bangalore. Further to provide prompt sales and after sales services to our customers, apart from Bangalore Technical Center, our sales and service engineers are also
+                                                    stationed in Bangalore, Chennai, Coimbatore, Hyderabad, Mumbai, Pune & Vadodara.
+                                                </p>
+                                                <p>To cater to the wide northern region we have recently inaugurated the North Satellite Center in Faridabad.</p>
+                                            </div>
+                                        </div>
+                                        <div class="right-side">
+                                            <div class="img-wrap">
+                                                <figure class="mod-figure">
+                                                    <img class="lozad" data-src="assets/images/co/co2.jpg">
+                                                    <figcaption class="sub-title">North Satellite Technical Center, Faridabad</figcaption>
+                                                </figure>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <!-- footer start -->
+        <!--#include virtual="view/footer.html" -->
+        <!-- footer end -->
+    </footer>
+
+    <!-- popup start -->
+    <!--#include virtual="view/popup.html" -->
+    <!-- popup end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+
+</body>
+
+</html>

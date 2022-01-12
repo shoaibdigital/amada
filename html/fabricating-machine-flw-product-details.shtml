@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Product</title>
+    <meta name="description" content="description goes here">
+    <link rel="canonical" href="url goes here" />
+
+    <meta property="og:url" content="url goes here" />
+    <meta property="og:title" content="title goes here" />
+    <meta property="og:description" content="description goes here" />
+    <meta property="og:image" content="img url goes here" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@PayUmoney" />
+    <meta name="twitter:title" content="title goes here" />
+    <meta name="twitter:description" content="description goes here" />
+    <meta name="twitter:url" content="url goes here" />
+    <meta name="twitter:image" content="img url goes here" />
+
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+
+</head>
+
+<body>
+    <header>
+        <!-- header start -->
+        <!--#include virtual="view/header.html" -->
+        <!-- header end -->
+    </header>
+
+    <main>
+        <div class="main lyt-content js-bg">
+            <div class="bs-breadcrum">
+                <div class="container">
+                    <ul class="list">
+                        <li class="item"><a href="#" class="link">amada</a></li>
+                        <li class="item"><a href="#" class="link">products</a></li>
+                        <li class="item"><a href="#" class="link">General Fabricating Machine</a></li>
+                        <li class="item">Welding Machine – FLW series</li>
+                    </ul>
+                </div>
+            </div>
+            <section>
+                <div class="bs-section">
+                    <div class="container">
+                        <div class="bs-product-detail">
+                            <div class="pd-head">
+                                <ul class="bs-chain-info">
+                                    <li class="item">
+                                        <div class="bs-img-desc">
+                                            <div class="left-side">
+                                                <h2 class="title">Welding Machine – FLW series</h2>
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/products/punch/punch3.jpg"></div>
+                                                <div class="sec-desc">
+                                                    <p>Achievement of high speed and high grade welding with various functions</p>
+                                                    <p><strong>Amada’s latest technologies</strong></p>
+                                                    <ul class="mod-list-circle">
+                                                        <li>Beam weaving mechanism</li>
+                                                        <li>NC automatic focus control</li>
+                                                        <li>Moving filler</li>
+                                                        <li>Assist gas nozzle (side nozzle, coaxial nozzle)</li>
+                                                    </ul>
+                                                    <p><strong>Enhancement of welding efficiency by digitalization (AMNC/PC)</strong></p>
+                                                    <ul class="mod-list-circle">
+                                                        <li>TAS</li>
+                                                        <li>Schedule operation</li>
+                                                        <li>Setup navigation</li>
+                                                        <li>Standard processing</li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                            <div class="right-side">
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/products/punch/punch3.jpg"></div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="pd-body">
+                                <div class="bs-table">
+                                    <h3 class="title">Specifications</h3>
+                                    <div class="table-wrap">
+                                        <table class="table" cellpadding="0" cellspacing="0">
+                                            <thead>
+                                                <th class="t-title">MODEL</th>
+                                                <th class="t-title">FLW-1000</th>
+                                                <th class="t-title">FLW-2000</th>
+                                                <th class="t-title">FLW-3000</th>
+                                                <th class="t-title">FLW-4000</th>
+                                                <th class="t-title">FLW-5000</th>
+                                                <th class="t-title">FLW-6000</th>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td class="t-desc">Method</td>
+                                                    <td class="t-desc" colspan="5">Six-axes articulated robot</td>
+                                                    <td class="t-desc"></td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Maximum processing range mm (Torch downward)</td>
+                                                    <td class="t-desc" colspan="5">X (depth range): 1000-1900
+                                                        <span class="cm-line-break">Y (travel direction): ± 1580</span>
+                                                        <span class="cm-line-break">Z (height range): 500-1400</span>
+                                                    </td>
+                                                    <td class="t-desc"></td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Positioning Accuracy (Robot) mm</td>
+                                                    <td class="t-desc" colspan="5">±0.07</td>
+                                                    <td class="t-desc"></td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Oscillator mm</td>
+                                                    <td class="t-desc">YLS1000-S2T</td>
+                                                    <td class="t-desc">YLS2000-S2T</td>
+                                                    <td class="t-desc">YLS3000-S2T</td>
+                                                    <td class="t-desc">YLS4000-S2T</td>
+                                                    <td class="t-desc">YLS5000-S2T</td>
+                                                    <td class="t-desc">YLS6000-S2T</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Maximum Material thickness (as penetration depth)</td>
+                                                    <td class="t-desc" colspan="5"></td>
+                                                    <td class="t-desc"></td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Mild Steel (mm)</td>
+                                                    <td class="t-desc">2</td>
+                                                    <td class="t-desc">3</td>
+                                                    <td class="t-desc">4</td>
+                                                    <td class="t-desc">6</td>
+                                                    <td class="t-desc">7</td>
+                                                    <td class="t-desc">9</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Stainless Steel (mm)</td>
+                                                    <td class="t-desc">2</td>
+                                                    <td class="t-desc">3</td>
+                                                    <td class="t-desc">4</td>
+                                                    <td class="t-desc">6</td>
+                                                    <td class="t-desc">7</td>
+                                                    <td class="t-desc">9</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Aluminium (mm)</td>
+                                                    <td class="t-desc">1</td>
+                                                    <td class="t-desc">2</td>
+                                                    <td class="t-desc">3</td>
+                                                    <td class="t-desc">4</td>
+                                                    <td class="t-desc">5</td>
+                                                    <td class="t-desc">6</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section>
+                <div class="bs-button">
+                    <div class="container">
+                        <div class="action-wrap">
+                            <a href="#" target="_blank" class="bs-btn btn-icon-link download-btn"><span class="icon icon-download"></span> download brochure</a>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <!-- footer start -->
+        <!--#include virtual="view/footer.html" -->
+        <!-- footer end -->
+    </footer>
+
+    <!-- popup start -->
+    <!--#include virtual="view/popup.html" -->
+    <!-- popup end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+
+</body>
+
+</html>

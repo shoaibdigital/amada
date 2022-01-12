@@ -1,0 +1,581 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Precision Sheet Metal Technology Fair</title>
+    <meta name="description" content="description goes here">
+    <link rel="canonical" href="url goes here" />
+
+    <meta property="og:url" content="url goes here" />
+    <meta property="og:title" content="title goes here" />
+    <meta property="og:description" content="description goes here" />
+    <meta property="og:image" content="img url goes here" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@PayUmoney" />
+    <meta name="twitter:title" content="title goes here" />
+    <meta name="twitter:description" content="description goes here" />
+    <meta name="twitter:url" content="url goes here" />
+    <meta name="twitter:image" content="img url goes here" />
+
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+
+</head>
+
+<body>
+    <header>
+        <!-- header start -->
+        <!--#include virtual="view/header.html" -->
+        <!-- header end -->
+    </header>
+
+    <main>
+        <div class="main lyt-content js-bg">
+            <!-- banner start -->
+            <!--#include virtual="view/precision-sheet-metal-banner.html" -->
+            <!-- banner end -->
+            <div class="bs-breadcrum">
+                <div class="container">
+                    <ul class="list">
+                        <li class="item"><a href="#" class="link">amada</a></li>
+                        <li class="item"><a href="#" class="link">vocational center</a></li>
+                        <li class="item">Precision Sheet Metal Technology Fair</li>
+                    </ul>
+                </div>
+            </div>
+            <section>
+                <div class="bs-section sec-first">
+                    <div class="container">
+                        <div class="sec-cont">
+                            <ul class="bs-chain-info">
+                                <li class="item">
+                                    <div class="bs-img-desc">
+                                        <div class="left-side">
+                                            <h2 class="title">Technology Fair</h2>
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/vc/precision-steel-sheet.jpg">
+                                            </div>
+                                            <div class="sec-desc">
+                                                <p>The <strong>"Precision Sheet Metal Technology Fair"</strong> is a skill contest designed to promote advanced sheet metal processing technologies, which was started in 1989 by the Amada School. We accept
+                                                    applications for products in 5 categories from May every year, and after careful screening, awarding ceremonies are held in next March.</p>
+                                                <p>The judging board consists of the academic institute, industrial associations, visitors to the Amada Solution Center, and judges appointed separately. Aside from Gold, Silver, and Bronze prizes, additional
+                                                    prizes are also awarded from The Ministry of Health, Labor and Welfare, Minstry of Economy, Trade and Industry, Japan Vocational Ability Development Association, The Nikkan Kogyo Shimbun, Ltd., and Amada
+                                                    Co., Ltd.</p>
+                                            </div>
+                                            <div class="action-wrap">
+                                                <a href="https://www.amada.co.jp/fair/awards/33sheetmetalfair/result/" target="_blank" class="bs-btn btn-default btn-sm">Award winning results</a>
+                                                <a href="assets/doc/The 33rd Precision Sheet Metal Technology Fair - Ebook.pdf" class="bs-btn btn-icon-link btn-sm download-btn" target="_blank"> <span class="icon icon-download"></span> download e-book</a>
+                                            </div>
+                                        </div>
+                                        <div class="right-side">
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/vc/precision-steel-sheet.jpg">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section>
+                <div class="bs-section">
+                    <div class="container">
+                        <div class="sec-cont">
+                            <div class="sec-head">
+                                <h2 class="sec-title">Indian Awards <span class="cm-line-break">Winners</span></h2>
+                            </div>
+                            <div class="sec-cont">
+                                <div class="lyt-awards">
+                                    <ul class="awards-list">
+                                        <li class="awards-item">
+                                            <div class="bs-award-tile">
+                                                <div class="at-body">
+                                                    <div class="img-wrap lozad-background" data-background-image="assets/images/awards/indian/brihadeeswara-temple.jpg"></div>
+                                                    <!-- <div class="title-wrap">
+                                                        <h3 class="img-title">Brihadeeswara <span class="cm-line-break">Temple</span></h3>
+                                                    </div> -->
+                                                </div>
+                                                <div class="at-footer">
+                                                    <h3 class="img-title">Brihadeeswara Temple</h3>
+                                                    <h4 class="award-title">Judging Committee Special Award - Modeling Product Division</h4>
+                                                    <p class="award-company-name">Avalon Technologies, India</p>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li class="awards-item">
+                                            <div class="bs-award-tile">
+                                                <div class="at-body">
+                                                    <div class="img-wrap lozad-background" data-background-image="assets/images/awards/indian/rlm-atv-model.jpg"></div>
+                                                    <!-- <div class="title-wrap">
+                                                        <h3 class="img-title">RLM ATV Off <span class="cm-line-break">Road Vehicle</span></h3>
+                                                    </div> -->
+                                                </div>
+                                                <div class="at-footer">
+                                                    <h3 class="img-title">RLM ATV Off Road Vehicle</h3>
+                                                    <h4 class="award-title">Amada Prize - Modeling</h4>
+                                                    <p class="award-company-name">Laserform CNC cutting and AHU manufacturing, India</p>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li class="awards-item">
+                                            <div class="bs-award-tile">
+                                                <div class="at-body">
+                                                    <div class="img-wrap lozad-background" data-background-image="assets/images/awards/indian/goryokaku-lamp-shade.jpg"></div>
+                                                    <!-- <div class="title-wrap">
+                                                        <h3 class="img-title">Goryokaku and Origami inspired <span class="cm-line-break">Lamp shade</span></h3>
+                                                    </div> -->
+                                                </div>
+                                                <div class="at-footer">
+                                                    <h3 class="img-title">Goryokaku and Origami inspired Lamp shade</h3>
+                                                    <h4 class="award-title">Technical Award - Sheet metal parts</h4>
+                                                    <p class="award-company-name">SW Metaform Pvt. Ltd., India</p>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li class="awards-item">
+                                            <div class="bs-award-tile">
+                                                <div class="at-body">
+                                                    <div class="img-wrap lozad-background" data-background-image="assets/images/awards/indian/prototype-elevator.jpg"></div>
+                                                    <!-- <div class="title-wrap">
+                                                        <h3 class="img-title">Prototype elevator <span class="cm-line-break">lift cabin</span></h3>
+                                                    </div> -->
+                                                </div>
+                                                <div class="at-footer">
+                                                    <h3 class="img-title">Prototype elevator lift cabin</h3>
+                                                    <h4 class="award-title">Technical Encouragement Award - Assembly Parts</h4>
+                                                    <p class="award-company-name">Stalwart Elevators Products Pvt. Ltd.,</p>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li class="awards-item last-child">
+                                            <div class="bs-award-tile">
+                                                <div class="at-body">
+                                                    <div class="img-wrap lozad-background" data-background-image="assets/images/awards/indian/ss-tray-plate-dispenser.jpg"></div>
+                                                    <!-- <div class="title-wrap">
+                                                        <h3 class="img-title">SS tray/plate <span class="cm-line-break">dispenser</span></h3>
+                                                    </div> -->
+                                                </div>
+                                                <div class="at-footer">
+                                                    <h3 class="img-title">SS tray/plate dispenser</h3>
+                                                    <h4 class="award-title">Technical Encouragement Award - Assembly Parts</h4>
+                                                    <p class="award-company-name">Kargil Equipments, India</p>
+                                                </div>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section>
+                <div class="bs-section">
+                    <div class="container">
+                        <div class="sec-cont">
+                            <div class="sec-head">
+                                <h2 class="sec-title">Overseas Awards <span class="cm-line-break">Winners</span></h2>
+                            </div>
+                            <div class="sec-cont">
+                                <div class="lyt-awards typ-col-3">
+                                    <ul class="awards-list">
+                                        <li class="awards-item">
+                                            <div class="bs-award-tile typ-xl">
+                                                <div class="at-body">
+                                                    <div class="img-wrap lozad-background" data-background-image="assets/images/awards/overseas/1.jpg"></div>
+                                                </div>
+                                                <div class="at-footer">
+                                                    <h3 class="award-title">Minister of Health, <span class="cm-line-break">Labor and Welfare Award</span></h3>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li class="awards-item">
+                                            <div class="bs-award-tile typ-xl">
+                                                <div class="at-body">
+                                                    <div class="img-wrap lozad-background" data-background-image="assets/images/awards/overseas/2.jpg"></div>
+                                                </div>
+                                                <div class="at-footer">
+                                                    <h3 class="award-title">Minister of Economy, <span class="cm-line-break">Trade and Industry Award</span></h3>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li class="awards-item">
+                                            <div class="bs-award-tile typ-xl">
+                                                <div class="at-body">
+                                                    <div class="img-wrap lozad-background" data-background-image="assets/images/awards/overseas/3.jpg"></div>
+                                                </div>
+                                                <div class="at-footer">
+                                                    <h3 class="award-title">Kanagawa <span class="cm-line-break">Governor's Award</span></h3>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li class="awards-item">
+                                            <div class="bs-award-tile typ-xl">
+                                                <div class="at-body">
+                                                    <div class="img-wrap lozad-background" data-background-image="assets/images/awards/overseas/4.jpg"></div>
+                                                </div>
+                                                <div class="at-footer">
+                                                    <h3 class="award-title">Japan Vocational Ability Development <span class="cm-line-break">Association President's Award</span></h3>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li class="awards-item">
+                                            <div class="bs-award-tile typ-xl">
+                                                <div class="at-body">
+                                                    <div class="img-wrap lozad-background" data-background-image="assets/images/awards/overseas/5.jpg"></div>
+                                                </div>
+                                                <div class="at-footer">
+                                                    <h3 class="award-title">Nikkan Kogyo <span class="cm-line-break">Shimbun Award</span></h3>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li class="awards-item">
+                                            <div class="bs-award-tile typ-xl">
+                                                <div class="at-body">
+                                                    <div class="img-wrap lozad-background" data-background-image="assets/images/awards/overseas/6.jpg"></div>
+                                                </div>
+                                                <div class="at-footer">
+                                                    <h3 class="award-title">Japan Society for<span class="cm-line-break">Plastic Processing President's Award</span></h3>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li class="awards-item">
+                                            <div class="bs-award-tile typ-xl">
+                                                <div class="at-body">
+                                                    <div class="img-wrap lozad-background" data-background-image="assets/images/awards/overseas/7.jpg"></div>
+                                                </div>
+                                                <div class="at-footer">
+                                                    <h3 class="award-title">Best overseas <span class="cm-line-break">work award</span></h3>
+                                                </div>
+                                            </div>
+                                        </li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section>
+                <div class="bs-section">
+                    <div class="container">
+                        <div class="sec-cont">
+                            <div class="sec-head">
+                                <h2 class="sec-title">Grand pix <span class="cm-line-break">awards</span></h2>
+                            </div>
+                            <div class="sec-cont">
+                                <div class="lyt-awards typ-col-4">
+                                    <ul class="awards-list">
+                                        <li class="awards-item">
+                                            <div class="bs-award-tile typ-square">
+                                                <div class="at-body">
+                                                    <div class="img-wrap lozad-background" data-background-image="assets/images/awards/more/g-1.jpg"></div>
+                                                </div>
+                                                <div class="at-footer">
+                                                    <h4 class="award-title">Single item <span class="cm-line-break">Grand Prix</span></h4>
+                                                    <p class="award-company-name">Sakura ball Nadayoshi Co., Ltd. Japan</p>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li class="awards-item">
+                                            <div class="bs-award-tile typ-square">
+                                                <div class="at-body">
+                                                    <div class="img-wrap lozad-background" data-background-image="assets/images/awards/more/g-2.jpg"></div>
+                                                </div>
+                                                <div class="at-footer">
+                                                    <h4 class="award-title">Assembly section <span class="cm-line-break">Grand Prix</span></h4>
+                                                    <p class="award-company-name">compass Tanabe Seisakusho Co., Ltd. Japan</p>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li class="awards-item">
+                                            <div class="bs-award-tile typ-square">
+                                                <div class="at-body">
+                                                    <div class="img-wrap lozad-background" data-background-image="assets/images/awards/more/g-3.jpg"></div>
+                                                </div>
+                                                <div class="at-footer">
+                                                    <h4 class="award-title">Welded product section <span class="cm-line-break">Grand Prix</span></h4>
+                                                    <p class="award-company-name">Fashionable ♡ Shogi board & piece Kamimura Seisakusho Co., Ltd. Japan</p>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li class="awards-item">
+                                            <div class="bs-award-tile typ-square">
+                                                <div class="at-body">
+                                                    <div class="img-wrap lozad-background" data-background-image="assets/images/awards/more/g-4.jpg"></div>
+                                                </div>
+                                                <div class="at-footer">
+                                                    <h4 class="award-title">Modeled goods section <span class="cm-line-break">Grand Prix</span></h4>
+                                                    <p class="award-company-name">Metal Giant Isopod Suzuhiro Co., Ltd., Japan</p>
+                                                </div>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section>
+                <div class="bs-section">
+                    <div class="container">
+                        <div class="sec-cont">
+                            <div class="sec-head">
+                                <h2 class="sec-title">semi-Grand pix <span class="cm-line-break">awards</span></h2>
+                            </div>
+                            <div class="sec-cont">
+                                <div class="lyt-awards typ-col-4">
+                                    <ul class="awards-list">
+                                        <li class="awards-item">
+                                            <div class="bs-award-tile typ-square">
+                                                <div class="at-body">
+                                                    <div class="img-wrap lozad-background" data-background-image="assets/images/awards/more/sg-1.jpg"></div>
+                                                </div>
+                                                <div class="at-footer">
+                                                    <h4 class="award-title">Assembled Semi-Grand Prix </h4>
+                                                    <p class="award-company-name">Sailing ship Takabe Seiko Co., Ltd., Japan</p>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li class="awards-item">
+                                            <div class="bs-award-tile typ-square">
+                                                <div class="at-body">
+                                                    <div class="img-wrap lozad-background" data-background-image="assets/images/awards/more/sg-2.jpg"></div>
+                                                </div>
+                                                <div class="at-footer">
+                                                    <h4 class="award-title">Welded product <span class="cm-line-break">Semi-grand prix</span></h4>
+                                                    <p class="award-company-name">Jet airliner Iwakura Welding Industry Co., Ltd., Japan</p>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li class="awards-item">
+                                            <div class="bs-award-tile typ-square">
+                                                <div class="at-body">
+                                                    <div class="img-wrap lozad-background" data-background-image="assets/images/awards/more/sg-3.jpg"></div>
+                                                </div>
+                                                <div class="at-footer">
+                                                    <h4 class="award-title">Modeled goods section <span class="cm-line-break">Semi-grand prix</span></h4>
+                                                    <p class="award-company-name">Penrose's six-pointed star Miwa Kogyo Co., Ltd., Japan</p>
+                                                </div>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section>
+                <div class="bs-section">
+                    <div class="container">
+                        <div class="sec-cont">
+                            <div class="sec-head">
+                                <h2 class="sec-title">Student Category <span class="cm-line-break">awards</span></h2>
+                            </div>
+                            <div class="sec-cont">
+                                <div class="lyt-awards typ-col-4">
+                                    <ul class="awards-list">
+                                        <li class="awards-item">
+                                            <div class="bs-award-tile typ-square">
+                                                <div class="at-body">
+                                                    <div class="img-wrap lozad-background" data-background-image="assets/images/awards/more/s-1.jpg"></div>
+                                                </div>
+                                                <div class="at-footer">
+                                                    <h4 class="award-title">Student work <span class="cm-line-break">gold medal</span></h4>
+                                                    <p class="award-company-name">Immortal flower metal lily Tokyo Metropolitan Tama Vocational Ability Development Center (Tokyo)</p>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li class="awards-item">
+                                            <div class="bs-award-tile typ-square">
+                                                <div class="at-body">
+                                                    <div class="img-wrap lozad-background" data-background-image="assets/images/awards/more/s-2.jpg"></div>
+                                                </div>
+                                                <div class="at-footer">
+                                                    <h4 class="award-title">Student work division <span class="cm-line-break">silver prize</span></h4>
+                                                    <p class="award-company-name"><span class="cm-line-break">SHOULDER CUTTER</span>Yamagata Prefectural Shonai Vocational Ability Development Center (Yamagata Prefecture)</p>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li class="awards-item">
+                                            <div class="bs-award-tile typ-square">
+                                                <div class="at-body">
+                                                    <div class="img-wrap lozad-background" data-background-image="assets/images/awards/more/s-3.jpg"></div>
+                                                </div>
+                                                <div class="at-footer">
+                                                    <h4 class="award-title">Student work section <span class="cm-line-break">bronze award</span></h4>
+                                                    <p class="award-company-name">Trombone Tokyo Metropolitan Kogei High School (Tokyo)</p>
+                                                </div>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section>
+                <div class="bs-section">
+                    <div class="container">
+                        <div class="sec-cont">
+                            <div class="sec-head">
+                                <h2 class="sec-title">Judging Committee <span class="cm-line-break">Special awards</span></h2>
+                            </div>
+                            <div class="sec-cont">
+                                <div class="lyt-awards typ-col-4">
+                                    <ul class="awards-list">
+                                        <li class="awards-item">
+                                            <div class="bs-award-tile typ-square">
+                                                <div class="at-body">
+                                                    <div class="img-wrap lozad-background" data-background-image="assets/images/awards/more/j-1.jpg"></div>
+                                                </div>
+                                                <div class="at-footer">
+                                                    <h4 class="award-title">Judging Committee Special Award<span class="cm-line-break">Single Item Division </span></h4>
+                                                    <p class="award-company-name"><span class="cm-line-break">bouquet</span>Sakaguchi Seisakusho Co., Ltd. (Wakayama Prefecture)</p>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li class="awards-item">
+                                            <div class="bs-award-tile typ-square">
+                                                <div class="at-body">
+                                                    <div class="img-wrap lozad-background" data-background-image="assets/images/awards/more/j-2.jpg"></div>
+                                                </div>
+                                                <div class="at-footer">
+                                                    <h4 class="award-title">Judging Committee Special Award<span class="cm-line-break">Modeling Product Division</span></h4>
+                                                    <p class="award-company-name"><span class="cm-line-break">Whale monument</span>Maruwa Stainless Industry Co., Ltd. (Yamaguchi Prefecture)</p>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li class="awards-item">
+                                            <div class="bs-award-tile typ-square">
+                                                <div class="at-body">
+                                                    <div class="img-wrap lozad-background" data-background-image="assets/images/awards/more/j-3.jpg"></div>
+                                                </div>
+                                                <div class="at-footer">
+                                                    <h4 class="award-title">Judging Committee Special Award <span class="cm-line-break">Modeling Product Division</span></h4>
+                                                    <p class="award-company-name"><span class="cm-line-break">Brihadeeswara Temple</span>Avalon Technology And Services Pvt Ltd (India)</p>
+                                                </div>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section>
+                <div class="bs-section">
+                    <div class="container">
+                        <div class="sec-cont">
+                            <div class="sec-head">
+                                <h2 class="sec-title">Amada <span class="cm-line-break">awards</span></h2>
+                            </div>
+                            <div class="sec-cont">
+                                <div class="lyt-awards typ-col-4">
+                                    <ul class="awards-list">
+                                        <li class="awards-item">
+                                            <div class="bs-award-tile typ-square">
+                                                <div class="at-body">
+                                                    <div class="img-wrap lozad-background" data-background-image="assets/images/awards/more/a-1.jpg"></div>
+                                                </div>
+                                                <div class="at-footer">
+                                                    <h4 class="award-title">Amada Award<span class="cm-line-break">Single Item</span></h4>
+                                                    <p class="award-company-name"><span class="cm-line-break">5 mm bending</span>Ichinose Seisakusho Co., Ltd. (Tottori Prefecture)</p>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li class="awards-item">
+                                            <div class="bs-award-tile typ-square">
+                                                <div class="at-body">
+                                                    <div class="img-wrap lozad-background" data-background-image="assets/images/awards/more/a-2.jpg"></div>
+                                                </div>
+                                                <div class="at-footer">
+                                                    <h4 class="award-title">Amada Award<span class="cm-line-break">Welded Products</span></h4>
+                                                    <p class="award-company-name"><span class="cm-line-break">Hopper four-way eccentric reducer</span>Kyoei Equipment Industry Co., Ltd. (Saitama Prefecture)</p>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li class="awards-item">
+                                            <div class="bs-award-tile typ-square">
+                                                <div class="at-body">
+                                                    <div class="img-wrap lozad-background" data-background-image="assets/images/awards/more/a-3.jpg"></div>
+                                                </div>
+                                                <div class="at-footer">
+                                                    <h4 class="award-title">Amada Prize <span class="cm-line-break">Modeling</span></h4>
+                                                    <p class="award-company-name"><span class="cm-line-break">Kamidana</span>Kotani Seisakusho Co., Ltd. (Toyama Prefecture)</p>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li class="awards-item">
+                                            <div class="bs-award-tile typ-square">
+                                                <div class="at-body">
+                                                    <div class="img-wrap lozad-background" data-background-image="assets/images/awards/more/a-4.jpg"></div>
+                                                </div>
+                                                <div class="at-footer">
+                                                    <h4 class="award-title">Amada Award<span class="cm-line-break">Single Item</span></h4>
+                                                    <p class="award-company-name"><span class="cm-line-break">RADIATOR</span>US ŁUGI ŚLUSARSKIE – CUT STEEL (Poland)</p>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li class="awards-item">
+                                            <div class="bs-award-tile typ-square">
+                                                <div class="at-body">
+                                                    <div class="img-wrap lozad-background" data-background-image="assets/images/awards/more/a-5.jpg"></div>
+                                                </div>
+                                                <div class="at-footer">
+                                                    <h4 class="award-title">Amada Prize <span class="cm-line-break">Modeling</span></h4>
+                                                    <p class="award-company-name"><span class="cm-line-break">WAT THAI (THAI BUDDHIST TEMPLE)</span>JINPAO PRECISION INDUSTRY CO., LTD. (Thailand)</p>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li class="awards-item">
+                                            <div class="bs-award-tile typ-square">
+                                                <div class="at-body">
+                                                    <div class="img-wrap lozad-background" data-background-image="assets/images/awards/more/a-6.jpg"></div>
+                                                </div>
+                                                <div class="at-footer">
+                                                    <h4 class="award-title">Amada Prize <span class="cm-line-break">Modeling</span></h4>
+                                                    <p class="award-company-name"><span class="cm-line-break">RLM ATV Off Road Vehicle</span>Laserform CNC cutting and AHU manufacturing (India)</p>
+                                                </div>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <!-- footer start -->
+        <!--#include virtual="view/footer.html" -->
+        <!-- footer end -->
+    </footer>
+
+    <!-- popup start -->
+    <!--#include virtual="view/popup.html" -->
+    <!-- popup end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+
+</body>
+
+</html>

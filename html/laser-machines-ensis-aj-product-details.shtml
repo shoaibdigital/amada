@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>ENSIS-AJ Series</title>
+    <meta name="description" content="description goes here">
+    <link rel="canonical" href="url goes here" />
+
+    <meta property="og:url" content="url goes here" />
+    <meta property="og:title" content="title goes here" />
+    <meta property="og:description" content="description goes here" />
+    <meta property="og:image" content="img url goes here" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@PayUmoney" />
+    <meta name="twitter:title" content="title goes here" />
+    <meta name="twitter:description" content="description goes here" />
+    <meta name="twitter:url" content="url goes here" />
+    <meta name="twitter:image" content="img url goes here" />
+
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+
+</head>
+
+<body>
+    <header>
+        <!-- header start -->
+        <!--#include virtual="view/header.html" -->
+        <!-- header end -->
+    </header>
+
+    <main>
+        <div class="main lyt-content js-bg">
+            <div class="bs-breadcrum">
+                <div class="container">
+                    <ul class="list">
+                        <li class="item"><a href="#" class="link">amada</a></li>
+                        <li class="item"><a href="#" class="link">products</a></li>
+                        <li class="item"><a href="#" class="link">Laser Machines</a></li>
+                        <li class="item">ENSIS-AJ Series</li>
+                    </ul>
+                </div>
+            </div>
+            <section>
+                <div class="bs-section">
+                    <div class="container">
+                        <div class="sec-head">
+                            <h2 class="sec-title">ENSIS-AJ Series</h2>
+                        </div>
+                        <div class="sec-cont bs-img-desc typ-vertical">
+                            <div class="img-wrap">
+                                <img class="lozad" data-src="assets/images/products/laser/hero2.jpg">
+                            </div>
+                            <p class="sub-title">Fiber Laser Cutting Machine</p>
+                            <div class="sec-desc">
+                                <p>Energy saving, v-lot production, wide range fiber laser machine with process range expansion!</p>
+                                <p>Thin to thick materials can be cut at low power</p>
+                                <p>Fiber lasers were claimed to be advantageous in cutting thin materials. The ENSIS has expanded the thickness range of materials to be cut while retaining the characteristics of fiber laser to cut thin material. The conventional wisdom about fiber lasers is overturned by Amada’s original and latest beam control technology installed on the ENSIS.</p>
+                            </div>
+                            <div class="action-wrap">
+                                <a href="assets/doc/ENSIS-AJ-Series.pdf" class="bs-btn btn-default download-btn" target="_blank"><span class="icon icon-download"></span>download brochure</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section>
+                <div class="bs-section">
+                    <div class="container">
+                        <div class="bs-product-detail">
+                            <div class="pd-head">
+                                <ul class="bs-chain-info">
+                                    <li class="item">
+                                        <div class="bs-img-desc">
+                                            <div class="left-side">
+                                                <p class="sub-title">ENSIS Technology</p>
+                                                <div class="img-wrap">
+                                                    <img class="lozad" data-src="assets/images/products/laser/laser101.jpg">
+                                                </div>
+                                                <div class="sec-desc">
+                                                    <p>ENSIS technology is based on the “Variable Beam Control” unit capable of fully controlling and modulating the laser beam. ENSIS-AJ not only controls the beam diameter and focal point, but changes the
+                                                        beam mode according to the material and thickness to be machined. </p>
+                                                    <ul class="mod-list">
+                                                        <li class="item">Cutting on thin to thick materials using unique optimum beam control</li>
+                                                        <li class="item">Efficiency improvement by energy saving effect</li>
+                                                        <li class="item">Remarkably small footprint by oscillator downsizing and built in the machine</li>
+                                                        <li class="item">AMNC 3i Controller: The latest NC unit AMNC 3i can be operated quickly and intuitively like a smartphone. A large screen provides good visibility and can display many functions and information items.</li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                            <div class="right-side">
+                                                <div class="img-wrap">
+                                                    <img class="lozad" data-src="assets/images/products/laser/laser101.jpg">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="item">
+                                        <div class="bs-img-desc">
+                                            <div class="left-side">
+                                                <p class="sub-title">Key Evolution Factors</p>
+                                                <div class="img-wrap">
+                                                    <img class="lozad" data-src="assets/images/products/laser/laser91.jpg">
+                                                </div>
+                                                <div class="sec-desc">
+                                                    <ul class="mod-list">
+                                                        <li class="item">Equiped with WACS II system</li>
+                                                        <li class="item">Clean Fast Cut.</li>
+                                                        <li class="item">High Speed: 1-second clean pierce in 1″ plate</li>
+                                                        <li class="item">Industry's first - Infinite mode and diameter control combination</li>
+                                                        <li class="item">Up to 66% reduction in process time when compared to conventional fiber lasers at the same wattage</li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                            <div class="right-side">
+                                                <div class="img-wrap">
+                                                    <img class="lozad" data-src="assets/images/products/laser/laser91.jpg">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                </ul>
+
+                            </div>
+                            <div class="pd-body">
+                                <div class="bs-table">
+                                    <h3 class="title">Machine Specifications</h3>
+                                    <div class="table-wrap">
+                                        <table class="table" cellpadding="0" cellspacing="0">
+                                            <thead>
+                                                <tr>
+                                                    <th style="width:40%"></th>
+                                                    <th style="width:30%" class="t-title" >ENSIS 3015 AJ</th>
+                                                    <th style="width:30%" class="t-title">ENSIS 4020 AJ</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td class="t-desc">Numerical Control</td>
+                                                    <td class="t-desc" colspan="2">AMNC 3i</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Controlled axes</td>
+                                                    <td class="t-desc" colspan="2">X,Y,Z axes (three axes controlled simultaneously) + B Axis</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Axis travel distance <span class="cm-bold">X x Y x Z (mm)</span></td>
+                                                    <td class="t-desc">3070 x 1550 x 100</td>
+                                                    <td class="t-desc">4070 x 2050 x 100</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Maximum processing dimension <span class="cm-bold">X x Y (mm)</span></td>
+                                                    <td class="t-desc">3070 x 1550</td>
+                                                    <td class="t-desc">4070 x 2050</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Maximum simultaneous feed rate <span class="cm-bold">X/Y (m/min)</span></td>
+                                                    <td class="t-desc" colspan="2">170</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Repeatable Positioning accuracy <span class="cm-bold">(mm)</span></td>
+                                                    <td class="t-desc" colspan="2">+/- 0.1</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Maximum material mass <span class="cm-bold">(kg)</span></td>
+                                                    <td class="t-desc">920</td>
+                                                    <td class="t-desc">1570</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Processing surface height <span class="cm-bold">(mm)</span></td>
+                                                    <td class="t-desc" colspan="2">940</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Machine mass <span class="cm-bold">(kg)</span></td>
+                                                    <td class="t-desc">8000</td>
+                                                    <td class="t-desc">12200</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+
+                                <div class="bs-table">
+                                    <h3 class="title">Oscillator Specifications</h3>
+                                    <div class="table-wrap">
+                                        <table class="table" cellpadding="0" cellspacing="0">
+                                            <thead>
+                                                <tr>
+                                                    <th style="width:40%"></th>
+                                                    <th style="width:20%" class="t-title">ENSIS 3000</th>
+                                                    <th style="width:20%" class="t-title">ENSIS 6000</th>
+                                                    <th style="width:20%" class="t-title">ENSIS 9000</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td class="t-desc">Beam Generation</td>
+                                                    <td class="t-desc"></td>
+                                                    <td class="t-desc" colspan="2" style="text-align: center;">Laser diode-pumped fibre laser</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Maximum Power <span class="cm-bold">(W)</span></td>
+                                                    <td class="t-desc">3000</td>
+                                                    <td class="t-desc">6000</td>
+                                                    <td class="t-desc">9000</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Wave Length <span class="cm-bold">(µm)</span></td>
+                                                    <td class="t-desc" colspan="3" style="text-align: center;">1.08</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Maximum Processing Thickness - Mild Steel <span class="cm-bold">(mm)</span></td>
+                                                    <td class="t-desc">25</td>
+                                                    <td class="t-desc">25</td>
+                                                    <td class="t-desc">25</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Maximum Processing Thickness - Stainless steel</td>
+                                                    <td class="t-desc">15</td>
+                                                    <td class="t-desc">25</td>
+                                                    <td class="t-desc">25</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Maximum Processing Thickness - Aluminium</td>
+                                                    <td class="t-desc">12</td>
+                                                    <td class="t-desc">25</td>
+                                                    <td class="t-desc">25</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Maximum Processing Thickness - Brass</td>
+                                                    <td class="t-desc">8</td>
+                                                    <td class="t-desc">15</td>
+                                                    <td class="t-desc">18</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Maximum Processing Thickness - Copper</td>
+                                                    <td class="t-desc">6</td>
+                                                    <td class="t-desc">12</td>
+                                                    <td class="t-desc">12</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Maximum Processing Thickness - Titanium</td>
+                                                    <td class="t-desc">5</td>
+                                                    <td class="t-desc">10</td>
+                                                    <td class="t-desc">15</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+
+                                <div class="bs-table">
+                                    <h3 class="title">Shuttle Specifications</h3>
+                                    <div class="table-wrap">
+                                        <table class="table" cellpadding="0" cellspacing="0">
+                                            <thead>
+                                                <tr>
+                                                    <th style="width:40%"></th>
+                                                    <th style="width:30%" class="t-title">LST-3015G</th>
+                                                    <th style="width:30%" class="t-title">LST-4020G</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td class="t-desc">Max Material Dimensions <span class="cm-bold">X x Y (mm)</span></td>
+                                                    <td class="t-desc">3070 x 1550</td>
+                                                    <td class="t-desc">4070 x 2050</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Number of pallets</td>
+                                                    <td class="t-desc" colspan="2">2</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <!-- footer start -->
+        <!--#include virtual="view/footer.html" -->
+        <!-- footer end -->
+    </footer>
+
+    <!-- popup start -->
+    <!--#include virtual="view/popup.html" -->
+    <!-- popup end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+
+</body>
+
+</html>

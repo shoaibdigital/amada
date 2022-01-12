@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Training Courses Offered</title>
+    <meta name="description" content="description goes here">
+    <link rel="canonical" href="url goes here" />
+
+    <meta property="og:url" content="url goes here" />
+    <meta property="og:title" content="title goes here" />
+    <meta property="og:description" content="description goes here" />
+    <meta property="og:image" content="img url goes here" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@PayUmoney" />
+    <meta name="twitter:title" content="title goes here" />
+    <meta name="twitter:description" content="description goes here" />
+    <meta name="twitter:url" content="url goes here" />
+    <meta name="twitter:image" content="img url goes here" />
+
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+
+</head>
+
+<body>
+    <header>
+        <!-- header start -->
+        <!--#include virtual="view/header.html" -->
+        <!-- header end -->
+    </header>
+
+    <main>
+        <div class="main lyt-content js-bg">
+            <!-- banner start -->
+            <!--#include virtual="view/training-courses-banner.html" -->
+            <!-- banner end -->
+            <div class="bs-breadcrum">
+                <div class="container">
+                    <ul class="list">
+                        <li class="item"><a href="#" class="link">amada</a></li>
+                        <li class="item"><a href="#" class="link">vocational centre</a></li>
+                        <li class="item">Training Courses Offered</li>
+                    </ul>
+                </div>
+            </div>
+            <section>
+                <div class="bs-section">
+                    <div class="container">
+                        <div class="sec-cont">
+                            <div class="sec-desc">
+                                <p>Comprehensive Vocational Center Training Courses, ensures the Machine Operator’s Knowledge/Ability to achieve the maximum Efficiency from the Machine & Tools. AMADA Vocational Center framed the Training Courses based on
+                                    the Customer suited form to ensure the Company to get profit from correct, safe and productive use of AMADA machines. AMADA offers a range of operator training courses. Certificates are issued on the successful completion
+                                    of the course.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section>
+                <div class="bs-section">
+                    <div class="container">
+                        <div class="sec-cont">
+                            <ul class="bs-chain-info typ-img-lg">
+                                <li class="item">
+                                    <div class="bs-img-desc">
+                                        <div class="left-side">
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/vc/training-3.jpg">
+                                            </div>
+                                            <h3 class="title">Punching Machine Operational Training</h3>
+                                            <div class="bs-table">
+                                                <div class="table-wrap">
+                                                    <table class="table" cellpadding="0" cellspacing="0">
+                                                        <thead>
+                                                            <tr>
+                                                                <th style="width:50%" class="t-title">Course Details</th>
+                                                                <th style="width:25%" class="t-title">Course Code & Content</th>
+                                                                <th style="width:25%" class="t-title">No. of Days</th>
+                                                            </tr>
+                                                        </thead>
+                                                        <tbody>
+                                                            <tr>
+                                                                <td class="t-desc">NCT Operation Training AE Series </td>
+                                                                <td class="t-desc">MCNCT-AE 
+                                                                    <div class="action-wrap">
+                                                                        <a href="assets/doc/schedules/Punching-AE_EM.pdf" target="_blank" class="icon icon-pdf"></a>
+                                                                    </div>
+                                                                </td>
+                                                                <td class="t-desc">4</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td class="t-desc">NCT Operation Training EM M2 Series + 3i Controller</td>
+                                                                <td class="t-desc">MCNCT-EM
+                                                                    <div class="action-wrap">
+                                                                        <a href="assets/doc/schedules/Punching-AE_EM.pdf" target="_blank" class="icon icon-pdf"></a>
+                                                                    </div> 
+                                                                </td>
+                                                                <td class="t-desc">4</td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="right-side">
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/vc/training-3.jpg">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="item">
+                                    <div class="bs-img-desc">
+                                        <div class="left-side">
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/vc/training-2.jpg">
+                                            </div>
+                                            <h3 class="title">LASER Machine Operational Training</h3>
+                                            <div class="bs-table">
+                                                <div class="table-wrap">
+                                                    <table class="table" cellpadding="0" cellspacing="0">
+                                                        <thead>
+                                                            <tr>
+                                                                <th style="width:50%" class="t-title">Course Details</th>
+                                                                <th style="width:25%" class="t-title">Course Code & Content</th>
+                                                                <th style="width:25%" class="t-title">No. of Days</th>
+                                                            </tr>
+                                                        </thead>
+                                                        <tbody>
+                                                            <tr>
+                                                                <td class="t-desc">Laser Operation Training Fiber Series (LCG-AJ Series / ENSIS)</td>
+                                                                <td class="t-desc">MCLAS-AJ 
+                                                                    <div class="action-wrap">
+                                                                        <a href="assets/doc/schedules/ENSIS_LCG-AJ-3i.pdf" target="_blank" class="icon icon-pdf"></a>
+                                                                    </div>
+                                                                </td>
+                                                                <td class="t-desc">4</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td class="t-desc">Laser Operation Training LCG/FO M2 –CO2 series</td>
+                                                                <td class="t-desc">MCLAS-CO
+                                                                    <div class="action-wrap">
+                                                                        <a href="assets/doc/schedules/FOM2.pdf" target="_blank" class="icon icon-pdf"></a>
+                                                                    </div>
+                                                                </td>
+                                                                <td class="t-desc">4</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td class="t-desc">Laser cutting know/How Advance Training for CO2</td>
+                                                                <td class="t-desc">MCLASADV 
+                                                                    <div class="action-wrap">
+                                                                        <a href="assets/doc/schedules/LASER-FOM2series.pdf" target="_blank" class="icon icon-pdf"></a>
+                                                                    </div>
+                                                                </td>
+                                                                <td class="t-desc">2</td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="right-side">
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/vc/training-2.jpg">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="item">
+                                    <div class="bs-img-desc">
+                                        <div class="left-side">
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/vc/training-1.jpg">
+                                            </div>
+                                            <h3 class="title">Bending Machine Operational Training</h3>
+                                            <div class="bs-table">
+                                                <div class="table-wrap">
+                                                    <table class="table" cellpadding="0" cellspacing="0">
+                                                        <thead>
+                                                            <tr>
+                                                                <th style="width:50%" class="t-title">Course Details</th>
+                                                                <th style="width:25%" class="t-title">Course Code & Content</th>
+                                                                <th style="width:25%" class="t-title">No. of Days</th>
+                                                            </tr>
+                                                        </thead>
+                                                        <tbody>
+                                                            <tr>
+                                                                <td class="t-desc">Press Brake Operation Training (RGM2 series)</td>
+                                                                <td class="t-desc">MCPBE-RG 
+                                                                    <div class="action-wrap">
+                                                                        <a href="assets/doc/schedules/RGM2.pdf" target="_blank" class="icon icon-pdf"></a>
+                                                                    </div>
+                                                                </td>
+                                                                <td class="t-desc">2</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td class="t-desc">Press Brake Operation Training ( HM / HDS series )</td>
+                                                                <td class="t-desc">MCPBE-HM 
+                                                                    <div class="action-wrap">
+                                                                        <a href="assets/doc/schedules/Bending-HDSseries.pdf" target="_blank" class="icon icon-pdf"></a>
+                                                                    </div>
+                                                                </td>
+                                                                <td class="t-desc">3</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td class="t-desc">Press Brake Operation Training HG Series</td>
+                                                                <td class="t-desc">MCPBE-HG 
+                                                                    <div class="action-wrap">
+                                                                        <a href="assets/doc/schedules/HM-HG-HDS.pdf" target="_blank" class="icon icon-pdf"></a>
+                                                                    </div>
+                                                                </td>
+                                                                <td class="t-desc">3</td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="right-side">
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/vc/training-1.jpg">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="item">
+                                    <div class="bs-img-desc">
+                                        <div class="left-side">
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/vc/training-4.jpg">
+                                            </div>
+                                            <h3 class="title">Basic Maintenance Training <span class="cm-line-break">[All Machines]</span></h3>
+                                            <div class="bs-table">
+                                                <div class="table-wrap">
+                                                    <table class="table" cellpadding="0" cellspacing="0">
+                                                        <thead>
+                                                            <tr>
+                                                                <th style="width:50%" class="t-title">Course Details</th>
+                                                                <th style="width:25%" class="t-title">Course Code & Content</th>
+                                                                <th style="width:25%" class="t-title">No. of Days</th>
+                                                            </tr>
+                                                        </thead>
+                                                        <tbody>
+                                                            <tr>
+                                                                <td class="t-desc">Machine Maintenance Training – Laser , Punching & Bending</td>
+                                                                <td class="t-desc">MCMNT-AL</td>
+                                                                <td class="t-desc">4</td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="right-side">
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/vc/training-4.jpg">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="item">
+                                    <div class="bs-img-desc">
+                                        <div class="left-side">
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/vc/about.jpg">
+                                            </div>
+                                            <h3 class="title">Software Technology Training</h3>
+                                            <div class="bs-table">
+                                                <div class="table-wrap">
+                                                    <table class="table" cellpadding="0" cellspacing="0">
+                                                        <thead>
+                                                            <tr>
+                                                                <th style="width:50%" class="t-title">Course Details</th>
+                                                                <th style="width:25%" class="t-title">Course Code & Content</th>
+                                                                <th style="width:25%" class="t-title">No. of Days</th>
+                                                            </tr>
+                                                        </thead>
+                                                        <tbody>
+                                                            <tr>
+                                                                <td class="t-desc">Software Training AP100 CAD / Punch CAM</td>
+                                                                <td class="t-desc">SWAP100P 
+                                                                    <div class="action-wrap">
+                                                                        <a href="assets/doc/schedules/AP100-Punch_CAM.pdf" target="_blank" class="icon icon-pdf"></a>
+                                                                    </div>
+                                                                </td>
+                                                                <td class="t-desc">4</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td class="t-desc">Software Training AP100 CAD / Laser CAM</td>
+                                                                <td class="t-desc">SWAP100L 
+                                                                    <div class="action-wrap">
+                                                                        <a href="assets/doc/schedules/AP100-Laser_CAM.pdf" target="_blank" class="icon icon-pdf"></a>
+                                                                    </div>
+                                                                </td>
+                                                                <td class="t-desc">4</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td class="t-desc">Software Training Dr. ABE Blank CAM – Punch</td>
+                                                                <td class="t-desc">SWDABE-P</td>
+                                                                <td class="t-desc">3</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td class="t-desc">Software Training Dr. ABE Blank CAM – Laser</td>
+                                                                <td class="t-desc">SWDABE-L 
+                                                                    <div class="action-wrap">
+                                                                        <a href="assets/doc/schedules/Dr_ABE_Blank_Laser.pdf" target="_blank" class="icon icon-pdf"></a>
+                                                                    </div>
+                                                                </td>
+                                                                <td class="t-desc">3</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td class="t-desc">Software Training AP100 CAD + Dr. ABE Blank CAM – Punch CAM</td>
+                                                                <td class="t-desc">SWAPABEP</td>
+                                                                <td class="t-desc">4</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td class="t-desc">Software Training AP100 CAD + Dr. ABE Blank CAM – Laser CAM</td>
+                                                                <td class="t-desc">SWAPABEL</td>
+                                                                <td class="t-desc">4</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td class="t-desc">Software Training Dr. ABE Bend</td>
+                                                                <td class="t-desc">SWDABEBE</td>
+                                                                <td class="t-desc">2</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td class="t-desc">Software Training SheetWorks for Unfold</td>
+                                                                <td class="t-desc">SWSHTW-U
+                                                                    <div class="action-wrap">
+                                                                        <a href="assets/doc/schedules/Sheetworks for Unfold.pdf" target="_blank" class="icon icon-pdf"></a>
+                                                                    </div>
+                                                                </td>
+                                                                <td class="t-desc">4</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td class="t-desc">Software Training SheetWorks for Tube</td>
+                                                                <td class="t-desc">SWSHTW-T</td>
+                                                                <td class="t-desc">4</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td class="t-desc">Software Training VPSS 3i PD + Blank Plus _ Punch</td>
+                                                                <td class="t-desc">SWVP3I-P 
+                                                                    <div class="action-wrap">
+                                                                        <a href="assets/doc/schedules/VPSS3i_PD_Blank-Punch.pdf" target="_blank" class="icon icon-pdf"></a>
+                                                                    </div>
+                                                                </td>
+                                                                <td class="t-desc">4</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td class="t-desc">Software Training VPSS 3i PD + Blank Plus _ Laser</td>
+                                                                <td class="t-desc">SWVP3I-L 
+                                                                    <div class="action-wrap">
+                                                                        <a href="assets/doc/schedules/VPSS3i_PD_Blank-Laser.pdf" target="_blank" class="icon icon-pdf"></a>
+                                                                    </div>
+                                                                </td>
+                                                                <td class="t-desc">4</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td class="t-desc">Software Training VPSS 3i PD + Bend Plus</td>
+                                                                <td class="t-desc">SWVP3I-B 
+                                                                    <div class="action-wrap">
+                                                                        <a href="assets/doc/schedules/VPSS3i_PD_BendPlus.pdf" target="_blank" class="icon icon-pdf"></a>
+                                                                    </div>
+                                                                </td>
+                                                                <td class="t-desc">4</td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="right-side">
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/vc/about.jpg">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <!-- footer start -->
+        <!--#include virtual="view/footer.html" -->
+        <!-- footer end -->
+    </footer>
+
+    <!-- popup start -->
+    <!--#include virtual="view/popup.html" -->
+    <!-- popup end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+
+</body>
+
+</html>

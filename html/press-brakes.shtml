@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Press Brakes</title>
+    <meta name="description" content="description goes here">
+    <link rel="canonical" href="url goes here" />
+
+    <meta property="og:url" content="url goes here" />
+    <meta property="og:title" content="title goes here" />
+    <meta property="og:description" content="description goes here" />
+    <meta property="og:image" content="img url goes here" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@PayUmoney" />
+    <meta name="twitter:title" content="title goes here" />
+    <meta name="twitter:description" content="description goes here" />
+    <meta name="twitter:url" content="url goes here" />
+    <meta name="twitter:image" content="img url goes here" />
+
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+
+</head>
+
+<body>
+    <header>
+        <!-- header start -->
+        <!--#include virtual="view/header.html" -->
+        <!-- header end -->
+    </header>
+
+    <main>
+        <div class="main lyt-content js-bg">
+            <!-- banner start -->
+            <!--#include virtual="view/press-brakes-banner.html" -->
+            <!-- banner end -->
+            <div class="bs-breadcrum">
+                <div class="container">
+                    <ul class="list">
+                        <li class="item"><a href="#" class="link">amada</a></li>
+                        <li class="item"><a href="#" class="link">Products</a></li>
+                        <li class="item">Press Brakes</li>
+                    </ul>
+                </div>
+            </div>
+            <section>
+                <div class="bs-section sec-first">
+                    <div class="container">
+                        <div class="sec-cont">
+                            <ul class="bs-chain-info">
+                                <li class="item">
+                                    <div class="bs-img-desc">
+                                        <div class="left-side">
+                                            <h2 class="title">HG SERIES</h2>
+                                            <div class="img-wrap lozad-background" data-background-image="assets/images/products/press/press1.jpg"></div>
+                                            <div class="sec-desc">
+                                                <p>HG Series is high end press brake for various mix & various volume production.</p>
+                                                <p>An ultra-high precision, high-speed compact bending solution featuring an advanced Dual Servo Power Drive system providing ultimate in bending control and accuracy.</p>
+                                            </div>
+                                            <div class="action-wrap">
+                                                <a href="press-brake-machines-hg-product-details.shtml" class="bs-btn btn-default">KNOW MORE</a>
+                                                <button class="bs-btn btn-icon-link download-btn"><span class="icon icon-download"></span>
+                                                    <a href="assets/doc/HG-Series.pdf" target="_blank">download brochure</a></button>
+                                            </div>
+                                        </div>
+                                        <div class="right-side">
+                                            <div class="img-wrap lozad-background" data-background-image="assets/images/products/press/press1.jpg"></div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="item">
+                                    <div class="bs-img-desc">
+                                        <div class="left-side">
+                                            <h2 class="title">HG-ATC SERIES</h2>
+                                            <div class="img-wrap lozad-background" data-background-image="assets/images/products/press/press2.jpg"></div>
+                                            <div class="sec-desc">
+                                                <p>Automation of tool setup and angle accuracy adjustment by batch tool layout for multiple part types</p>
+                                                <p>Hybrid press brake with the next generation ATC</p>
+                                                <p>The Automatic Tool Changer (ATC) is added to the digital hybrid press brake HG-1003 with a new mechanism.</p>
+                                            </div>
+                                            <div class="action-wrap">
+                                                <a href="press-brake-machines-hg-atc-product-details.shtml" class="bs-btn btn-default">KNOW MORE</a>
+                                                <button class="bs-btn btn-icon-link download-btn"><span class="icon icon-download"></span>
+                                                    <a href="assets/doc/HG-1003-ATC.pdf" target="_blank">download brochure</a></button>
+                                            </div>
+                                        </div>
+                                        <div class="right-side">
+                                            <div class="img-wrap lozad-background" data-background-image="assets/images/products/press/press2.jpg"></div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="item">
+                                    <div class="bs-img-desc">
+                                        <div class="left-side">
+                                            <h2 class="title">HG-1303RM</h2>
+                                            <div class="img-wrap lozad-background" data-background-image="assets/images/products/press/press3.jpg"></div>
+                                            <div class="sec-desc">
+                                                <p>Simple operation, and secure, safe and stable bending with a single robot. Bending robot system for bending complex rib and panel shapes.</p>
+                                            </div>
+                                            <div class="action-wrap">
+                                                <a href="press-brake-machines-hg-1303rm-product-details.shtml" class="bs-btn btn-default">KNOW MORE</a>
+                                                <button class="bs-btn btn-icon-link"><span class="icon icon-download"></span>download brochure</button>
+                                            </div>
+                                        </div>
+                                        <div class="right-side">
+                                            <div class="img-wrap lozad-background" data-background-image="assets/images/products/press/press3.jpg"></div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="item">
+                                    <div class="bs-img-desc">
+                                        <div class="left-side">
+                                            <h2 class="title">HRB SERIES</h2>
+                                            <div class="img-wrap lozad-background" data-background-image="assets/images/products/press/press4.jpg"></div>
+                                            <div class="sec-desc">
+                                                <p>The Next Global Standard Bending Machine HRB Press Brake Series leverages industry-leading bending technology and a variety of production-enhancing features that can be customized to resolve your specific
+                                                    challenges. </p>
+                                            </div>
+                                            <div class="action-wrap">
+                                                <a href="press-brake-machines-hrb-product-details.shtml" class="bs-btn btn-default">KNOW MORE</a>
+                                                <button class="bs-btn btn-icon-link download-btn"><span class="icon icon-download"></span>
+                                                    <a href="assets/doc/HRB-SERIES.pdf" target="_blank">download brochure</a></button>
+                                            </div>
+                                        </div>
+                                        <div class="right-side">
+                                            <div class="img-wrap lozad-background" data-background-image="assets/images/products/press/press4.jpg"></div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="item">
+                                    <div class="bs-img-desc">
+                                        <div class="left-side">
+                                            <h2 class="title">EG SERIES</h2>
+                                            <div class="img-wrap lozad-background" data-background-image="assets/images/products/press/press5.jpg"></div>
+                                            <div class="sec-desc">
+                                                <p>An ultra-high precision, high-speed compact bending solution featuring an advanced and precise Dual Servo Power drive system.</p>
+                                            </div>
+                                            <div class="action-wrap">
+                                                <a href="press-brake-machines-eg-product-details.shtml" class="bs-btn btn-default">KNOW MORE</a>
+                                                <button class="bs-btn btn-icon-link download-btn"><span class="icon icon-download"></span>
+                                                    <a href="assets/doc/EG-4010.pdf" target="_blank">download brochure</a></button>
+                                            </div>
+                                        </div>
+                                        <div class="right-side">
+                                            <div class="img-wrap lozad-background" data-background-image="assets/images/products/press/press5.jpg"></div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="item">
+                                    <div class="bs-img-desc">
+                                        <div class="left-side">
+                                            <h2 class="title">RGM2 SERIES</h2>
+                                            <div class="img-wrap lozad-background" data-background-image="assets/images/products/press/press6.jpg"></div>
+                                            <div class="sec-desc">
+                                                <p><strong>User friendly!</strong></p>
+                                                <p>NC Controller , Front support table</p>
+                                                <p><strong>Higher productivity!</strong></p>
+                                                <p>Table speed:1.3 times, Back gauge speed:3 times</p>
+                                            </div>
+                                            <div class="action-wrap">
+                                                <a href="press-brake-machines-rgm2-product-details.shtml" class="bs-btn btn-default">KNOW MORE</a>
+                                                <button class="bs-btn btn-icon-link"><span class="icon icon-download"></span>download brochure</button>
+                                            </div>
+                                        </div>
+                                        <div class="right-side">
+                                            <div class="img-wrap lozad-background" data-background-image="assets/images/products/press/press6.jpg"></div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <!-- footer start -->
+        <!--#include virtual="view/footer.html" -->
+        <!-- footer end -->
+    </footer>
+
+    <!-- popup start -->
+    <!--#include virtual="view/popup.html" -->
+    <!-- popup end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+
+</body>
+
+</html>

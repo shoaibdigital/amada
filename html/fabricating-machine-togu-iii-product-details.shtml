@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Product</title>
+    <meta name="description" content="description goes here">
+    <link rel="canonical" href="url goes here" />
+
+    <meta property="og:url" content="url goes here" />
+    <meta property="og:title" content="title goes here" />
+    <meta property="og:description" content="description goes here" />
+    <meta property="og:image" content="img url goes here" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@PayUmoney" />
+    <meta name="twitter:title" content="title goes here" />
+    <meta name="twitter:description" content="description goes here" />
+    <meta name="twitter:url" content="url goes here" />
+    <meta name="twitter:image" content="img url goes here" />
+
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+
+</head>
+
+<body>
+    <header>
+        <!-- header start -->
+        <!--#include virtual="view/header.html" -->
+        <!-- header end -->
+    </header>
+
+    <main>
+        <div class="main lyt-content js-bg">
+            <div class="bs-breadcrum">
+                <div class="container">
+                    <ul class="list">
+                        <li class="item"><a href="#" class="link">amada</a></li>
+                        <li class="item"><a href="#" class="link">products</a></li>
+                        <li class="item"><a href="#" class="link">General Fabricating Machine</a></li>
+                        <li class="item">TOGU III</li>
+                    </ul>
+                </div>
+            </div>
+            <section>
+                <div class="bs-section">
+                    <div class="container">
+                        <div class="bs-product-detail">
+                            <div class="pd-head">
+                                <ul class="bs-chain-info">
+                                    <li class="item">
+                                        <div class="bs-img-desc">
+                                            <div class="left-side">
+                                                <h2 class="title">TOGU III</h2>
+                                                <p class="sub-title">Achieve the Perfect Grind every time</p>
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/products/fab/fab2.jpg"></div>
+                                                <div class="sec-desc">
+                                                    <p>Automated, precise, high-speed grinding</p>
+                                                    <p>The TOGU -III has been created to assist the grinding process and to considerably reduce the loss in production time and will help every customer obtain the highest quality of grinding.</p>
+                                                    <p><strong>Development Concept</strong></p>
+                                                    <p>High-precision automated grinding designed specially for turret punch press tooling.</p>
+                                                    <p>Servo-controlled wet rotary grinding provides unsurpassed surface finish while significantly increasing tool life.</p>
+                                                    <p>Easy operation, experienced grinding operator is not required.</p>
+                                                    <p>Small footprint allows strategic shop placement.</p>
+                                                </div>
+                                            </div>
+                                            <div class="right-side">
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/products/fab/fab2.jpg"></div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="pd-body">
+                                <div class="bs-table">
+                                    <h3 class="title">Specifications</h3>
+                                    <div class="table-wrap">
+                                        <table class="table" cellpadding="0" cellspacing="0">
+                                            <tbody>
+                                                <tr>
+                                                    <td class="t-desc cm-half">Machine Weight</td>
+                                                    <td class="t-desc cm-half">480 Kg(excluding a transformer)</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Power Supply</td>
+                                                    <td class="t-desc">AC200/220V 3 phase 2.5k VA</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc" colspan="2">A Transformer is used outside AC200/220V area</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Air Supply</td>
+                                                    <td class="t-desc">1700L/min</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Grinding Wheel</td>
+                                                    <td class="t-desc">CBN ø135</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Max. diameter too, size</td>
+                                                    <td class="t-desc">ø160</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Max. Grinding</td>
+                                                    <td class="t-desc">0.99mm</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Main axis motor</td>
+                                                    <td class="t-desc">1.5KW 2P</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Main axis rotation speed</td>
+                                                    <td class="t-desc">2810/3000 rpm</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Main axis travel</td>
+                                                    <td class="t-desc">240 mm</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Main axis feed motor</td>
+                                                    <td class="t-desc">DC Server Motor 40w</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Main axis feed speed-high</td>
+                                                    <td class="t-desc">600mm/min</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Main axis feed speed-middle</td>
+                                                    <td class="t-desc">60mm/min</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Main axis feed speed-low</td>
+                                                    <td class="t-desc">0.06mm/min</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Table motor</td>
+                                                    <td class="t-desc">0.1kw 4P</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Table rotation speed</td>
+                                                    <td class="t-desc">60/72 rpm (50/60 Hz)</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Cooling water pump motor</td>
+                                                    <td class="t-desc">0.06kw 2P</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Cooling water pump motor flow</td>
+                                                    <td class="t-desc">20/25L/ (50/60 Hz)</td>
+                                                </tr>
+
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section>
+                <div class="bs-button">
+                    <div class="container">
+                        <div class="action-wrap">
+                            <a href="#" target="_blank" class="bs-btn btn-icon-link download-btn"><span class="icon icon-download"></span> download brochure</a>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <!-- footer start -->
+        <!--#include virtual="view/footer.html" -->
+        <!-- footer end -->
+    </footer>
+
+    <!-- popup start -->
+    <!--#include virtual="view/popup.html" -->
+    <!-- popup end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+
+</body>
+
+</html>

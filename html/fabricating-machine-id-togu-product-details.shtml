@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Product</title>
+    <meta name="description" content="description goes here">
+    <link rel="canonical" href="url goes here" />
+
+    <meta property="og:url" content="url goes here" />
+    <meta property="og:title" content="title goes here" />
+    <meta property="og:description" content="description goes here" />
+    <meta property="og:image" content="img url goes here" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@PayUmoney" />
+    <meta name="twitter:title" content="title goes here" />
+    <meta name="twitter:description" content="description goes here" />
+    <meta name="twitter:url" content="url goes here" />
+    <meta name="twitter:image" content="img url goes here" />
+
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+
+</head>
+
+<body>
+    <header>
+        <!-- header start -->
+        <!--#include virtual="view/header.html" -->
+        <!-- header end -->
+    </header>
+
+    <main>
+        <div class="main lyt-content js-bg">
+            <div class="bs-breadcrum">
+                <div class="container">
+                    <ul class="list">
+                        <li class="item"><a href="#" class="link">amada</a></li>
+                        <li class="item"><a href="#" class="link">products</a></li>
+                        <li class="item"><a href="#" class="link">General Fabricating Machine</a></li>
+                        <li class="item">ID-TOGU</li>
+                    </ul>
+                </div>
+            </div>
+            <section>
+                <div class="bs-section">
+                    <div class="container">
+                        <div class="bs-product-detail">
+                            <div class="pd-head">
+                                <ul class="bs-chain-info">
+                                    <li class="item">
+                                        <div class="bs-img-desc">
+                                            <div class="left-side">
+                                                <h2 class="title">ID-TOGU</h2>
+                                                <p class="sub-title">Digital Management of Grinder</p>
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/products/fab/fab1.jpg"></div>
+                                                <div class="sec-desc">
+                                                    <p>ID-TOGU always can provide optimal grinding by taking grinding values from AITS server automatically. Tool height data is transferred to AITS server when tools are measured by the measuring device. It
+                                                        enables digital Management of tooling condition, and realizes stable processing quality.</p>
+                                                    <p>Auto-grinding machine for ID tool</p>
+                                                    <p>Skill-less and optimal tool-grinding has been achieved by digital control</p>
+                                                    <p><strong>New Technology</strong></p>
+                                                    <ul class="mod-list-circle">
+                                                        <li>Simple operation and precise grinding
+                                                            <ul class="inside-list">
+                                                                <li>High quality grinding by digital control</li>
+                                                            </ul>
+                                                        </li>
+                                                        <li>Sharing tool information without skill after regrinding
+                                                            <ul class="inside-list">
+                                                                <li>Realizing stable punching by tool information sharing through network.</li>
+                                                            </ul>
+                                                        </li>
+                                                        <li>Advanced new functions from TOGU III
+                                                            <ul class="inside-list">
+                                                                <li>Shortening maintenance time</li>
+                                                                <li>Punch height measuring function</li>
+                                                                <li>Safety door</li>
+                                                                <li>Air-blowing function after ground</li>
+                                                                <li>High speed mode function</li>
+                                                                <li>Maintenance navigation function</li>
+                                                            </ul>
+                                                        </li>
+
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                            <div class="right-side">
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/products/fab/fab1.jpg"></div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section>
+                <div class="bs-button">
+                    <div class="container">
+                        <div class="action-wrap">
+                            <a href="#" target="_blank" class="bs-btn btn-icon-link download-btn"><span class="icon icon-download"></span> download brochure</a>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <!-- footer start -->
+        <!--#include virtual="view/footer.html" -->
+        <!-- footer end -->
+    </footer>
+
+    <!-- popup start -->
+    <!--#include virtual="view/popup.html" -->
+    <!-- popup end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+
+</body>
+
+</html>

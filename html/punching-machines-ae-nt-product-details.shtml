@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Product</title>
+    <meta name="description" content="description goes here">
+    <link rel="canonical" href="url goes here" />
+
+    <meta property="og:url" content="url goes here" />
+    <meta property="og:title" content="title goes here" />
+    <meta property="og:description" content="description goes here" />
+    <meta property="og:image" content="img url goes here" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@PayUmoney" />
+    <meta name="twitter:title" content="title goes here" />
+    <meta name="twitter:description" content="description goes here" />
+    <meta name="twitter:url" content="url goes here" />
+    <meta name="twitter:image" content="img url goes here" />
+
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+
+</head>
+
+<body>
+    <header>
+        <!-- header start -->
+        <!--#include virtual="view/header.html" -->
+        <!-- header end -->
+    </header>
+
+    <main>
+        <div class="main lyt-content js-bg">
+            <div class="bs-breadcrum">
+                <div class="container">
+                    <ul class="list">
+                        <li class="item"><a href="#" class="link">amada</a></li>
+                        <li class="item"><a href="#" class="link">products</a></li>
+                        <li class="item"><a href="#" class="link">Punching Machines</a></li>
+                        <li class="item">AE-NT series</li>
+                    </ul>
+                </div>
+            </div>
+            <section>
+                <div class="bs-section">
+                    <div class="container">
+                        <div class="bs-product-detail">
+                            <div class="pd-head">
+                                <ul class="bs-chain-info">
+                                    <li class="item">
+                                        <div class="bs-img-desc">
+                                            <div class="left-side">
+                                                <h2 class="title">AE-NT series</h2>
+                                                <p class="sub-title">AC servo single drive</p>
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/products/punch/punch3.jpg"></div>
+                                                <div class="sec-desc">
+                                                    <p>New Compact, Eco-Friendly and Intelligent NCT</p>
+                                                    <p>Amada’s Turret Punch Presses have been delivered more than 30,000 units worldwide. Developed on these results, the AENT series is a line of single AC servo drive turret punch press with Amada’s original
+                                                        ‘’Highly Rigid Bridge Frame”</p>
+                                                    <p>Designed with the smallest foot print of its class and yet capable of processing 4’ X 8’ sheets, the AE-NT series has a large capacity turret to ensure stable, high speed, high quality processing.</p>
+                                                </div>
+                                            </div>
+                                            <div class="right-side">
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/products/punch/punch3.jpg"></div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    </li>
+                                </ul>
+                                <div class="bs-features">
+                                    <div class="lyt-features">
+                                        <div class="">
+                                            <h2 class="title">FEATURES</h2>
+                                            <div class="sec-desc">
+                                                <h3 class="sub-title">Achievement of stable high speed processing</h3>
+                                                <ul class="mod-list-circle">
+                                                    <li>Slug Pulling-Less Punching - Less slug pulling achieved stable high speed punching</li>
+                                                    <li>Fine Contouring</li>
+                                                </ul>
+                                                <h3 class="sub-title">Achievement of High Quality processing</h3>
+                                                <ul class="mod-list-circle">
+                                                    <li>High speed deburring – Labor and time consuming deburring is automated and speeded up</li>
+                                                    <li>Slotting – Realized without tool overlap marks that eliminates manual filing work</li>
+                                                    <li>High speed marking – Secondary operations are remarkably being efficient</li>
+                                                </ul>
+                                                <h3 class="sub-title">Achievement of process integration</h3>
+                                                <ul class="mod-list-circle">
+                                                    <li>High speed forming – Parts can be formed to desired shapes and dimensions without using special tools</li>
+                                                    <li>Downward forming – Parts can be formed at high speed without damage and scratches</li>
+                                                    <li>Safety inch bending – Minimal flanges can be automatically bent</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="pd-body">
+                                <div class="bs-table">
+                                    <h3 class="title">Specifications</h3>
+                                    <div class="table-wrap">
+                                        <table class="table" cellpadding="0" cellspacing="0">
+                                            <thead>
+                                                <tr>
+                                                    <th class="t-title">Model</th>
+                                                    <th class="t-title">AE255NT</th>
+                                                    <th class="t-title">AE2510NT</th>
+                                                    <th class="t-title">AE2610NT</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td class="t-desc">Press Capacity <span class="cm-bold">kN {ton}</span></td>
+                                                    <td class="t-desc" colspan="3">200 {20}</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Tool Storage</td>
+                                                    <td class="t-desc" colspan="3">45/51/58 Stations</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Max. Sheet Size <span class="cm-bold">mm</span></td>
+                                                    <td class="t-desc">1270 x 2500</td>
+                                                    <td class="t-desc">1270 x 5000</td>
+                                                    <td class="t-desc">1525 x 5000</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Max Sheet Thickness <span class="cm-bold">mm</span></td>
+                                                    <td class="t-desc" colspan="3">3.2 mm (Brush Table )
+                                                        <span class="cm-line-break">6.4mm (High density brush table)</span></td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Punching Accuracy <span>mm</span></td>
+                                                    <td class="t-desc" colspan="3">±0.1mm and ±0.07mm (FA mode)</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Hit Rate (25.4mm pitch/3mm stroke) <span class="cm-bold">hpm</span></td>
+                                                    <td class="t-desc">X: 400 Y: 290</td>
+                                                    <td class="t-desc">X:390 Y:300</td>
+                                                    <td class="t-desc">X:380 Y:280</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Max Feed Rate <span class="cm-bold">m/min</span></td>
+                                                    <td class="t-desc" colspan="3">X:80 Y:60</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+
+                                <div class="bs-table">
+                                    <h3 class="title">Turret Layout</h3>
+                                    <div class="table-wrap">
+                                        <table class="table" cellpadding="0" cellspacing="0">
+                                            <thead>
+                                                <tr>
+                                                    <th class="t-title"></th>
+                                                    <th class="t-title">Pattern 1</th>
+                                                    <th class="t-title">Pattern 2</th>
+                                                    <th class="t-title">Pattern 3</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td class="t-desc">Layout Pattern</td>
+                                                    <td class="t-desc">58st.(2AI)</td>
+                                                    <td class="t-desc">51st.(4AI)</td>
+                                                    <td class="t-desc">45st.(4AI)</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Maximum tool diameter</td>
+                                                    <td class="t-desc">E(4-1/2”)</td>
+                                                    <td class="t-desc">D(3-1/2”)</td>
+                                                    <td class="t-desc">E(4-1/2”)</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Number of A (1/2”) stations</td>
+                                                    <td class="t-desc">36</td>
+                                                    <td class="t-desc">24</td>
+                                                    <td class="t-desc">24</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Number of B (1-1/4”) stations</td>
+                                                    <td class="t-desc">12</td>
+                                                    <td class="t-desc">18</td>
+                                                    <td class="t-desc">12</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Number of C (2”) stations</td>
+                                                    <td class="t-desc">4</td>
+                                                    <td class="t-desc">3</td>
+                                                    <td class="t-desc">2</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Number of D (3-1/2”) stations</td>
+                                                    <td class="t-desc">2</td>
+                                                    <td class="t-desc">2</td>
+                                                    <td class="t-desc">1</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Number of E (4-1/2”) stations</td>
+                                                    <td class="t-desc">2</td>
+                                                    <td class="t-desc">-</td>
+                                                    <td class="t-desc">2</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Number of G (1-1/4”) stations</td>
+                                                    <td class="t-desc">2</td>
+                                                    <td class="t-desc">3</td>
+                                                    <td class="t-desc">2</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Number of H (2”) stations</td>
+                                                    <td class="t-desc">-</td>
+                                                    <td class="t-desc">1</td>
+                                                    <td class="t-desc">2</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section>
+                <div class="bs-button">
+                    <div class="container">
+                        <div class="action-wrap">
+                            <button class="bs-btn btn-icon-link download-btn"><span class="icon icon-download"></span>
+                                    <a href="assets/doc/AE-NT-Series.pdf" target="_blank">download brochure</a></button>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <!-- footer start -->
+        <!--#include virtual="view/footer.html" -->
+        <!-- footer end -->
+    </footer>
+
+    <!-- popup start -->
+    <!--#include virtual="view/popup.html" -->
+    <!-- popup end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+
+</body>
+
+</html>

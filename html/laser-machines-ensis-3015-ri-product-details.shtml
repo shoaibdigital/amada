@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Product</title>
+    <meta name="description" content="description goes here">
+    <link rel="canonical" href="url goes here" />
+
+    <meta property="og:url" content="url goes here" />
+    <meta property="og:title" content="title goes here" />
+    <meta property="og:description" content="description goes here" />
+    <meta property="og:image" content="img url goes here" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@PayUmoney" />
+    <meta name="twitter:title" content="title goes here" />
+    <meta name="twitter:description" content="description goes here" />
+    <meta name="twitter:url" content="url goes here" />
+    <meta name="twitter:image" content="img url goes here" />
+
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+
+</head>
+
+<body>
+    <header>
+        <!-- header start -->
+        <!--#include virtual="view/header.html" -->
+        <!-- header end -->
+    </header>
+
+    <main>
+        <div class="main lyt-content js-bg">
+            <div class="bs-breadcrum">
+                <div class="container">
+                    <ul class="list">
+                        <li class="item"><a href="#" class="link">amada</a></li>
+                        <li class="item"><a href="#" class="link">products</a></li>
+                        <li class="item"><a href="#" class="link">Laser Machines</a></li>
+                        <li class="item">ENSIS-3015RI</li>
+                    </ul>
+                </div>
+            </div>
+            <section>
+                <div class="bs-section">
+                    <div class="container">
+                        <div class="sec-head">
+                            <h2 class="sec-title">ENSIS-3015RI</h2>
+                        </div>
+                        <div class="sec-cont bs-img-desc typ-vertical">
+                            <div class="img-wrap">
+                                <img class="lozad" data-src="assets/images/products/laser/laser1.jpg">
+                            </div>
+                            <p class="sub-title">World’s First Fiber Laser with LBC Technology</p>
+                            <div class="sec-desc">
+                                <p>VENTIS AJ is a new laser system equipped with LBC Technology which allows to modulate the beam and control the movement of the laser beam, ensuring maximum efficiency based on the type of material and
+                                    thickness to be processed.</p>
+                            </div>
+                            <div class="action-wrap">
+                                <button class="bs-btn btn-icon-link download-btn"><span class="icon icon-download"></span>
+                                        <a href="assets/doc/VENTIS_catalog.pdf" target="_blank">download brochure</a></button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section>
+                <div class="bs-section">
+                    <div class="container">
+                        <div class="bs-product-detail">
+                            <div class="pd-head">
+                                <ul class="bs-chain-info">
+                                    <li class="item">
+                                        <div class="bs-img-desc">
+                                            <div class="left-side">
+                                                <h2 class="title">ENSIS-3015RI</h2>
+                                                <p class="sub-title">Fiber laser machine for both flat sheets and tubes</p>
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/products/laser/laser12.jpg"></div>
+                                                <div class="sec-desc">
+                                                    <p>High-Precision Processing of Flat and Shaped Materials, 3kW Fiber Laser Cutting System with Rotary Index</p>
+                                                    <p><strong>ENSIS 3015 RI Fiber Laser with Rotary Index</strong></p>
+                                                    <ul class="mod-list">
+                                                        <li class="item">The Rotary Index is an integrated unit, allowing the cutting head to be positioned near the chuck—minimizing the dead zone. Bowed pipe or tubing can now be cut without vibration while maintaining
+                                                            accuracy from end to end.</li>
+                                                        <li class="item">The innovative design expands process range capabilities to cut a significantly wider variety of tubing and pipe. AMADA's ENSIS 3015 RI can process round, square, rectangle, C-channel, and angle
+                                                            iron, making it the most versatile Rotary Index laser cutting system available.</li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                            <div class="right-side">
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/products/laser/laser12.jpg"></div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                </ul>
+
+                            </div>
+                            <div class="pd-body">
+                                <div class="bs-table">
+                                    <h3 class="title">Machine Specifications</h3>
+                                    <div class="table-wrap">
+                                        <table class="table" cellpadding="0" cellspacing="0">
+                                            <thead>
+                                                <tr>
+                                                    <th class="t-title">Model</th>
+                                                    <th class="t-title">ENSIS-3015RI</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td class="t-desc">NC type</td>
+                                                    <td class="t-desc">AMNC-3 i </td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Oscillator</td>
+                                                    <td class="t-desc">AMADA ENSIS-3000</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Chiller</td>
+                                                    <td class="t-desc">R KE3752B-VA-UP2</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Dust collector</td>
+                                                    <td class="t-desc">PXN-6XA (self-standing pail can type) </td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Axis travel method</td>
+                                                    <td class="t-desc">X, Y axis: Rack and pinon drive</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Axis control method</td>
+                                                    <td class="t-desc">X,Y,Z, A axes (simultaneous 4 axes control) + B axis + CF axis</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Axis travel distance XxYxZ <span class="cm-cold">mm</span></td>
+                                                    <td class="t-desc">3070 x 1550 x200</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Maximvm processing dimersioas X x Y <span class="cm-cold">mm</span></td>
+                                                    <td class="t-desc">3070 x 1550</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Rapid feed rate X/Y axis Composite</td>
+                                                    <td class="t-desc">170</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Processing feed rate <span class="cm-cold">mm/min</span></td>
+                                                    <td class="t-desc">0 - 120 (maximum command speed)</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Least input increment <span class="cm-cold">mm</span></td>
+                                                    <td class="t-desc">0.001</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Maximum material mass (flat sheet) <span class="cm-cold">kg</span></td>
+                                                    <td class="t-desc">920</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Working surface height <span class="cm-cold">mm</span></td>
+                                                    <td class="t-desc">940</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Power requirements (machine only) <span class="cm-cold">kVA</span></td>
+                                                    <td class="t-desc">6.0</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+
+                                <div class="bs-table">
+                                    <h3 class="title">Oscillator Specifications</h3>
+                                    <div class="table-wrap">
+                                        <table class="table" cellpadding="0" cellspacing="0">
+                                            <thead>
+                                                <tr>
+                                                    <th class="t-title">Model</th>
+                                                    <th class="t-title">ENSIS-3000</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td class="t-desc">Oscillation method</td>
+                                                    <td class="t-desc">LD excitation fiber laser</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Rated laser power <span class="cm-cold">W</span></td>
+                                                    <td class="t-desc">3000</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Stability <span class="cm-cold">%</span></td>
+                                                    <td class="t-desc">+2.0 or lower</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Pulse peak output <span class="cm-cold">W</span></td>
+                                                    <td class="t-desc">3150</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Pulse frequency <span class="cm-cold">Hz</span></td>
+                                                    <td class="t-desc">1 ~ 10000</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Duty <span class="cm-bold">%</span></td>
+                                                    <td class="t-desc">0 ~ 100</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Wavelength <span class="cm-bold">µm</span></td>
+                                                    <td class="t-desc">1.08</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Amount of cooling water (Recirculating Type) <span>L/min</span></td>
+                                                    <td class="t-desc">40 or more (Temperature at 25˚C)</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Power Requirements <span>kVA</span></td>
+                                                    <td class="t-desc">11.9</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+
+                                <div class="bs-table">
+                                    <h3 class="title">Tube Specifications</h3>
+                                    <div class="table-wrap">
+                                        <table class="table" cellpadding="0" cellspacing="0">
+                                            <thead>
+                                                <tr>
+                                                    <th class="t-title">Shape of tube/Structural steel</th>
+                                                    <th class="t-title">Tube (Round/Square/Rectangular) Angle(Even/Uneven L shape), Section steel (C-Channel)</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td class="t-desc">Outer dimensions of tube/Structural Steel <span class="cm-bold">mm</span></td>
+                                                    <td class="t-desc">Round Tube: ᶲ 19 ~ 220
+                                                        <span class="cm-line-break">Square Tube: □ 19 ~ 150</span>
+                                                        <span class="cm-line-break">Rectangle Tube: Circle circumscribing less than ᶲ220</span>
+                                                        <span class="cm-line-break">Angle (L shape): 19 ~ 90(h) x 19 ~  90(w)</span>
+                                                        <span class="cm-line-break">C-Channel : 19 – 150(h) x 19 ~ 150(w)</span>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Maximum processing Length <span class="cm-bold">mm</span></td>
+                                                    <td class="t-desc">6000 (dead zone: 218)
+                                                        <span class="cm-line-break">*Size exceeding the processing range is  supported by repositioning</span>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Thickness of Tube/Structural Steel <span class="cm-bold">mm</span></td>
+                                                    <td class="t-desc">1~9 (Tube)
+                                                        <span class="cm-line-break">1~12 (Angle, C-Channel)</span>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Maximum Mass (Tube/Structural Steel) <span class="cm-bold">kg</span></td>
+                                                    <td class="t-desc">200</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Support Chuck</td>
+                                                    <td class="t-desc">Main chuck synchronization method</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+
+                                <div class="bs-table">
+                                    <h3 class="title">Standard functions and Main options</h3>
+                                    <div class="table-wrap">
+                                        <table class="table" cellpadding="0" cellspacing="0">
+                                            <thead>
+                                                <tr>
+                                                    <th class="t-title">Laser Cutting Process Monitoring</th>
+                                                    <th class="t-title">Standard</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td class="t-desc">Cooling cut (WACS II)</td>
+                                                    <td class="t-desc">Standard</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Oil Shot</td>
+                                                    <td class="t-desc">Standardted</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Nozzle Changer</td>
+                                                    <td class="t-desc">Standard: 8 Option:16</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">PSA</td>
+                                                    <td class="t-desc">Option</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">HP(hyper) EZ Cut II</td>
+                                                    <td class="t-desc">Option</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">3 color light</td>
+                                                    <td class="t-desc">Option</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section>
+                <div class="bs-button">
+                    <div class="container">
+                        <div class="action-wrap">
+                            <button class="bs-btn btn-icon-link download-btn"><span class="icon icon-download"></span>
+                                    <a href="assets/doc/ENSIS-3015-RI.pdf" target="_blank">download brochure</a></button>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <!-- footer start -->
+        <!--#include virtual="view/footer.html" -->
+        <!-- footer end -->
+    </footer>
+
+    <!-- popup start -->
+    <!--#include virtual="view/popup.html" -->
+    <!-- popup end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+
+</body>
+
+</html>

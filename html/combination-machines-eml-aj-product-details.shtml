@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Product</title>
+    <meta name="description" content="description goes here">
+    <link rel="canonical" href="url goes here" />
+
+    <meta property="og:url" content="url goes here" />
+    <meta property="og:title" content="title goes here" />
+    <meta property="og:description" content="description goes here" />
+    <meta property="og:image" content="img url goes here" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@PayUmoney" />
+    <meta name="twitter:title" content="title goes here" />
+    <meta name="twitter:description" content="description goes here" />
+    <meta name="twitter:url" content="url goes here" />
+    <meta name="twitter:image" content="img url goes here" />
+
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+
+</head>
+
+<body>
+    <header>
+        <!-- header start -->
+        <!--#include virtual="view/header.html" -->
+        <!-- header end -->
+    </header>
+
+    <main>
+        <div class="main lyt-content js-bg">
+            <div class="bs-breadcrum">
+                <div class="container">
+                    <ul class="list">
+                        <li class="item"><a href="#" class="link">amada</a></li>
+                        <li class="item"><a href="#" class="link">products</a></li>
+                        <li class="item"><a href="#" class="link">Combination Machines</a></li>
+                        <li class="item">EML-AJ series</li>
+                    </ul>
+                </div>
+            </div>
+            <section>
+                <div class="bs-section">
+                    <div class="container">
+                        <div class="bs-product-detail">
+                            <div class="pd-head">
+                                <ul class="bs-chain-info">
+                                    <li class="item">
+                                        <div class="bs-img-desc">
+                                            <div class="left-side">
+                                                <h2 class="title">EML-AJ series</h2>
+                                                <p class="sub-title">AC servo direct twin drive Punch / Laser combination machine</p>
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/products/comb/comb2.jpg"></div>
+                                                <div class="sec-desc">
+                                                    <p>EML AJ series is a High speed Punch/Fiber Laser combination machine is now equipped with a new punch and die changer(PDC).</p>
+                                                    </p>
+                                                    <p>Based on the best-selling ‘’EML’’ combination machine, Amada presents the EML-AJ series with fiber laser technology and a higher punching hit rate.</p>
+                                                    <p>The automatic punch die changer was upgraded to work with the Tool ID system while the laser is processing.</p>
+                                                    <p>The EML-AJ provided continues operation at high speeds with low running cost.</p>
+                                                </div>
+                                            </div>
+                                            <div class="right-side">
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/products/comb/comb2.jpg"></div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    </li>
+                                </ul>
+                                <div class="bs-features">
+                                    <div class="lyt-features">
+                                        <div class="">
+                                            <h2 class="title">FEATURES</h2>
+                                            <div class="sec-desc">
+                                                <h3 class="sub-title">Highly productivity, Low Running cost, and processing of highly reflective materials</h3>
+                                                <ul class="mod-list-circle">
+                                                    <li>Fiber Laser Oscillator: AJ-3000 [Processing speed is 2.5~4.0 times faster than a CO2 laser]</li>
+                                                    <li>Reduce maintenance cost</li>
+                                                    <li>Outstanding safety and workability</li>
+                                                    <li>Process highly reflective materials</li>
+                                                </ul>
+                                                <h3 class="sub-title">High speed and High quality punching process</h3>
+                                                <ul class="mod-list-circle">
+                                                    <li>Achieve higher speed punching</li>
+                                                    <li>P&F (option); High height up-forming prevents material scratching</li>
+                                                    <li>MPT Tapping station</li>
+                                                    <li>Tool ID system</li>
+                                                </ul>
+                                                <h3 class="sub-title">Solution for continuous operation</h3>
+                                                <ul class="mod-list-circle">
+                                                    <li>Automatic Tool Changing device (PDC)
+                                                        <ul class="inside-list">
+                                                            <li>Tool changing during laser processing</li>
+                                                            <li>Long-Hour continues operation</li>
+                                                            <li>Number of tools – Punch 200/ Die 440</li>
+                                                        </ul>
+                                                    </li>
+                                                    <li>TK Automated Solution</li>
+                                                    <li>Automatic Nozzle Changer</li>
+                                                    <li>Automatic laser scrap removal</li>
+                                                    <li>Automatic cutting plate cleaning</li>
+                                                </ul>
+                                                <h3 class="sub-title">Easy Operation</h3>
+                                                <ul class="mod-list-circle">
+                                                    <li>AMNC 3i</li>
+                                                    <li>V-monitor (option)</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="pd-body">
+                                <div class="bs-table">
+                                    <h3 class="title">Machine Specifications</h3>
+                                    <div class="table-wrap">
+                                        <table class="table" cellpadding="0" cellspacing="0">
+                                            <thead>
+                                                <tr>
+                                                    <th class="t-title" colspan="2">Model</th>
+                                                    <th class="t-title">EML-2512AJ-PDC</th>
+                                                    <th class="t-title">EML-2515AJ-PDC</th>
+                                                    <th class="t-title">EML-2512AJ</th>
+                                                    <th class="t-title">EML-2515AJ</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td class="t-desc" colspan="2">Model names (Note the points listed below)</td>
+                                                    <td class="t-desc">EMLZ12JP</td>
+                                                    <td class="t-desc">EMLZ15AJP</td>
+                                                    <td class="t-desc">EMLZ12AJ</td>
+                                                    <td class="t-desc">EMLZ15AJ</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc" rowspan="3">Punch</td>
+                                                    <td class="t-desc">Press capacity <span class="cm-bold">kN</span></td>
+                                                    <td class="t-desc" colspan="4">300</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Drive System</td>
+                                                    <td class="t-desc" colspan="4">AC servo, Direct twin drive</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Turret</td>
+                                                    <td class="t-desc" colspan="4">Z turret</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Axis travel method</td>
+                                                    <td class="t-desc">Punch</td>
+                                                    <td class="t-desc" colspan="4">X × Y material</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc"></td>
+                                                    <td class="t-desc">Laser</td>
+                                                    <td class="t-desc" colspan="4">X material / Y Laser Beam</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc" rowspan="3">Processing Dimension</td>
+                                                    <td class="t-desc">Punch X × YP <span class="cm-bold">mm</span></td>
+                                                    <td class="t-desc">2550 × 1270</td>
+                                                    <td class="t-desc">3050 × 1525</td>
+                                                    <td class="t-desc">2550 × 1270</td>
+                                                    <td class="t-desc">3050 × 1525</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Laser X × YL <span class="cm-bold">mm</span></td>
+                                                    <td class="t-desc">2550 × 1270</td>
+                                                    <td class="t-desc">3050 × 1525 <span class="cm-bold">(With repositioning)</span></td>
+                                                    <td class="t-desc">2550 × 1270</td>
+                                                    <td class="t-desc">3050 × 1525 <span class="cm-bold">(With repositioning)</span></td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Combination X × YL <span class="cm-bold">mm</span></td>
+                                                    <td class="t-desc">2550 × 1270</td>
+                                                    <td class="t-desc">3050 × 1525 <span class="cm-bold">(With repositioning)</span></td>
+                                                    <td class="t-desc">2550 × 1270</td>
+                                                    <td class="t-desc">3050 × 1525 <span class="cm-bold">(With repositioning)</span></td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc" colspan="2">Rapid Traverse X / YP / YL / Z <span class="cm-bold">m/min</span></td>
+                                                    <td class="t-desc" colspan="4">100 / 80 / 100 / 80</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc" colspan="2">Accuracy <span class="cm-bold">mm</span></td>
+                                                    <td class="t-desc" colspan="4">± 0.07</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc" colspan="2">PDC Number of tools</td>
+                                                    <td class="t-desc" colspan="2">220</td>
+                                                    <td class="t-desc" colspan="2">-</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc" colspan="2">Punch Stroke (X axis) <span class="cm-bold">min-1</span></td>
+                                                    <td class="t-desc" colspan="4">500(25.4mm pitch/5mm stroke)</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc" colspan="2">Punch Stroke (Y axis) <span class="cm-bold">min-1</span></td>
+                                                    <td class="t-desc" colspan="4">340(25.4mm pitch/5mm stroke)</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc" colspan="2">Machine Mass <span class="cm-bold">kg</span></td>
+                                                    <td class="t-desc">26000</td>
+                                                    <td class="t-desc">27000</td>
+                                                    <td class="t-desc">23000</td>
+                                                    <td class="t-desc">24000</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+
+                                <div class="bs-table">
+                                    <h3 class="title">Oscillator Specifications</h3>
+                                    <div class="table-wrap">
+                                        <table class="table" cellpadding="0" cellspacing="0">
+                                            <thead>
+                                                <tr>
+                                                    <th class="t-title">Model</th>
+                                                    <th class="t-title">AJ-3000</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td class="t-desc">Oscillation Method</td>
+                                                    <td class="t-desc"></td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Wavelength <span class="cm-bold">µm</span></td>
+                                                    <td class="t-desc">1.08</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Rated Power <span class="cm-bold">W</span></td>
+                                                    <td class="t-desc">3000</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Pulse Peak Power <span class="cm-bold">W</span></td>
+                                                    <td class="t-desc">3000</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Mass <span class="cm-bold">kg</span></td>
+                                                    <td class="t-desc">Appx. 400</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Power Requirement <span class="cm-bold">kVA</span></td>
+                                                    <td class="t-desc">10.4</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Chiller Power requirement <span class="cm-bold">kVA</span></td>
+                                                    <td class="t-desc">9</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+
+                                <div class="bs-table">
+                                    <h3 class="title">Turret Layout</h3>
+                                    <div class="table-wrap">
+                                        <table class="table" cellpadding="0" cellspacing="0">
+                                            <thead>
+                                                <tr>
+                                                    <th class="t-title" rowspan="2" colspan="2">Tool Size</th>
+                                                    <th class="t-title">Z Turret</th>
+                                                </tr>
+                                                <tr>
+                                                    <th class="t-title">53ST2AI-4MPT</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td class="t-desc">A</td>
+                                                    <td class="t-desc">½ ̎ </td>
+                                                    <td class="t-desc">30(30)</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">B</td>
+                                                    <td class="t-desc">1 ¼ ̎</td>
+                                                    <td class="t-desc">10(10)</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">C</td>
+                                                    <td class="t-desc">2 ̎</td>
+                                                    <td class="t-desc">3(3)</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">D</td>
+                                                    <td class="t-desc">3 ½ ̎ </td>
+                                                    <td class="t-desc">2(2)</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">E</td>
+                                                    <td class="t-desc">4 ½ ̎ </td>
+                                                    <td class="t-desc">2(2)</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">B(TAP)</td>
+                                                    <td class="t-desc">1 ¼ ̎ </td>
+                                                    <td class="t-desc">4(4)</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">G</td>
+                                                    <td class="t-desc">AI (1 ¼ ̎)</td>
+                                                    <td class="t-desc">2(2)</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">TOTAL</td>
+                                                    <td class="t-desc"></td>
+                                                    <td class="t-desc">53</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section>
+                <div class="bs-button">
+                    <div class="container">
+                        <div class="action-wrap">
+                            <button class="bs-btn btn-icon-link download-btn"><span class="icon icon-download"></span>
+                                    <a href="assets/doc/EML-AJ-Series.pdf" target="_blank">download brochure</a></button>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <!-- footer start -->
+        <!--#include virtual="view/footer.html" -->
+        <!-- footer end -->
+    </footer>
+
+    <!-- popup start -->
+    <!--#include virtual="view/popup.html" -->
+    <!-- popup end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+
+</body>
+
+</html>

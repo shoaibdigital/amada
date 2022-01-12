@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Service Support</title>
+    <meta name="description" content="description goes here">
+    <link rel="canonical" href="url goes here" />
+
+    <meta property="og:url" content="url goes here" />
+    <meta property="og:title" content="title goes here" />
+    <meta property="og:description" content="description goes here" />
+    <meta property="og:image" content="img url goes here" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@PayUmoney" />
+    <meta name="twitter:title" content="title goes here" />
+    <meta name="twitter:description" content="description goes here" />
+    <meta name="twitter:url" content="url goes here" />
+    <meta name="twitter:image" content="img url goes here" />
+
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+
+</head>
+
+<body>
+    <header>
+        <!-- header start -->
+        <!--#include virtual="view/header.html" -->
+        <!-- header end -->
+    </header>
+
+    <main>
+        <div class="main lyt-content js-bg">
+            <!-- banner start -->
+            <!--#include virtual="view/service-support-banner.html" -->
+            <!-- banner end -->
+            <div class="bs-breadcrum">
+                <div class="container">
+                    <ul class="list">
+                        <li class="item"><a href="#" class="link">amada</a></li>
+                        <li class="item"><a href="#" class="link">Services</a></li>
+                        <li class="item">Service Support</li>
+                    </ul>
+                </div>
+            </div>
+            <section>
+                <div class="bs-section">
+                    <div class="container">
+                        <div class="sec-head">
+                            <h2 class="sec-title text-sm">AMADA (INDIA) PVT. LTD.</h2>
+                        </div>
+                        <div class="sec-cont">
+                            <ul class="bs-chain-info sec-first">
+                                <li class="item">
+                                    <div class="bs-img-desc">
+                                        <div class="left-side">
+                                            <p class="sub-title">Engineering Service Supports</p>
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/services/service-engg-support.jpg">
+                                            </div>
+                                            <div class="sec-desc">
+                                                <p>The necessary functions, operating techniques, and processing method are different for each customer, even for the same machine. Amada will make all efforts to support customer to ensure machines give optimum
+                                                    performance, right from the machine is purchased. What services customers need the most? We analyze and offer solutions. We always stand besides customers.</p>
+                                                
+                                            </div>
+                                        </div>
+                                        <div class="right-side">
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/services/service-engg-support.jpg">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="item">
+                                    <div class="bs-img-desc">
+                                        <div class="left-side">
+                                            <p class="sub-title">Operation Support</p>
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/services/service-operation-support.jpg">
+                                            </div>
+                                            <div class="sec-desc">
+                                                <p>Our support starts before machine installation and continues after that. We offer optimum ramp up before machine installation, with machine and operation training best suited for each customer. We propose
+                                                    the cutting edge application techniques and know-how for your best products and components.</p>
+                                            </div>
+                                        </div>
+                                        <div class="right-side">
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/services/service-operation-support.jpg">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="item">
+                                    <div class="bs-img-desc">
+                                        <div class="left-side">
+                                            <p class="sub-title">Machine Support</p>
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/services/service-machine-support.jpg">
+                                            </div>
+                                            <div class="sec-desc">
+                                                <p>We provide expeditious service through our nationwide service centers in order to keep your machines in most productive conditions. We also offer and propose various programs of periodic maintenance and
+                                                    “Before service” in order to minimize your machines down time and to maximize your machine LIFE.
+                                                </p>
+                                            </div>
+                                        </div>
+                                        <div class="right-side">
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/services/service-machine-support.jpg">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="item">
+                                    <div class="bs-img-desc">
+                                        <div class="left-side">
+                                            <p class="sub-title">Tooling and Consumables</p>
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/services/service-tooling-support.jpg">
+                                            </div>
+                                            <div class="sec-desc">
+                                                <p>We provide high quality tooling, spare parts and other consumables for your machines to keep high productivity.</p>
+                                            </div>
+                                        </div>
+                                        <div class="right-side">
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/services/service-tooling-support.jpg">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section>
+                <div class="bs-section">
+                    <div class="container">
+                        <div class="sec-cont">
+                            <div class="bs-event-card">
+                                <ul class="list">
+                                    <li class="item">
+                                        <div class="bs-prod-card">
+                                            <a href="service-extended-warranty.shtml" class="prod-link"></a>
+                                            <div class="img-wrap lozad-background" data-background-image="assets/images/services/service6.jpg"></div>
+                                            <div class="info-wrap">
+                                                <h3 class="title">Extended <span class="cm-line-break">Warranty</span></h3>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="item">
+                                        <div class="bs-prod-card">
+                                            <a href="service-adss.shtml" class="prod-link"></a>
+                                            <div class="img-wrap lozad-background" data-background-image="assets/images/services/service7.jpg"></div>
+                                            <div class="info-wrap">
+                                                <h3 class="title">ADSS <span class="cm-line-break">Services</span></h3>
+                                            </div>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <!-- footer start -->
+        <!--#include virtual="view/footer.html" -->
+        <!-- footer end -->
+    </footer>
+
+    <!-- popup start -->
+    <!--#include virtual="view/popup.html" -->
+    <!-- popup end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+
+</body>
+
+</html>

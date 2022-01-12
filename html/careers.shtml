@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Careers</title>
+    <meta name="description" content="description goes here">
+    <link rel="canonical" href="url goes here" />
+
+    <meta property="og:url" content="url goes here" />
+    <meta property="og:title" content="title goes here" />
+    <meta property="og:description" content="description goes here" />
+    <meta property="og:image" content="img url goes here" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@PayUmoney" />
+    <meta name="twitter:title" content="title goes here" />
+    <meta name="twitter:description" content="description goes here" />
+    <meta name="twitter:url" content="url goes here" />
+    <meta name="twitter:image" content="img url goes here" />
+
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+    <meta http-equiv='cache-control' content='no-cache'>
+<meta http-equiv='expires' content='0'>
+<meta http-equiv='pragma' content='no-cache'>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+<!-- build:css assets/css/libraries.css -->
+<link rel="stylesheet" type="text/css" href="assets/css/libraries/swiper.5.2.1.min.css">
+<link rel="stylesheet" type="text/css" href="assets/css/libraries/mCustomScrollbar.3.1.5.min.css">
+<link rel="stylesheet" type="text/css" href="assets/css/libraries/select2.4.0.12.min.css">
+<link rel="stylesheet" type="text/css" href="assets/css/libraries/device.0.9.1.min.css">
+<link rel="stylesheet" type="text/css" href="assets/css/libraries/wow.1.3.0.min.css">
+<link rel="stylesheet" type="text/css" href="assets/css/libraries/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="assets/css/libraries/fullCalc.min.css">
+<!-- endbuild -->
+<link rel="stylesheet" type="text/css" href="assets/css/custom.css">
+
+</head>
+
+<body>
+    <header>
+        <!-- header start -->
+        <!--#include virtual="view/header.html" -->
+        <!-- header end -->
+    </header>
+
+    <main>
+        <div class="main lyt-content js-bg">
+            <!-- banner start -->
+            <!--#include virtual="view/career-banner.html" -->
+            <!-- banner end -->
+            <div class="bs-breadcrum">
+                <div class="container">
+                    <ul class="list">
+                        <li class="item"><a href="#" class="link">amada</a></li>
+                        <!-- <li class="item"><a href="#" class="link">about us</a></li> -->
+                        <li class="item">careers</li>
+                    </ul>
+                </div>
+            </div>
+            <section>
+                <div class="bs-section">
+                    <div class="container">
+                        <div class="sec-cont">
+                            <ul class="bs-chain-info typ-img-lg">
+                                <li class="item">
+                                    <div class="bs-img-desc">
+                                        <div class="left-side">
+                                            <h2 class="title">Work with US</h2>
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/career.jpg">
+                                            </div>
+                                            <div class="sec-desc">
+                                                <p>AMADA India is a wholly owned subsidiary of Amada Co. Ltd. Japan. We are one of the leading supplier of metal working machinery in India.</p>
+                                                <p>We are looking for bright & proactive engineers for below roles.</p>
+                                                <ul class="mod-list typ-main">
+                                                    <li class="item">Sales Engineers</li>
+                                                    <li class="item">Service Engineers</li>
+                                                    <li class="item">Customer Support Engineers – Software.</li>
+                                                </ul>
+                                                <p>Please submit your resume @ <a href="mailto:info@amadaindia.co.in">info@amadaindia.co.in</a></p>
+                                            </div>
+                                        </div>
+                                        <div class="right-side">
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/career.jpg">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section>
+                <div class="bs-section">
+                    <div class="container">
+                        <div class="sec-head">
+                            <h2 class="sec-title">drop a resume</h2>
+                        </div>
+                        <div class="sec-cont">
+                            <form class="lyt-form">
+                                <div class="bs-form">
+                                    <div class="form-wrap">
+                                        <ul class="row">
+                                            <li class="col-md-6 col-xs-12">
+                                                <div class="form-group">
+                                                    <label class="field-label typ-req">Name</label>
+                                                    <input type="text" class="form-control" placeholder="Enter Name" />
+                                                </div>
+                                            </li>
+                                            <li class="col-md-6 col-xs-12">
+                                                <div class="form-group">
+                                                    <label class="field-label typ-req">Email</label>
+                                                    <input type="text" class="form-control" placeholder="Enter Email" />
+                                                </div>
+                                            </li>
+                                            <li class="col-md-6 col-xs-12">
+                                                <div class="form-group">
+                                                    <label class="field-label">Date of Birth</label>
+                                                    <input type="text" class="form-control" placeholder="DD/MM/YYYY" />
+                                                </div>
+                                            </li>
+                                            <li class="col-md-6 col-xs-12">
+                                                <div class="form-group">
+                                                    <label class="field-label">Marital Status</label>
+                                                    <div class="radio-wrap">
+                                                        <div class="bs-radio">
+                                                            <input type="radio" name="maritalStatus" id="married" />
+                                                            <label for="married"><span class="icon icon-radio-uncheck"></span> Married</label>
+                                                        </div>
+                                                        <div class="bs-radio">
+                                                            <input type="radio" name="maritalStatus" id="single" />
+                                                            <label for="single"><span class="icon icon-radio-uncheck"></span> Single</label>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </li>
+                                            <li class="col-md-12 col-xs-12">
+                                                <div class="form-group">
+                                                    <label class="field-label typ-req">Address</label>
+                                                    <textarea class="form-control" rows="4" cols="50" placeholder="Enter Address"></textarea>
+                                                </div>
+                                            </li>
+                                            <li class="col-md-6 col-xs-12">
+                                                <div class="form-group">
+                                                    <label class="field-label typ-req">City</label>
+                                                    <input type="text" class="form-control" placeholder="Enter City Name" />
+                                                </div>
+                                            </li>
+                                            <li class="col-md-6 col-xs-12">
+                                                <div class="form-group">
+                                                    <label class="field-label">Current Location</label>
+                                                    <input type="text" class="form-control" placeholder="Enter Current Location" />
+                                                </div>
+                                            </li>
+                                            <li class="col-md-6 col-xs-12">
+                                                <div class="form-group">
+                                                    <label class="field-label typ-req">Phone Number</label>
+                                                    <input type="text" class="form-control" placeholder="Enter Phone Number" />
+                                                </div>
+                                            </li>
+                                            <li class="col-md-6 col-xs-12">
+                                                <div class="form-group">
+                                                    <label class="field-label">Mobile Number</label>
+                                                    <input type="text" class="form-control" placeholder="Enter Mobile Number" />
+                                                </div>
+                                            </li>
+                                            <li class="col-md-12 col-xs-12">
+                                                <div class="form-group">
+                                                    <label class="field-label">Educational Details</label>
+                                                    <textarea class="form-control" rows="4" cols="50" placeholder="Enter Educational Details"></textarea>
+                                                </div>
+                                            </li>
+                                            <li class="col-md-12 col-xs-12">
+                                                <div class="form-group">
+                                                    <label class="field-label">Work Experience</label>
+                                                    <textarea class="form-control" rows="4" cols="50" placeholder="Enter Work Experience"></textarea>
+                                                </div>
+                                            </li>
+                                            <li class="col-md-6 col-xs-12">
+                                                <div class="form-group">
+                                                    <label class="field-label">Upload Resume</label>
+                                                    <div class="bs-upload">
+                                                        <input type="file" id="resume" name="resume" class="file-input" />
+                                                        <button class="bs-btn btn-icon-link"><span class="icon icon-upload"></span>Upload file</button>
+                                                        <span class="file-name js-file-name"></span>
+                                                    </div>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                    <div class="form-action">
+                                        <button class="bs-btn btn-default">submit</button>
+                                        <button class="bs-btn btn-icon-link">reset</button>
+                                    </div>
+                                </div>
+                            </form>
+
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <!-- footer start -->
+        <!--#include virtual="view/footer.html" -->
+        <!-- footer end -->
+    </footer>
+
+    <!-- popup start -->
+    <!--#include virtual="view/popup.html" -->
+    <!-- popup end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+
+</body>
+
+</html>

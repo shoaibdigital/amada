@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Vocational Center - About</title>
+    <meta name="description" content="description goes here">
+    <link rel="canonical" href="url goes here" />
+
+    <meta property="og:url" content="url goes here" />
+    <meta property="og:title" content="title goes here" />
+    <meta property="og:description" content="description goes here" />
+    <meta property="og:image" content="img url goes here" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@PayUmoney" />
+    <meta name="twitter:title" content="title goes here" />
+    <meta name="twitter:description" content="description goes here" />
+    <meta name="twitter:url" content="url goes here" />
+    <meta name="twitter:image" content="img url goes here" />
+
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+
+</head>
+
+<body>
+    <header>
+        <!-- header start -->
+        <!--#include virtual="view/header.html" -->
+        <!-- header end -->
+    </header>
+
+    <main>
+        <div class="main lyt-content js-bg">
+            <!-- banner start -->
+            <!--#include virtual="view/vocational-center-about-banner.html" -->
+            <!-- banner end -->
+            <div class="bs-breadcrum">
+                <div class="container">
+                    <ul class="list">
+                        <li class="item"><a href="#" class="link">amada</a></li>
+                        <li class="item"><a href="#" class="link">Vocational Center</a></li>
+                        <li class="item">About</li>
+                    </ul>
+                </div>
+            </div>
+            <section>
+                <div class="bs-section sec-first">
+                    <div class="container">
+                        <div class="sec-cont">
+                            <ul class="bs-chain-info typ-img-lg">
+                                <li class="item">
+                                    <div class="bs-img-desc">
+                                        <div class="left-side">
+                                            <h2 class="title">About Us</h2>
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/vocational-m.jpg">
+                                            </div>
+                                            <div class="sec-desc">
+                                                <p>The AMADA Vocational Center is committed to work with customers and their employees in the Sheet Metal Industry with a view of imparting knowledge to the operators related to Safety, Machine Operation and
+                                                    Maintenance to make them completely competent.</p>
+                                            </div>
+                                        </div>
+                                        <div class="right-side">
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/vocational-m.jpg">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="item">
+                                    <div class="bs-img-desc">
+                                        <div class="left-side">
+                                            <h2 class="title">Objective</h2>
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/vc/objective.jpg">
+                                            </div>
+                                            <div class="sec-desc">
+                                                <p>To overcome the shortage of skilled workers, we want to work together with our customers and their employees and give them the ability to constantly live up to the ever-greater technical requirements in
+                                                    the field of Sheet Metal Industry.</p>
+                                            </div>
+                                        </div>
+                                        <div class="right-side">
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/vc/objective.jpg">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="item">
+                                    <div class="bs-img-desc">
+                                        <div class="left-side">
+                                            <h2 class="title">Values</h2>
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/vc/value.jpg">
+                                            </div>
+                                            <div class="sec-desc">
+                                                <ul class="mod-list">
+                                                    <li class="item">Efficient & Productive use of Machine & Software.</li>
+                                                    <li class="item">Dedicated Facility & Faculty.</li>
+                                                    <li class="item">Interactive Off-line & On-line training</li>
+                                                    <li class="item">Focused on Process Know-How</li>
+                                                    <li class="item">Networking among customers.</li>
+                                                    <li class="item">Exposure to New tools and techniques.</li>
+                                                    <li class="item">Performance oriented certification.</li>
+                                                    <li class="item">Post training support.</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="right-side">
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/vc/value.jpg">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <!-- footer start -->
+        <!--#include virtual="view/footer.html" -->
+        <!-- footer end -->
+    </footer>
+
+    <!-- popup start -->
+    <!--#include virtual="view/popup.html" -->
+    <!-- popup end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+
+</body>
+
+</html>

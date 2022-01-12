@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Product</title>
+    <meta name="description" content="description goes here">
+    <link rel="canonical" href="url goes here" />
+
+    <meta property="og:url" content="url goes here" />
+    <meta property="og:title" content="title goes here" />
+    <meta property="og:description" content="description goes here" />
+    <meta property="og:image" content="img url goes here" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@PayUmoney" />
+    <meta name="twitter:title" content="title goes here" />
+    <meta name="twitter:description" content="description goes here" />
+    <meta name="twitter:url" content="url goes here" />
+    <meta name="twitter:image" content="img url goes here" />
+
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+
+</head>
+
+<body>
+    <header>
+        <!-- header start -->
+        <!--#include virtual="view/header.html" -->
+        <!-- header end -->
+    </header>
+
+    <main>
+        <div class="main lyt-content js-bg">
+            <div class="bs-breadcrum">
+                <div class="container">
+                    <ul class="list">
+                        <li class="item"><a href="#" class="link">amada</a></li>
+                        <li class="item"><a href="#" class="link">products</a></li>
+                        <li class="item"><a href="#" class="link">Tooling</a></li>
+                        <li class="item">Contouring Tool</li>
+                    </ul>
+                </div>
+            </div>
+            <section>
+                <div class="bs-section">
+                    <div class="container">
+                        <div class="bs-product-detail">
+                            <div class="pd-head">
+                                <ul class="bs-chain-info">
+                                    <li class="item">
+                                        <div class="bs-img-desc">
+                                            <div class="left-side">
+                                                <h2 class="title">Contouring Tool</h2>
+                                                <p class="sub-title">Complex shapes without Special or Semi-Standard tooling</p>
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/products/tool/tool1.jpg"></div>
+                                                <div class="sec-desc">
+                                                    <p><strong>Features</strong></p>
+                                                    <ul class="mod-list-circle">
+                                                        <li>Nibbling with pitch less than material thickness</li>
+                                                        <li>Complex internal and external shapes without special tools</li>
+                                                        <li>Power Vacuum Unit</li>
+                                                        <li>High Hit Rate</li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                            <div class="right-side">
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/products/tool/tool1.jpg"></div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="item">
+                                        <div class="bs-img-desc">
+                                            <div class="left-side">
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/products/tool/tool4.jpg"></div>
+                                                <div class="sec-desc">
+                                                    <p><strong>Nibble marks</strong></p>
+                                                    <ul class="mod-list-circle">
+                                                        <li>Special tools delay part completion and add cost</li>
+                                                        <li>Manual labour for grinding and filing to remove nibble marks</li>
+                                                    </ul>
+                                                </div>
+                                                <div class="bs-awards">
+                                                    <div class="first-award">
+                                                        <div class="img-wrap">
+                                                            <img src="assets/images/products/tool/tool2.jpg" />
+                                                        </div>
+                                                        <div class="">
+                                                            <p>*Deburring and removing nibble marks are done by grinding and filing</p>
+                                                            <ul class="mod-list-circle">
+                                                                <li>Fine contouring process done with pitch less than material thickness using EM series slug vacuum and new tooling design!</li>
+                                                                <li>Fine edge by Contouring Tool dispenses with filing work, enabling lower cost and short delivery time.</li>
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                                    <div class="second-award">
+                                                        <div class="img-wrap">
+                                                            <img src="assets/images/products/tool/tool3.jpg" />
+                                                        </div>
+                                                    </div>
+
+                                                </div>
+                                            </div>
+                                            <div class="right-side">
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/products/tool/tool4.jpg"></div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                </ul>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section>
+                <div class="bs-button">
+                    <div class="container">
+                        <div class="action-wrap">
+                            <a href="#" target="_blank" class="bs-btn btn-icon-link download-btn"><span class="icon icon-download"></span> download brochure</a>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <!-- footer start -->
+        <!--#include virtual="view/footer.html" -->
+        <!-- footer end -->
+    </footer>
+
+    <!-- popup start -->
+    <!--#include virtual="view/popup.html" -->
+    <!-- popup end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+
+</body>
+
+</html>

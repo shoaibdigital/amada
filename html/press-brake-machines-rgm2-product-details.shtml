@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Product</title>
+    <meta name="description" content="description goes here">
+    <link rel="canonical" href="url goes here" />
+
+    <meta property="og:url" content="url goes here" />
+    <meta property="og:title" content="title goes here" />
+    <meta property="og:description" content="description goes here" />
+    <meta property="og:image" content="img url goes here" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@PayUmoney" />
+    <meta name="twitter:title" content="title goes here" />
+    <meta name="twitter:description" content="description goes here" />
+    <meta name="twitter:url" content="url goes here" />
+    <meta name="twitter:image" content="img url goes here" />
+
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+
+</head>
+
+<body>
+    <header>
+        <!-- header start -->
+        <!--#include virtual="view/header.html" -->
+        <!-- header end -->
+    </header>
+
+    <main>
+        <div class="main lyt-content js-bg">
+            <div class="bs-breadcrum">
+                <div class="container">
+                    <ul class="list">
+                        <li class="item"><a href="#" class="link">amada</a></li>
+                        <li class="item"><a href="#" class="link">products</a></li>
+                        <li class="item"><a href="#" class="link">Press Brakes Machines</a></li>
+                        <li class="item">RGM2 Series</li>
+                    </ul>
+                </div>
+            </div>
+            <section>
+                <div class="bs-section">
+                    <div class="container">
+                        <div class="bs-product-detail">
+                            <div class="pd-head">
+                                <ul class="bs-chain-info">
+                                    <li class="item">
+                                        <div class="bs-img-desc">
+                                            <div class="left-side">
+                                                <h2 class="title">RGM2 series</h2>
+                                                <p class="sub-title">RGM2 Press brake – Economical, Flexible with wider functions</p>
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/products/press/press6.jpg"></div>
+                                                <div class="sec-desc">
+                                                    <p><strong>User friendly!</strong></p>
+                                                    <p>NC Controller , Front support table</p>
+                                                    <p><strong>Higher productivity!</strong></p>
+                                                    <p>Table speed:1.3 times, Back gauge speed:3 times</p>
+                                                    <p><strong>Safety & stability!</strong></p>
+                                                    <p>Side guard, Rear guard, 3P foot S/W</p>
+                                                    <p><strong>Easy Programming!</strong></p>
+                                                    <p>Direct/Angle mode, new bend deduction calculation, note functions</p>
+                                                    <p><strong>Attractive & wider function!</strong></p>
+                                                    <p>Amada fixed height tool, 2V die, Front supporter, Digital protractor</p>
+                                                </div>
+                                            </div>
+                                            <div class="right-side">
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/products/press/press6.jpg"></div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="pd-body">
+                                <div class="bs-table">
+                                    <h3 class="title">Specifications</h3>
+                                    <div class="table-wrap">
+                                        <table class="table" cellpadding="0" cellspacing="0">
+                                            <thead>
+                                                <tr>
+                                                    <th class="t-title">Model</th>
+                                                    <th class="t-title">RGM2-3512</th>
+                                                    <th class="t-title">RGM2-5020</th>
+                                                    <th class="t-title">RGM2-8024</th>
+                                                    <th class="t-title">RGM2-1003</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td class="t-desc">Tonnage <span class="cm-bold">KN (ton)</span></td>
+                                                    <td class="t-desc">350 (35)</td>
+                                                    <td class="t-desc">500(50)</td>
+                                                    <td class="t-desc">800(80)</td>
+                                                    <td class="t-desc">1000(100)</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Max Bend Length <span class="cm-bold">mm</span></td>
+                                                    <td class="t-desc">1250</td>
+                                                    <td class="t-desc">2085</td>
+                                                    <td class="t-desc">2505</td>
+                                                    <td class="t-desc">3100</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Stroke Length <span class="cm-bold">mm</span></td>
+                                                    <td class="t-desc" colspan="4">100</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Approach Speed <span class="cm-bold">mm/s</span></td>
+                                                    <td class="t-desc">55</td>
+                                                    <td class="t-desc">60</td>
+                                                    <td class="t-desc">60</td>
+                                                    <td class="t-desc">70</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Bending Speed at <span class="cm-bold">mm/s</span></td>
+                                                    <td class="t-desc">9.5</td>
+                                                    <td class="t-desc">11.0</td>
+                                                    <td class="t-desc">11.0</td>
+                                                    <td class="t-desc">13.0</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Return Speed <span>mm/s</span></td>
+                                                    <td class="t-desc">40</td>
+                                                    <td class="t-desc">35</td>
+                                                    <td class="t-desc">52</td>
+                                                    <td class="t-desc">52</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Machine Weight <span class="cm-bold">kg</span></td>
+                                                    <td class="t-desc">1900</td>
+                                                    <td class="t-desc">3200</td>
+                                                    <td class="t-desc">5400</td>
+                                                    <td class="t-desc">6700</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section>
+                <div class="bs-button">
+                    <div class="container">
+                        <div class="action-wrap">
+                            <a href="#" target="_blank" class="bs-btn btn-icon-link download-btn"><span class="icon icon-download"></span> download brochure</a>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <!-- footer start -->
+        <!--#include virtual="view/footer.html" -->
+        <!-- footer end -->
+    </footer>
+
+    <!-- popup start -->
+    <!--#include virtual="view/popup.html" -->
+    <!-- popup end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+
+</body>
+
+</html>

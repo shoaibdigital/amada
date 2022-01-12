@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Product</title>
+    <meta name="description" content="description goes here">
+    <link rel="canonical" href="url goes here" />
+
+    <meta property="og:url" content="url goes here" />
+    <meta property="og:title" content="title goes here" />
+    <meta property="og:description" content="description goes here" />
+    <meta property="og:image" content="img url goes here" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@PayUmoney" />
+    <meta name="twitter:title" content="title goes here" />
+    <meta name="twitter:description" content="description goes here" />
+    <meta name="twitter:url" content="url goes here" />
+    <meta name="twitter:image" content="img url goes here" />
+
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+
+</head>
+
+<body>
+    <header>
+        <!-- header start -->
+        <!--#include virtual="view/header.html" -->
+        <!-- header end -->
+    </header>
+
+    <main>
+        <div class="main lyt-content js-bg">
+            <div class="bs-breadcrum">
+                <div class="container">
+                    <ul class="list">
+                        <li class="item"><a href="#" class="link">amada</a></li>
+                        <li class="item"><a href="#" class="link">products</a></li>
+                        <li class="item"><a href="#" class="link">Automation</a></li>
+                        <li class="item">Fork Pallet Changer (ASF/ASFH)</li>
+                    </ul>
+                </div>
+            </div>
+            <section>
+                <div class="bs-section">
+                    <div class="container">
+                        <div class="bs-product-detail">
+                            <div class="pd-head">
+                                <ul class="bs-chain-info">
+                                    <li class="item">
+                                        <div class="bs-img-desc">
+                                            <div class="left-side">
+                                                <h2 class="title">Fork Pallet Changer (ASF/ASFH)</h2>
+                                                <p class="sub-title">Features</p>
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/products/auto/auto5.jpg"></div>
+                                                <div class="sec-desc">
+                                                    <ul class="mod-list-circle">
+                                                        <li>Multi storage system with packaged pallet and processing pallet (Pin holder)</li>
+                                                        <li>Various operation mode</li>
+                                                        <li>High speed processing (ASFH)</li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                            <div class="right-side">
+                                                <div class="img-wrap lozad-background" data-background-image="assets/images/products/auto/auto5.jpg"></div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    </li>
+                                </ul>
+
+                            </div>
+                            <div class="pd-body">
+                                <div class="bs-table">
+                                    <h3 class="title">Specifications</h3>
+                                    <div class="table-wrap">
+                                        <table class="table" cellpadding="0" cellspacing="0">
+                                            <thead>
+                                                <tr>
+                                                    <th class="t-title" colspan="2">Model</th>
+                                                    <th class="t-title">ASF-2412/ASFH-2412</th>
+                                                    <th class="t-title">ASF-3015/ASFH-3015</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td class="t-desc" rowspan="3">Processing pallet</td>
+                                                    <td class="t-desc">Maximum Size mm</td>
+                                                    <td class="t-desc">1250 x 2500</td>
+                                                    <td class="t-desc">1525 x 3050</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Minimum Size mm</td>
+                                                    <td class="t-desc" colspan="2">X=800</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Maximum payload mm</td>
+                                                    <td class="t-desc">620</td>
+                                                    <td class="t-desc">920</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc" rowspan="3">Packing Pallet</td>
+                                                    <td class="t-desc">Maximum Size mm</td>
+                                                    <td class="t-desc">1250 x 2500</td>
+                                                    <td class="t-desc">1525 x 3050</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Minimum Size mm</td>
+                                                    <td class="t-desc" colspan="2">915x915</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc">Maximum payload mm</td>
+                                                    <td class="t-desc" colspan="2">2000</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="t-desc" colspan="2">Air Requirement L/min(ANR)</td>
+                                                    <td class="t-desc" colspan="2">1700</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section>
+                <div class="bs-button">
+                    <div class="container">
+                        <div class="action-wrap">
+                            <a href="#" target="_blank" class="bs-btn btn-icon-link download-btn"><span class="icon icon-download"></span> download brochure</a>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <!-- footer start -->
+        <!--#include virtual="view/footer.html" -->
+        <!-- footer end -->
+    </footer>
+
+    <!-- popup start -->
+    <!--#include virtual="view/popup.html" -->
+    <!-- popup end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+
+</body>
+
+</html>

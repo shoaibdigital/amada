@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Enquiry</title>
+    <meta name="description" content="description goes here">
+    <link rel="canonical" href="url goes here" />
+
+    <meta property="og:url" content="url goes here" />
+    <meta property="og:title" content="title goes here" />
+    <meta property="og:description" content="description goes here" />
+    <meta property="og:image" content="img url goes here" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@PayUmoney" />
+    <meta name="twitter:title" content="title goes here" />
+    <meta name="twitter:description" content="description goes here" />
+    <meta name="twitter:url" content="url goes here" />
+    <meta name="twitter:image" content="img url goes here" />
+
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+
+</head>
+
+<body>
+    <header>
+        <!-- header start -->
+        <!--#include virtual="view/header.html" -->
+        <!-- header end -->
+    </header>
+
+    <main>
+        <div class="main lyt-content js-bg">
+            <!-- banner start -->
+            <!--#include virtual="view/enquiry-banner.html" -->
+            <!-- banner end -->
+            <div class="bs-breadcrum">
+                <div class="container">
+                    <ul class="list">
+                        <li class="item"><a href="#" class="link">amada</a></li>
+                        <li class="item"><a href="#" class="link">contact us</a></li>
+                        <li class="item">enquiry</li>
+                    </ul>
+                </div>
+            </div>
+            <section>
+                <div class="bs-section">
+                    <div class="container">
+                        <div class="sec-head">
+                            <h2 class="sec-title">Enquiry</h2>
+                        </div>
+                        <div class="sec-cont">
+                            <form class="lyt-form">
+                                <div class="bs-form">
+                                    <div class="form-wrap">
+                                        <ul class="row">
+                                            <li class="col-md-6 col-xs-12">
+                                                <div class="form-group">
+                                                    <label class="field-label typ-req">Customer Name</label>
+                                                    <input type="text" class="form-control" placeholder="Enter Customer Name" />
+                                                </div>
+                                            </li>
+                                            <li class="col-md-6 col-xs-12">
+                                                <div class="form-group">
+                                                    <label class="field-label typ-req">Email</label>
+                                                    <input type="text" class="form-control" placeholder="Enter Email" />
+                                                </div>
+                                            </li>
+                                            <li class="col-md-6 col-xs-12">
+                                                <div class="form-group">
+                                                    <label class="field-label typ-req">Contact Number</label>
+                                                    <input type="text" class="form-control" placeholder="Enter Contact Number" />
+                                                </div>
+                                            </li>
+                                            <li class="col-md-6 col-xs-12">
+                                                <div class="form-group">
+                                                    <label class="field-label typ-req">Company Name</label>
+                                                    <input type="text" class="form-control" placeholder="Enter Company Name" />
+                                                </div>
+                                            </li>
+                                            <li class="col-md-6 col-xs-12">
+                                                <div class="form-group">
+                                                    <label class="field-label typ-req">City</label>
+                                                    <input type="text" class="form-control" placeholder="Enter City" />
+                                                </div>
+                                            </li>
+                                            <li class="col-md-6 col-xs-12">
+                                                <div class="form-group">
+                                                    <label class="field-label typ-req">State</label>
+                                                    <input type="text" class="form-control" placeholder="Enter State" />
+                                                </div>
+                                            </li>
+                                            <li class="col-md-6 col-xs-12">
+                                                <div class="form-group">
+                                                    <label class="field-label">Machine of Interest</label>
+                                                    <div class="radio-wrap">
+                                                        <div class="bs-check">
+                                                            <input type="checkbox" name="machineInterest" id="punching" />
+                                                            <label for="punching"><span class="icon icon-uncheck"></span>Punching</label>
+                                                        </div>
+                                                        <div class="bs-check">
+                                                            <input type="checkbox" name="machineInterest" id="bending" />
+                                                            <label for="bending"><span class="icon icon-uncheck"></span>Bending</label>
+                                                        </div>
+                                                        <div class="bs-check">
+                                                            <input type="checkbox" name="machineInterest" id="laser" />
+                                                            <label for="laser"><span class="icon icon-uncheck"></span>Laser</label>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </li>
+                                            <li class="col-md-6 col-xs-12">
+                                                <div class="form-group">
+                                                    <label class="field-label typ-req">Material Thickness</label>
+                                                    <input type="text" class="form-control" placeholder="Enter Material Thickness" />
+                                                </div>
+                                            </li>
+                                            <li class="col-md-6 col-xs-12">
+                                                <div class="form-group">
+                                                    <label class="field-label">DXF/DWG File</label>
+                                                    <div class="bs-upload">
+                                                        <input type="file" id="resume" name="resume" class="file-input"/>
+                                                        <button class="bs-btn btn-icon-link"><span class="icon icon-upload"></span>Upload file</button>
+                                                        <span class="file-name js-file-name"></span>
+                                                    </div>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                    <div class="form-action">
+                                        <button class="bs-btn btn-default">submit</button>
+                                        <button class="bs-btn btn-icon-link">reset</button>
+                                    </div>
+                                </div>
+                            </form>
+                            
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <!-- footer start -->
+        <!--#include virtual="view/footer.html" -->
+        <!-- footer end -->
+    </footer>
+
+    <!-- popup start -->
+    <!--#include virtual="view/popup.html" -->
+    <!-- popup end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+
+</body>
+
+</html>

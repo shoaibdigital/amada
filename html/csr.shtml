@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Home</title>
+    <meta name="description" content="description goes here">
+    <link rel="canonical" href="url goes here" />
+
+    <meta property="og:url" content="url goes here" />
+    <meta property="og:title" content="title goes here" />
+    <meta property="og:description" content="description goes here" />
+    <meta property="og:image" content="img url goes here" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@PayUmoney" />
+    <meta name="twitter:title" content="title goes here" />
+    <meta name="twitter:description" content="description goes here" />
+    <meta name="twitter:url" content="url goes here" />
+    <meta name="twitter:image" content="img url goes here" />
+
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+
+</head>
+
+<body>
+    <header>
+        <!-- header start -->
+        <!--#include virtual="view/header.html" -->
+        <!-- header end -->
+    </header>
+
+    <main>
+        <div class="main lyt-content js-bg">
+            <!-- banner start -->
+            <!--#include virtual="view/csr-banner.html" -->
+            <!-- banner end -->
+            <div class="bs-breadcrum">
+                <div class="container">
+                    <ul class="list">
+                        <li class="item"><a href="#" class="link">amada</a></li>
+                        <li class="item"><a href="#" class="link">about us</a></li>
+                        <li class="item">corporate social responsibility</li>
+                    </ul>
+                </div>
+            </div>
+            <section>
+                <div class="bs-section">
+                    <div class="container">
+                        <div class="sec-cont">
+                            <div class="sec-desc">
+                                <p>Amada (India) Private Limited in association with Muse Creation a charity NGO of Japanese volunteers living in Bangalore, brings together the collective, creative talent of our Japanese community in Bangalore, to benefit
+                                    various charities, reaching out to the socially and economically underprivileged sections of the society both in rural and urban India.</p>
+                                <p>Amada (India) Private Limited in association with Muse Creation funded to three reliable charitable trusts</p>
+                            </div>
+                            <ul class="bs-chain-info typ-img-lg sec-first">
+                                <li class="item">
+                                    <div class="bs-img-desc">
+                                        <div class="left-side">
+                                            <h2 class="title">New Ark Mission - Home of Hope</h2>
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/csr/csr1.jpg">
+                                            </div>
+                                            <div class="sec-desc">
+                                                <p>An organization whose mission is Running home for destitute & dying people who are picked off the streets of Bangalore and Provide medical treatment and long-term rehabilitation & a dignified place to end
+                                                    their days.</p>
+                                            </div>
+                                        </div>
+                                        <div class="right-side">
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/csr/csr1.jpg">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="item">
+                                    <div class="bs-img-desc">
+                                        <div class="left-side">
+                                            <h2 class="title">Jagruthi Trust</h2>
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/csr/csr2.jpg">
+                                            </div>
+                                            <div class="sec-desc">
+                                                <p>A Non-governmental Child Care organization focusing on rescuing, rehabilitating and reintegrating needy children under “high risk behaviour” Operates 2 creches & 2 home care centre’s for children who are
+                                                    at risk/sexually exploited/abused or who have been infected/affected by HIV. It Conducts HIV awareness & education programs, drop-in health clinics, & outreach & service to commercially & sexually exploited
+                                                    people.
+                                                </p>
+                                            </div>
+                                        </div>
+                                        <div class="right-side">
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/csr/csr2.jpg">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="item">
+                                    <div class="bs-img-desc">
+                                        <div class="left-side">
+                                            <h2 class="title">One Billion Literates Foundation (OBLF)</h2>
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/csr/csr3.jpg">
+                                            </div>
+                                            <div class="sec-desc">
+                                                <p>An organization whose mission is to impart essential basic English & Computer skills to underprivileged children and the community around them by using the existing infrastructure of government schools</p>
+                                            </div>
+                                        </div>
+                                        <div class="right-side">
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/csr/csr3.jpg">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <!-- footer start -->
+        <!--#include virtual="view/footer.html" -->
+        <!-- footer end -->
+    </footer>
+
+    <!-- popup start -->
+    <!--#include virtual="view/popup.html" -->
+    <!-- popup end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+
+</body>
+
+</html>

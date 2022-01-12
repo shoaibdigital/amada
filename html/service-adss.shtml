@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Service ADSS</title>
+    <meta name="description" content="description goes here">
+    <link rel="canonical" href="url goes here" />
+
+    <meta property="og:url" content="url goes here" />
+    <meta property="og:title" content="title goes here" />
+    <meta property="og:description" content="description goes here" />
+    <meta property="og:image" content="img url goes here" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@PayUmoney" />
+    <meta name="twitter:title" content="title goes here" />
+    <meta name="twitter:description" content="description goes here" />
+    <meta name="twitter:url" content="url goes here" />
+    <meta name="twitter:image" content="img url goes here" />
+
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+
+</head>
+
+<body>
+    <header>
+        <!-- header start -->
+        <!--#include virtual="view/header.html" -->
+        <!-- header end -->
+    </header>
+
+    <main>
+        <div class="main lyt-content js-bg">
+            <!-- banner start -->
+            <!--#include virtual="view/service-adss-banner.html" -->
+            <!-- banner end -->
+            <div class="bs-breadcrum">
+                <div class="container">
+                    <ul class="list">
+                        <li class="item"><a href="#" class="link">amada</a></li>
+                        <li class="item"><a href="#" class="link">Services</a></li>
+                        <li class="item">Service ADSS</li>
+                    </ul>
+                </div>
+            </div>
+            <section>
+                <div class="bs-section">
+                    <div class="container">
+                        <div class="sec-head">
+                            <h2 class="sec-title">ADSS Services</h2>
+                        </div>
+                        <div class="sec-cont">
+                            <ul class="bs-chain-info">
+                                <li class="item">
+                                    <div class="bs-img-desc">
+                                        <div class="left-side">
+                                            <p class="sub-title">Remote Checkup</p>
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/services/remote-checkup.jpg">
+                                            </div>
+                                            <div class="sec-desc">
+                                                <ul class="mod-list">
+                                                    <li class="item">Remote checkup to test your machine health.</li>
+                                                    <li class="item">Based on monthly checkup report, we advice maintenance to keep your machine working at peak performance.</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="right-side">
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/services/remote-checkup.jpg">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="item">
+                                    <div class="bs-img-desc">
+                                        <div class="left-side">
+                                            <p class="sub-title">Remote Analysis</p>
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/services/remote-analysis.jpg">
+                                            </div>
+                                            <div class="sec-desc">
+                                                <ul class="mod-list">
+                                                    <li class="item">Remote analysis helps quick recovery from the failure condition.</li>
+                                                    <li class="item">Amada analysis team determines the cause of a failure by analyzing your machine operation logs.</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="right-side">
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/services/remote-analysis.jpg">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="item">
+                                    <div class="bs-img-desc">
+                                        <div class="left-side">
+                                            <p class="sub-title">Alarm Monitoring</p>
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/services/alarm-monitoring.jpg">
+                                            </div>
+                                            <div class="sec-desc">
+                                                <ul class="mod-list">
+                                                    <li class="item">Alarm monitoring allows us to detect problems beforhand</li>
+                                                    <li class="item">This helps prevent more serious problems and machine stop that require unplanned maintenance.</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="right-side">
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/services/alarm-monitoring.jpg">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="item">
+                                    <div class="bs-img-desc">
+                                        <div class="left-side">
+                                            <p class="sub-title">Operation Status Report</p>
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/services/opertaion-status-reports.jpg">
+                                            </div>
+                                            <div class="sec-desc">
+                                                <p>Operation report provides overview of your machine operation in the previous month based on remotely collected data.</p>
+                                            </div>
+                                        </div>
+                                        <div class="right-side">
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/services/opertaion-status-reports.jpg">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <!-- footer start -->
+        <!--#include virtual="view/footer.html" -->
+        <!-- footer end -->
+    </footer>
+
+    <!-- popup start -->
+    <!--#include virtual="view/popup.html" -->
+    <!-- popup end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+
+</body>
+
+</html>

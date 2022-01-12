@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Customer Details</title>
+    <meta name="description" content="description goes here">
+    <link rel="canonical" href="url goes here" />
+
+    <meta property="og:url" content="url goes here" />
+    <meta property="og:title" content="title goes here" />
+    <meta property="og:description" content="description goes here" />
+    <meta property="og:image" content="img url goes here" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@PayUmoney" />
+    <meta name="twitter:title" content="title goes here" />
+    <meta name="twitter:description" content="description goes here" />
+    <meta name="twitter:url" content="url goes here" />
+    <meta name="twitter:image" content="img url goes here" />
+
+    <!-- css group start -->
+    <!--#include virtual="view/include_css.html" -->
+    <!-- css group end -->
+
+</head>
+
+<body>
+    <header>
+        <!-- header start -->
+        <!--#include virtual="view/header.html" -->
+        <!-- header end -->
+    </header>
+
+    <main>
+        <div class="main lyt-content js-bg">
+            <!-- banner start -->
+            <!--#include virtual="view/customer-details-banner.html" -->
+            <!-- banner end -->
+            <div class="bs-breadcrum">
+                <div class="container">
+                    <ul class="list">
+                        <li class="item"><a href="#" class="link">amada</a></li>
+                        <li class="item"><a href="#" class="link">about us</a></li>
+                        <li class="item">customer details</li>
+                    </ul>
+                </div>
+            </div>
+            <section>
+                <div class="bs-section">
+                    <div class="container">
+                        <div class="sec-cont">
+                            <div class="sec-desc">
+                                <p>Our customers include the best and largest in each industry. We attain great pleasure in taking their reference. Following is a list of few industry who are our customers</p>
+                            </div>
+                            <div class="bs-client-card">
+                                <ul class="list">
+                                    <li class="item">
+                                        <div class="bs-prod-card">
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/customer/genset.jpg">
+                                            </div>
+                                            <div class="info-wrap">
+                                                <h3 class="title">DG Set <span class="cm-line-break">Manufacturers</span></h3>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="item">
+                                        <div class="bs-prod-card">
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/customer/tools.jpg">
+                                            </div>
+                                            <div class="info-wrap">
+                                                <h3 class="title">Jobshop <span class="cm-line-break">Manufacturers</span></h3>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="item">
+                                        <div class="bs-prod-card">
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/customer/medical.jpg">
+                                            </div>
+                                            <div class="info-wrap">
+                                                <h3 class="title">Medical Equipment <span class="cm-line-break">Manufacturers</span></h3>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="item">
+                                        <div class="bs-prod-card">
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/customer/electricity.jpg">
+                                            </div>
+                                            <div class="info-wrap">
+                                                <h3 class="title">Control Panel <span class="cm-line-break">& Switchgear</span> <span class="cm-line-break">Manufacturers</span></h3>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="item">
+                                        <div class="bs-prod-card">
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/customer/water-machine.jpg">
+                                            </div>
+                                            <div class="info-wrap">
+                                                <h3 class="title">Air Conditioning <span class="cm-line-break">& Refrigeration</span></h3>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="item">
+                                        <div class="bs-prod-card">
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/customer/hotel.jpg">
+                                            </div>
+                                            <div class="info-wrap">
+                                                <h3 class="title">Lighting Fixture <span class="cm-line-break">Manufacturers</span></h3>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="item">
+                                        <div class="bs-prod-card">
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/customer/lift.jpg">
+                                            </div>
+                                            <div class="info-wrap">
+                                                <h3 class="title">Elevator <span class="cm-line-break">Manufacturers</span></h3>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="item">
+                                        <div class="bs-prod-card">
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/customer/agriculture.jpg">
+                                            </div>
+                                            <div class="info-wrap">
+                                                <h3 class="title">Machine <span class="cm-line-break">Builders</span></h3>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="item">
+                                        <div class="bs-prod-card">
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/customer/machine.jpg">
+                                            </div>
+                                            <div class="info-wrap">
+                                                <h3 class="title">Furniture <span class="cm-line-break">Manufacturers</span></h3>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="item">
+                                        <div class="bs-prod-card">
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/customer/construction.jpg">
+                                            </div>
+                                            <div class="info-wrap">
+                                                <h3 class="title">Construction & <span class="cm-line-break">Agricultural Machinery</span> <span class="cm-line-break">& equipment</span></h3>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="item">
+                                        <div class="bs-prod-card">
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/customer/kitchen.jpg">
+                                            </div>
+                                            <div class="info-wrap">
+                                                <h3 class="title">Kitchen <span class="cm-line-break">Equipment</span></h3>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="item">
+                                        <div class="bs-prod-card">
+                                            <div class="img-wrap">
+                                                <img class="lozad" data-src="assets/images/customer/airospace.jpg">
+                                            </div>
+                                            <div class="info-wrap">
+                                                <h3 class="title">Aerospace <span class="cm-line-break">Industry</span></h3>
+                                            </div>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <!-- footer start -->
+        <!--#include virtual="view/footer.html" -->
+        <!-- footer end -->
+    </footer>
+
+    <!-- popup start -->
+    <!--#include virtual="view/popup.html" -->
+    <!-- popup end -->
+
+    <!-- js group start -->
+    <!--#include virtual="view/include_js.html" -->
+    <!-- js group end -->
+
+</body>
+
+</html>

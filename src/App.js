@@ -3,6 +3,7 @@ import routes from "./Routes";
 import {BrowserRouter as Router,Route,Switch} from "react-router-dom"
 import CareerForm from "./Components/CareerForm";
 import Homepage from "./Pages/Homepage";
+import Navbar from "./Components/Navbar";
 
 
 
@@ -10,7 +11,16 @@ function App() {
   
   return (
     <>
- <Router>
+    <Navbar/>
+</>
+  );
+}
+
+export default App;
+
+
+
+{/* <Router>
 <Switch>
 {
   routes.map((route)=>{
@@ -22,16 +32,7 @@ function App() {
   })
 }
 </Switch>
-</Router>      
-</>
-  );
-}
-
-export default App;
-
-
-
-
+</Router>   */}
 
 
 

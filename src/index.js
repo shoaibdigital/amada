@@ -4,6 +4,7 @@ import "./index.css";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 import "./assets/scss/custom.scss";
+import "./assets/css/custom.css"
 import "../node_modules/bootstrap/dist/css/bootstrap.min.css"
 import "swiper/css"
 import "swiper/css/bundle"
